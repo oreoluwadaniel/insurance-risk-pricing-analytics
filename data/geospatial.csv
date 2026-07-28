@@ -1,0 +1,3001 @@
+location,crime_rate,flood_risk,weather_severity_index
+"Berlin, Germany",0.459,0.172,0.776
+"Berlin, Germany",0.77,0.215,0.394
+"Dubai, UAE",0.128,0.538,0.117
+"Berlin, Germany",0.655,0.291,0.84
+"New York, USA",0.501,0.46,0.934
+"Dubai, UAE",0.732,0.426,0.617
+"Lagos, Nigeria",0.309,0.556,0.208
+"London, UK",0.806,0.367,0.242
+"New York, USA",0.337,0.468,0.871
+"Dubai, UAE",0.861,0.566,0.697
+"Dubai, UAE",0.612,0.575,0.321
+"New York, USA",0.258,0.474,0.268
+Singapore,0.721,0.671,0.363
+"Berlin, Germany",0.528,0.412,0.377
+"Dubai, UAE",0.426,0.73,0.836
+"New York, USA",0.478,0.888,0.907
+Singapore,0.419,0.707,0.327
+"Johannesburg, South Africa",0.666,0.724,0.273
+"London, UK",0.307,0.798,0.598
+"Lagos, Nigeria",0.51,0.183,0.611
+"Berlin, Germany",0.704,0.549,0.304
+"Berlin, Germany",0.215,0.638,0.836
+"Johannesburg, South Africa",0.333,0.832,0.928
+"London, UK",0.271,0.767,0.173
+"New York, USA",0.558,0.411,0.783
+Singapore,0.43,0.35,0.551
+"London, UK",0.359,0.337,0.276
+"Toronto, Canada",0.386,0.3,0.486
+"Lagos, Nigeria",0.476,0.347,0.556
+"Johannesburg, South Africa",0.435,0.687,0.627
+"Lagos, Nigeria",0.665,0.192,0.13
+"London, UK",0.654,0.688,0.727
+Singapore,0.121,0.255,0.558
+"Dubai, UAE",0.668,0.599,0.676
+"Dubai, UAE",0.278,0.577,0.865
+"Lagos, Nigeria",0.436,0.574,0.609
+"Lagos, Nigeria",0.278,0.349,0.906
+"Dubai, UAE",0.195,0.22,0.814
+"New York, USA",0.567,0.734,0.667
+"Berlin, Germany",0.861,0.293,0.623
+Singapore,0.398,0.164,0.489
+"Berlin, Germany",0.643,0.227,0.892
+"Berlin, Germany",0.462,0.191,0.472
+"London, UK",0.245,0.672,0.119
+"London, UK",0.837,0.696,0.13
+"Berlin, Germany",0.46,0.37,0.933
+"Johannesburg, South Africa",0.107,0.712,0.207
+Singapore,0.465,0.771,0.808
+"Johannesburg, South Africa",0.105,0.482,0.865
+"Toronto, Canada",0.735,0.762,0.596
+"Toronto, Canada",0.394,0.503,0.856
+"New York, USA",0.592,0.747,0.196
+"London, UK",0.713,0.453,0.999
+"Berlin, Germany",0.122,0.147,0.638
+"Toronto, Canada",0.514,0.276,0.868
+"Berlin, Germany",0.61,0.343,0.346
+"Lagos, Nigeria",0.477,0.452,0.38
+"Toronto, Canada",0.345,0.48,0.238
+"Berlin, Germany",0.471,0.88,0.745
+"London, UK",0.415,0.48,0.121
+"Johannesburg, South Africa",0.589,0.397,0.197
+"London, UK",0.475,0.389,0.256
+"Lagos, Nigeria",0.204,0.809,0.722
+"Lagos, Nigeria",0.167,0.408,0.689
+"New York, USA",0.231,0.728,0.659
+"Berlin, Germany",0.152,0.299,0.471
+Singapore,0.303,0.443,0.941
+"Toronto, Canada",0.156,0.559,0.967
+"Johannesburg, South Africa",0.583,0.552,0.433
+"Toronto, Canada",0.456,0.564,0.574
+Singapore,0.304,0.693,0.725
+"Dubai, UAE",0.11,0.508,0.341
+"Dubai, UAE",0.217,0.247,0.787
+"Toronto, Canada",0.633,0.565,0.793
+"New York, USA",0.3,0.338,0.551
+"Berlin, Germany",0.366,0.34,0.474
+"Lagos, Nigeria",0.161,0.203,0.677
+"New York, USA",0.539,0.828,0.115
+"Lagos, Nigeria",0.743,0.152,0.87
+Singapore,0.383,0.13,0.878
+"New York, USA",0.192,0.68,0.555
+"New York, USA",0.863,0.664,0.115
+"Toronto, Canada",0.509,0.38,0.434
+"Johannesburg, South Africa",0.172,0.692,0.51
+"New York, USA",0.498,0.49,0.856
+"Toronto, Canada",0.136,0.683,0.131
+"Johannesburg, South Africa",0.144,0.537,0.557
+"Dubai, UAE",0.355,0.686,0.514
+"Toronto, Canada",0.642,0.718,0.3
+"Johannesburg, South Africa",0.664,0.327,0.319
+"Toronto, Canada",0.821,0.408,0.623
+"London, UK",0.186,0.504,0.972
+"Johannesburg, South Africa",0.471,0.252,0.814
+"Dubai, UAE",0.481,0.876,0.55
+"Johannesburg, South Africa",0.469,0.839,0.617
+Singapore,0.773,0.722,0.617
+Singapore,0.749,0.259,0.731
+"Toronto, Canada",0.506,0.462,0.404
+"Dubai, UAE",0.723,0.842,0.708
+"Berlin, Germany",0.147,0.59,0.329
+Singapore,0.526,0.408,0.823
+"Berlin, Germany",0.176,0.173,0.946
+"New York, USA",0.794,0.18,0.605
+"Lagos, Nigeria",0.503,0.643,0.164
+Singapore,0.114,0.349,0.741
+"Berlin, Germany",0.54,0.497,0.935
+"Dubai, UAE",0.69,0.701,0.95
+Singapore,0.208,0.246,0.92
+"Johannesburg, South Africa",0.326,0.162,0.607
+"Lagos, Nigeria",0.459,0.401,0.926
+"Toronto, Canada",0.432,0.23,0.341
+"Lagos, Nigeria",0.502,0.508,0.229
+"Toronto, Canada",0.113,0.542,0.529
+"Johannesburg, South Africa",0.691,0.188,0.128
+"London, UK",0.352,0.734,0.17
+"Dubai, UAE",0.661,0.119,0.641
+"New York, USA",0.784,0.375,0.734
+Singapore,0.65,0.137,0.225
+"Lagos, Nigeria",0.638,0.666,0.407
+"Lagos, Nigeria",0.563,0.803,0.827
+"Dubai, UAE",0.101,0.379,0.281
+Singapore,0.823,0.363,0.902
+"Lagos, Nigeria",0.767,0.655,0.605
+"New York, USA",0.256,0.797,0.634
+"London, UK",0.244,0.81,0.235
+"New York, USA",0.129,0.567,0.155
+Singapore,0.404,0.575,0.426
+"Berlin, Germany",0.888,0.595,0.185
+Singapore,0.178,0.506,0.19
+Singapore,0.552,0.525,0.954
+"New York, USA",0.312,0.176,0.161
+"Berlin, Germany",0.789,0.886,0.495
+"Johannesburg, South Africa",0.506,0.15,0.78
+"Lagos, Nigeria",0.783,0.484,0.356
+"Johannesburg, South Africa",0.844,0.728,0.548
+"London, UK",0.607,0.566,0.424
+"Toronto, Canada",0.326,0.177,0.742
+"London, UK",0.459,0.544,0.649
+"Johannesburg, South Africa",0.605,0.824,0.378
+"Johannesburg, South Africa",0.621,0.598,0.668
+"Johannesburg, South Africa",0.154,0.723,0.103
+"Berlin, Germany",0.38,0.47,0.704
+"London, UK",0.526,0.35,0.804
+"Johannesburg, South Africa",0.369,0.26,0.106
+"Johannesburg, South Africa",0.562,0.779,0.695
+"Dubai, UAE",0.241,0.665,0.595
+"Johannesburg, South Africa",0.128,0.242,0.355
+"Lagos, Nigeria",0.373,0.541,0.278
+"New York, USA",0.555,0.668,0.962
+"Berlin, Germany",0.109,0.554,0.533
+"Berlin, Germany",0.589,0.86,0.512
+"Johannesburg, South Africa",0.384,0.248,0.862
+"Berlin, Germany",0.894,0.671,0.444
+"Lagos, Nigeria",0.726,0.593,0.825
+Singapore,0.333,0.835,0.611
+"London, UK",0.877,0.79,0.29
+"Johannesburg, South Africa",0.323,0.619,0.416
+"Berlin, Germany",0.187,0.449,0.121
+Singapore,0.121,0.231,0.496
+Singapore,0.727,0.742,0.943
+"Toronto, Canada",0.355,0.76,0.669
+"Berlin, Germany",0.887,0.39,0.62
+"London, UK",0.595,0.281,0.883
+"London, UK",0.231,0.845,0.21
+"Johannesburg, South Africa",0.369,0.475,0.817
+Singapore,0.51,0.689,0.728
+Singapore,0.677,0.597,0.577
+"Johannesburg, South Africa",0.573,0.66,0.447
+"Johannesburg, South Africa",0.308,0.115,0.132
+"Toronto, Canada",0.481,0.601,0.656
+"New York, USA",0.273,0.54,0.612
+"Berlin, Germany",0.38,0.703,0.356
+"London, UK",0.328,0.85,0.347
+"Toronto, Canada",0.819,0.764,0.422
+"Toronto, Canada",0.73,0.454,0.49
+"Lagos, Nigeria",0.525,0.576,0.764
+"London, UK",0.239,0.291,0.561
+"Dubai, UAE",0.575,0.102,0.235
+"Johannesburg, South Africa",0.384,0.216,0.902
+"London, UK",0.13,0.158,0.531
+"London, UK",0.651,0.7,0.908
+"Lagos, Nigeria",0.305,0.25,0.652
+"Dubai, UAE",0.287,0.189,0.612
+"Toronto, Canada",0.631,0.328,0.401
+Singapore,0.797,0.847,0.974
+"Toronto, Canada",0.326,0.32,0.985
+Singapore,0.722,0.626,0.427
+"New York, USA",0.809,0.767,0.811
+"Toronto, Canada",0.269,0.763,0.343
+"Dubai, UAE",0.834,0.855,0.652
+"London, UK",0.326,0.39,0.704
+"Lagos, Nigeria",0.274,0.49,0.986
+"Dubai, UAE",0.389,0.29,0.359
+"Dubai, UAE",0.283,0.152,0.735
+"Dubai, UAE",0.558,0.883,0.321
+"New York, USA",0.478,0.793,0.133
+"Toronto, Canada",0.636,0.352,0.357
+Singapore,0.679,0.732,0.808
+"Lagos, Nigeria",0.165,0.764,0.943
+"Johannesburg, South Africa",0.223,0.296,0.124
+"Berlin, Germany",0.732,0.847,0.201
+"Toronto, Canada",0.153,0.356,0.433
+"Lagos, Nigeria",0.627,0.554,0.507
+"London, UK",0.631,0.738,0.935
+"Dubai, UAE",0.69,0.572,0.119
+"Dubai, UAE",0.275,0.308,0.864
+"Berlin, Germany",0.221,0.846,0.563
+"New York, USA",0.46,0.103,0.293
+"New York, USA",0.134,0.52,0.277
+"London, UK",0.773,0.136,0.145
+"Lagos, Nigeria",0.697,0.624,0.322
+"Berlin, Germany",0.808,0.134,0.977
+"Toronto, Canada",0.156,0.145,0.818
+"London, UK",0.837,0.495,0.966
+"Dubai, UAE",0.705,0.65,0.24
+"Dubai, UAE",0.19,0.437,0.594
+"London, UK",0.184,0.831,0.939
+Singapore,0.82,0.842,0.694
+"London, UK",0.473,0.459,0.118
+"London, UK",0.899,0.582,0.163
+Singapore,0.608,0.883,0.48
+"Johannesburg, South Africa",0.65,0.757,0.446
+"Toronto, Canada",0.474,0.207,0.901
+Singapore,0.45,0.157,0.802
+"London, UK",0.741,0.555,0.219
+"New York, USA",0.459,0.774,0.181
+"New York, USA",0.499,0.706,0.88
+"Dubai, UAE",0.413,0.601,0.505
+Singapore,0.257,0.768,0.252
+"London, UK",0.779,0.204,0.909
+"Dubai, UAE",0.277,0.477,0.748
+"Lagos, Nigeria",0.341,0.731,0.248
+Singapore,0.574,0.228,0.646
+"New York, USA",0.361,0.399,0.522
+"Berlin, Germany",0.383,0.467,0.331
+"Dubai, UAE",0.103,0.16,0.632
+"Lagos, Nigeria",0.741,0.118,0.496
+"Johannesburg, South Africa",0.496,0.506,0.605
+"London, UK",0.257,0.826,0.364
+"Toronto, Canada",0.67,0.182,0.753
+"Dubai, UAE",0.625,0.204,0.484
+"Lagos, Nigeria",0.401,0.146,0.832
+"Berlin, Germany",0.563,0.39,0.647
+"Dubai, UAE",0.633,0.415,0.319
+"Lagos, Nigeria",0.15,0.887,0.407
+"New York, USA",0.434,0.758,0.358
+"New York, USA",0.52,0.392,0.423
+Singapore,0.679,0.405,0.254
+Singapore,0.405,0.433,0.528
+Singapore,0.237,0.572,0.144
+"Toronto, Canada",0.172,0.801,0.413
+"Johannesburg, South Africa",0.747,0.284,0.484
+"Dubai, UAE",0.483,0.296,0.788
+"Dubai, UAE",0.283,0.892,0.876
+"Lagos, Nigeria",0.744,0.491,0.796
+"Dubai, UAE",0.75,0.648,0.174
+"Dubai, UAE",0.621,0.747,0.696
+"Toronto, Canada",0.196,0.491,0.867
+"Lagos, Nigeria",0.343,0.113,0.576
+"London, UK",0.806,0.7,0.942
+"Lagos, Nigeria",0.197,0.566,0.895
+"Dubai, UAE",0.66,0.802,0.89
+"Johannesburg, South Africa",0.305,0.741,0.968
+"Lagos, Nigeria",0.127,0.416,0.789
+"London, UK",0.651,0.134,0.717
+"Berlin, Germany",0.312,0.54,0.777
+"Johannesburg, South Africa",0.694,0.885,0.422
+"New York, USA",0.394,0.237,0.108
+"Lagos, Nigeria",0.276,0.506,0.14
+"Johannesburg, South Africa",0.828,0.196,0.867
+"Toronto, Canada",0.384,0.851,0.469
+"London, UK",0.832,0.762,0.426
+Singapore,0.869,0.53,0.651
+"Berlin, Germany",0.425,0.611,0.226
+"New York, USA",0.675,0.617,0.59
+"New York, USA",0.417,0.863,0.852
+"Toronto, Canada",0.625,0.877,0.483
+"Berlin, Germany",0.717,0.632,0.566
+"Toronto, Canada",0.611,0.335,0.248
+"New York, USA",0.332,0.612,0.763
+"Dubai, UAE",0.347,0.545,0.606
+Singapore,0.789,0.731,0.597
+"Lagos, Nigeria",0.551,0.791,0.303
+"London, UK",0.821,0.61,0.926
+"London, UK",0.435,0.513,0.41
+"Toronto, Canada",0.311,0.786,0.965
+"Lagos, Nigeria",0.587,0.457,0.408
+"New York, USA",0.812,0.482,0.91
+"London, UK",0.501,0.114,0.603
+"London, UK",0.322,0.158,0.158
+"Toronto, Canada",0.277,0.444,0.959
+"Johannesburg, South Africa",0.459,0.106,0.399
+Singapore,0.783,0.263,0.833
+"Berlin, Germany",0.329,0.644,0.609
+"London, UK",0.543,0.603,0.32
+"Dubai, UAE",0.238,0.553,0.226
+"Toronto, Canada",0.694,0.76,0.311
+"New York, USA",0.467,0.389,0.59
+"London, UK",0.291,0.628,0.557
+Singapore,0.704,0.616,0.343
+"Toronto, Canada",0.682,0.627,0.241
+"Johannesburg, South Africa",0.127,0.639,0.416
+Singapore,0.453,0.742,0.243
+"Johannesburg, South Africa",0.574,0.587,0.556
+"Johannesburg, South Africa",0.305,0.801,0.49
+"Berlin, Germany",0.145,0.442,0.504
+"Lagos, Nigeria",0.327,0.879,0.335
+"London, UK",0.794,0.127,0.184
+"Toronto, Canada",0.371,0.207,0.628
+"Lagos, Nigeria",0.729,0.167,0.977
+"Berlin, Germany",0.662,0.451,0.702
+Singapore,0.867,0.57,0.899
+"Dubai, UAE",0.798,0.454,0.187
+"London, UK",0.853,0.268,0.155
+"Toronto, Canada",0.119,0.286,0.789
+"Lagos, Nigeria",0.338,0.746,0.509
+"Johannesburg, South Africa",0.798,0.143,0.844
+"New York, USA",0.398,0.893,0.533
+"New York, USA",0.142,0.677,0.167
+"Toronto, Canada",0.843,0.837,0.508
+"Lagos, Nigeria",0.462,0.246,0.699
+"New York, USA",0.141,0.547,0.565
+"London, UK",0.327,0.523,0.295
+"Toronto, Canada",0.785,0.597,0.932
+"Berlin, Germany",0.732,0.722,0.699
+Singapore,0.898,0.671,0.574
+"Dubai, UAE",0.452,0.414,0.527
+"Johannesburg, South Africa",0.342,0.795,0.651
+"London, UK",0.207,0.111,0.518
+"Johannesburg, South Africa",0.338,0.303,0.378
+"Toronto, Canada",0.26,0.516,0.45
+Singapore,0.634,0.787,0.273
+"New York, USA",0.713,0.419,0.785
+"Berlin, Germany",0.743,0.721,0.826
+"Johannesburg, South Africa",0.702,0.312,0.761
+"London, UK",0.492,0.875,0.517
+"Dubai, UAE",0.414,0.112,0.293
+"Lagos, Nigeria",0.18,0.241,0.966
+"Berlin, Germany",0.563,0.118,0.794
+"Dubai, UAE",0.462,0.114,0.798
+"New York, USA",0.295,0.825,0.662
+Singapore,0.742,0.321,0.354
+"Johannesburg, South Africa",0.669,0.287,0.265
+"Dubai, UAE",0.555,0.314,0.201
+Singapore,0.26,0.742,0.661
+"Berlin, Germany",0.556,0.349,0.261
+"New York, USA",0.263,0.574,0.438
+"Johannesburg, South Africa",0.686,0.787,0.838
+"Toronto, Canada",0.238,0.355,0.361
+"Dubai, UAE",0.692,0.217,0.339
+"London, UK",0.533,0.154,0.746
+Singapore,0.881,0.551,0.569
+"Dubai, UAE",0.474,0.585,0.606
+"Toronto, Canada",0.292,0.797,0.216
+"Berlin, Germany",0.772,0.479,0.357
+"Toronto, Canada",0.564,0.794,0.432
+"London, UK",0.529,0.512,0.973
+"Berlin, Germany",0.184,0.572,0.137
+"Toronto, Canada",0.405,0.53,0.87
+"Dubai, UAE",0.104,0.34,0.213
+"Toronto, Canada",0.272,0.775,0.989
+"Johannesburg, South Africa",0.52,0.807,0.274
+"Toronto, Canada",0.479,0.779,0.36
+"Johannesburg, South Africa",0.554,0.186,0.847
+"Johannesburg, South Africa",0.794,0.633,0.422
+"Johannesburg, South Africa",0.308,0.455,0.683
+"Johannesburg, South Africa",0.642,0.178,0.626
+"Johannesburg, South Africa",0.541,0.149,0.718
+"Lagos, Nigeria",0.756,0.658,0.841
+"Johannesburg, South Africa",0.314,0.418,0.369
+"Johannesburg, South Africa",0.892,0.406,0.886
+Singapore,0.631,0.27,0.978
+"Berlin, Germany",0.132,0.582,0.705
+Singapore,0.104,0.219,0.609
+"London, UK",0.794,0.103,0.985
+"Berlin, Germany",0.309,0.111,0.182
+"Dubai, UAE",0.29,0.394,0.446
+"Berlin, Germany",0.54,0.675,0.312
+"Toronto, Canada",0.236,0.582,0.174
+"New York, USA",0.331,0.301,0.878
+"Toronto, Canada",0.513,0.182,0.409
+"New York, USA",0.886,0.389,0.224
+"Johannesburg, South Africa",0.223,0.817,0.445
+"Lagos, Nigeria",0.134,0.378,0.442
+Singapore,0.666,0.196,0.214
+"Lagos, Nigeria",0.593,0.813,0.579
+"New York, USA",0.351,0.359,0.192
+"Toronto, Canada",0.324,0.718,0.282
+"Johannesburg, South Africa",0.794,0.318,0.751
+"Toronto, Canada",0.357,0.795,0.373
+Singapore,0.574,0.165,0.681
+Singapore,0.44,0.303,0.29
+"Berlin, Germany",0.522,0.682,0.576
+Singapore,0.811,0.416,0.193
+"Berlin, Germany",0.458,0.54,0.139
+"Lagos, Nigeria",0.76,0.322,0.595
+"Berlin, Germany",0.582,0.389,0.8
+"Berlin, Germany",0.391,0.585,0.733
+"Berlin, Germany",0.12,0.734,0.796
+"Lagos, Nigeria",0.634,0.814,0.536
+"Berlin, Germany",0.657,0.387,0.727
+"New York, USA",0.894,0.604,0.173
+"London, UK",0.669,0.498,0.852
+"London, UK",0.756,0.625,0.405
+"Berlin, Germany",0.234,0.597,0.887
+"Berlin, Germany",0.71,0.596,0.62
+Singapore,0.382,0.449,0.19
+"Johannesburg, South Africa",0.884,0.335,0.477
+Singapore,0.461,0.437,0.824
+"Berlin, Germany",0.472,0.77,0.318
+Singapore,0.498,0.374,0.264
+Singapore,0.346,0.789,0.116
+"New York, USA",0.404,0.233,0.72
+"Lagos, Nigeria",0.414,0.543,0.438
+"Johannesburg, South Africa",0.51,0.187,0.258
+"London, UK",0.213,0.454,0.641
+"Johannesburg, South Africa",0.578,0.876,0.229
+Singapore,0.531,0.601,0.752
+Singapore,0.886,0.114,0.625
+"Toronto, Canada",0.8,0.758,0.322
+"Berlin, Germany",0.47,0.5,0.887
+Singapore,0.658,0.637,0.603
+"Toronto, Canada",0.624,0.614,0.216
+"Dubai, UAE",0.288,0.251,0.747
+"New York, USA",0.366,0.424,0.383
+"Dubai, UAE",0.127,0.272,0.797
+"Lagos, Nigeria",0.177,0.243,0.461
+"Toronto, Canada",0.348,0.546,0.168
+"Berlin, Germany",0.722,0.263,0.667
+"Berlin, Germany",0.673,0.261,0.379
+"New York, USA",0.871,0.601,0.948
+"Dubai, UAE",0.393,0.422,0.847
+"Berlin, Germany",0.374,0.262,0.418
+"Toronto, Canada",0.182,0.407,0.123
+"Lagos, Nigeria",0.73,0.564,0.584
+"Johannesburg, South Africa",0.232,0.579,0.681
+"Berlin, Germany",0.863,0.818,0.714
+"Berlin, Germany",0.353,0.844,0.414
+"Toronto, Canada",0.618,0.262,0.227
+"Lagos, Nigeria",0.46,0.492,0.603
+"Toronto, Canada",0.279,0.456,0.539
+"New York, USA",0.465,0.714,0.995
+"Berlin, Germany",0.361,0.254,0.617
+"London, UK",0.6,0.281,0.263
+Singapore,0.541,0.227,0.425
+Singapore,0.166,0.686,0.578
+"New York, USA",0.158,0.282,0.854
+"Dubai, UAE",0.872,0.436,0.533
+"Dubai, UAE",0.341,0.308,0.82
+"Dubai, UAE",0.172,0.886,0.24
+"London, UK",0.245,0.618,0.444
+"Toronto, Canada",0.224,0.329,0.567
+"London, UK",0.268,0.193,0.121
+"Lagos, Nigeria",0.138,0.451,0.783
+"Johannesburg, South Africa",0.258,0.245,0.849
+"Berlin, Germany",0.853,0.234,0.392
+"Lagos, Nigeria",0.558,0.336,0.962
+"Johannesburg, South Africa",0.36,0.873,0.758
+"Lagos, Nigeria",0.732,0.42,0.847
+"Toronto, Canada",0.817,0.268,0.689
+"Lagos, Nigeria",0.157,0.363,0.837
+"London, UK",0.375,0.482,0.985
+"Dubai, UAE",0.755,0.157,0.865
+Singapore,0.586,0.344,0.526
+Singapore,0.646,0.215,0.673
+"New York, USA",0.548,0.172,0.622
+"Dubai, UAE",0.166,0.827,0.558
+"New York, USA",0.781,0.327,0.793
+"New York, USA",0.291,0.267,0.495
+"London, UK",0.183,0.66,0.379
+"Berlin, Germany",0.372,0.146,0.138
+"London, UK",0.696,0.879,0.179
+"New York, USA",0.804,0.888,0.299
+"Johannesburg, South Africa",0.62,0.712,0.239
+"Berlin, Germany",0.386,0.89,0.126
+"Toronto, Canada",0.683,0.305,0.726
+"London, UK",0.713,0.304,0.784
+"Lagos, Nigeria",0.838,0.795,0.419
+"Johannesburg, South Africa",0.195,0.586,0.988
+Singapore,0.212,0.678,0.629
+"Lagos, Nigeria",0.449,0.111,0.19
+"Lagos, Nigeria",0.372,0.471,0.428
+"London, UK",0.718,0.323,0.624
+"Toronto, Canada",0.571,0.223,0.96
+"Berlin, Germany",0.177,0.515,0.714
+"London, UK",0.528,0.322,0.108
+"London, UK",0.328,0.535,0.703
+"London, UK",0.426,0.163,0.69
+"Berlin, Germany",0.165,0.738,0.876
+"Toronto, Canada",0.128,0.86,0.218
+Singapore,0.872,0.604,0.826
+"London, UK",0.693,0.214,0.888
+"Johannesburg, South Africa",0.623,0.699,0.822
+"Johannesburg, South Africa",0.641,0.803,0.469
+"Dubai, UAE",0.61,0.393,0.722
+"New York, USA",0.403,0.511,0.836
+"Berlin, Germany",0.498,0.151,0.952
+"Dubai, UAE",0.84,0.538,0.401
+"Toronto, Canada",0.397,0.138,0.287
+"New York, USA",0.253,0.382,0.781
+"London, UK",0.143,0.323,0.188
+"Dubai, UAE",0.308,0.246,0.606
+"Dubai, UAE",0.205,0.782,0.874
+"New York, USA",0.621,0.583,0.301
+"Lagos, Nigeria",0.289,0.642,0.449
+"Dubai, UAE",0.366,0.494,0.842
+"Toronto, Canada",0.177,0.698,0.552
+"Dubai, UAE",0.448,0.396,0.26
+"Dubai, UAE",0.864,0.453,0.176
+"Dubai, UAE",0.451,0.167,0.602
+"Johannesburg, South Africa",0.701,0.356,0.12
+"Dubai, UAE",0.556,0.184,0.406
+"Toronto, Canada",0.354,0.485,0.651
+"Lagos, Nigeria",0.853,0.851,0.105
+"Dubai, UAE",0.515,0.749,0.881
+"New York, USA",0.718,0.45,0.961
+Singapore,0.198,0.341,0.47
+"Johannesburg, South Africa",0.281,0.364,0.137
+"Johannesburg, South Africa",0.462,0.478,0.352
+"Toronto, Canada",0.716,0.294,0.697
+"London, UK",0.753,0.371,0.138
+"Lagos, Nigeria",0.882,0.494,0.869
+"Toronto, Canada",0.861,0.773,0.823
+"Dubai, UAE",0.438,0.176,0.516
+"Toronto, Canada",0.526,0.424,0.793
+Singapore,0.12,0.252,0.253
+"Dubai, UAE",0.491,0.61,0.961
+"Berlin, Germany",0.13,0.557,0.548
+"Dubai, UAE",0.111,0.562,0.987
+Singapore,0.545,0.526,0.574
+"New York, USA",0.818,0.687,0.739
+"Johannesburg, South Africa",0.872,0.223,0.82
+"Lagos, Nigeria",0.687,0.249,0.812
+"Toronto, Canada",0.698,0.667,0.763
+"Lagos, Nigeria",0.453,0.205,0.223
+"Johannesburg, South Africa",0.553,0.682,0.468
+"London, UK",0.567,0.232,0.588
+"Berlin, Germany",0.156,0.893,0.737
+"Dubai, UAE",0.137,0.136,0.456
+Singapore,0.216,0.721,0.601
+"New York, USA",0.736,0.286,0.481
+"Dubai, UAE",0.549,0.359,0.742
+Singapore,0.573,0.829,0.171
+"New York, USA",0.379,0.345,0.743
+"London, UK",0.795,0.402,0.855
+"Toronto, Canada",0.871,0.246,0.111
+"Berlin, Germany",0.271,0.162,0.581
+"Johannesburg, South Africa",0.352,0.186,0.326
+"New York, USA",0.362,0.575,0.489
+"Dubai, UAE",0.87,0.137,0.771
+"Lagos, Nigeria",0.514,0.281,0.798
+"London, UK",0.554,0.415,0.461
+"Dubai, UAE",0.395,0.187,0.182
+"New York, USA",0.82,0.699,0.649
+"Johannesburg, South Africa",0.253,0.877,0.351
+"Dubai, UAE",0.466,0.816,0.205
+"Toronto, Canada",0.28,0.863,0.383
+"Berlin, Germany",0.568,0.536,0.622
+Singapore,0.538,0.218,0.918
+"New York, USA",0.205,0.633,0.294
+"Johannesburg, South Africa",0.764,0.148,0.788
+"Toronto, Canada",0.198,0.481,0.876
+"Toronto, Canada",0.241,0.731,0.233
+"London, UK",0.317,0.784,0.105
+"Johannesburg, South Africa",0.751,0.336,0.951
+"Johannesburg, South Africa",0.263,0.278,0.188
+"Dubai, UAE",0.275,0.652,0.245
+"Toronto, Canada",0.622,0.211,0.467
+"London, UK",0.764,0.895,0.366
+"Lagos, Nigeria",0.659,0.366,0.983
+"Dubai, UAE",0.53,0.699,0.843
+"London, UK",0.62,0.68,0.684
+"Johannesburg, South Africa",0.538,0.348,0.124
+"New York, USA",0.385,0.409,0.318
+"London, UK",0.653,0.773,0.274
+"Berlin, Germany",0.65,0.282,0.335
+"Lagos, Nigeria",0.606,0.148,0.954
+"London, UK",0.608,0.218,0.466
+"Johannesburg, South Africa",0.289,0.647,0.887
+"Lagos, Nigeria",0.842,0.29,0.526
+"Dubai, UAE",0.894,0.554,0.697
+"London, UK",0.544,0.415,0.947
+"Toronto, Canada",0.279,0.795,0.624
+"Johannesburg, South Africa",0.354,0.49,0.421
+"Toronto, Canada",0.692,0.212,0.526
+"Dubai, UAE",0.318,0.766,0.522
+"New York, USA",0.587,0.166,0.82
+"Toronto, Canada",0.182,0.763,0.402
+"Berlin, Germany",0.874,0.133,0.139
+"Toronto, Canada",0.773,0.103,0.706
+"Berlin, Germany",0.757,0.704,0.87
+"London, UK",0.721,0.548,0.551
+"Dubai, UAE",0.1,0.272,0.226
+"London, UK",0.155,0.873,0.23
+"Berlin, Germany",0.571,0.61,0.903
+"New York, USA",0.715,0.291,0.166
+Singapore,0.704,0.433,0.553
+"Toronto, Canada",0.523,0.831,0.398
+"Berlin, Germany",0.517,0.263,0.348
+"Toronto, Canada",0.17,0.841,0.255
+Singapore,0.843,0.273,0.37
+"Lagos, Nigeria",0.35,0.119,0.744
+"New York, USA",0.268,0.315,0.638
+"London, UK",0.577,0.144,0.174
+"Berlin, Germany",0.119,0.286,0.778
+"Lagos, Nigeria",0.869,0.318,0.419
+"Dubai, UAE",0.393,0.433,0.296
+"Berlin, Germany",0.336,0.326,0.836
+"Dubai, UAE",0.221,0.669,0.672
+Singapore,0.507,0.877,0.75
+"Berlin, Germany",0.412,0.138,0.375
+"Dubai, UAE",0.345,0.51,0.774
+Singapore,0.206,0.309,0.348
+"Berlin, Germany",0.36,0.47,0.712
+"Berlin, Germany",0.756,0.664,0.296
+"London, UK",0.736,0.801,0.67
+"London, UK",0.558,0.809,0.511
+"London, UK",0.702,0.231,0.241
+"New York, USA",0.59,0.55,0.634
+"Dubai, UAE",0.192,0.326,0.11
+"London, UK",0.841,0.498,0.721
+"Toronto, Canada",0.5,0.836,0.951
+"London, UK",0.692,0.149,0.906
+"Berlin, Germany",0.8,0.575,0.978
+"Berlin, Germany",0.803,0.388,0.494
+"Toronto, Canada",0.847,0.794,0.847
+"Lagos, Nigeria",0.618,0.275,0.227
+"Berlin, Germany",0.607,0.366,0.115
+"Johannesburg, South Africa",0.292,0.116,0.243
+"Berlin, Germany",0.351,0.444,0.499
+"London, UK",0.583,0.607,0.246
+"London, UK",0.301,0.257,0.509
+"Berlin, Germany",0.387,0.609,0.312
+"Toronto, Canada",0.233,0.696,0.295
+"Berlin, Germany",0.701,0.254,0.928
+"London, UK",0.605,0.704,0.568
+"Dubai, UAE",0.679,0.846,0.707
+"Johannesburg, South Africa",0.456,0.278,0.459
+"Johannesburg, South Africa",0.689,0.208,0.249
+"London, UK",0.473,0.367,0.743
+Singapore,0.526,0.253,0.499
+"London, UK",0.202,0.72,0.857
+Singapore,0.129,0.206,0.174
+"Toronto, Canada",0.696,0.118,0.445
+"Berlin, Germany",0.812,0.381,0.245
+"London, UK",0.389,0.728,0.725
+"Lagos, Nigeria",0.777,0.621,0.404
+"Dubai, UAE",0.32,0.524,0.475
+"London, UK",0.686,0.466,0.415
+"New York, USA",0.566,0.62,0.857
+Singapore,0.127,0.494,0.607
+"Johannesburg, South Africa",0.293,0.72,0.738
+"Lagos, Nigeria",0.603,0.793,0.767
+"London, UK",0.266,0.239,0.737
+"New York, USA",0.572,0.286,0.95
+"Toronto, Canada",0.665,0.511,0.687
+"New York, USA",0.377,0.793,0.684
+"Berlin, Germany",0.653,0.835,0.828
+"Dubai, UAE",0.614,0.201,0.115
+"Johannesburg, South Africa",0.89,0.343,0.152
+"Berlin, Germany",0.592,0.716,0.324
+"Toronto, Canada",0.32,0.847,0.263
+"Toronto, Canada",0.298,0.165,0.238
+"Toronto, Canada",0.628,0.476,0.597
+"New York, USA",0.183,0.497,0.276
+"New York, USA",0.281,0.107,0.97
+Singapore,0.107,0.783,0.265
+"Toronto, Canada",0.509,0.186,0.25
+"New York, USA",0.729,0.77,0.616
+"Berlin, Germany",0.509,0.117,0.263
+"London, UK",0.328,0.886,0.699
+"Lagos, Nigeria",0.77,0.52,0.873
+"Toronto, Canada",0.488,0.339,0.492
+"Berlin, Germany",0.652,0.585,0.415
+"New York, USA",0.889,0.327,0.721
+"Lagos, Nigeria",0.751,0.186,0.825
+Singapore,0.78,0.302,0.373
+"Toronto, Canada",0.197,0.773,0.83
+"New York, USA",0.533,0.298,0.79
+Singapore,0.898,0.429,0.535
+"New York, USA",0.359,0.54,0.512
+"Lagos, Nigeria",0.133,0.796,0.194
+"New York, USA",0.127,0.109,0.179
+"Lagos, Nigeria",0.883,0.806,0.773
+"Berlin, Germany",0.447,0.693,0.627
+Singapore,0.328,0.409,0.54
+Singapore,0.511,0.894,0.141
+"Toronto, Canada",0.588,0.147,0.15
+"New York, USA",0.805,0.69,0.929
+"London, UK",0.454,0.676,0.695
+"Lagos, Nigeria",0.782,0.857,0.447
+"Berlin, Germany",0.308,0.76,0.73
+"Dubai, UAE",0.539,0.56,0.332
+"Johannesburg, South Africa",0.725,0.286,0.468
+"Johannesburg, South Africa",0.454,0.508,0.516
+"London, UK",0.322,0.182,0.128
+"Johannesburg, South Africa",0.747,0.491,0.993
+"Toronto, Canada",0.746,0.255,0.443
+"Berlin, Germany",0.326,0.848,0.97
+"Lagos, Nigeria",0.584,0.425,0.683
+"Berlin, Germany",0.297,0.22,0.936
+Singapore,0.817,0.119,0.149
+"Dubai, UAE",0.16,0.364,0.965
+Singapore,0.406,0.146,0.466
+"Berlin, Germany",0.62,0.467,0.223
+"Berlin, Germany",0.788,0.138,0.704
+"Toronto, Canada",0.736,0.767,0.786
+"London, UK",0.647,0.473,0.685
+"Berlin, Germany",0.841,0.734,0.586
+Singapore,0.119,0.391,0.835
+"New York, USA",0.884,0.714,0.717
+"Berlin, Germany",0.377,0.424,0.657
+"Berlin, Germany",0.699,0.637,0.385
+"Toronto, Canada",0.323,0.671,0.89
+"Toronto, Canada",0.432,0.582,0.723
+Singapore,0.801,0.144,0.91
+"Toronto, Canada",0.459,0.394,0.646
+Singapore,0.808,0.721,0.82
+"Johannesburg, South Africa",0.539,0.84,0.896
+"Johannesburg, South Africa",0.311,0.628,0.587
+"Dubai, UAE",0.489,0.874,0.744
+Singapore,0.171,0.319,0.619
+"Toronto, Canada",0.483,0.209,0.749
+"Berlin, Germany",0.73,0.362,0.571
+"Berlin, Germany",0.155,0.642,0.82
+"Johannesburg, South Africa",0.287,0.412,0.827
+"Lagos, Nigeria",0.438,0.627,0.142
+"Toronto, Canada",0.706,0.662,0.283
+"Lagos, Nigeria",0.701,0.591,0.274
+"Johannesburg, South Africa",0.81,0.723,0.39
+"London, UK",0.216,0.287,0.529
+Singapore,0.225,0.188,0.762
+"Toronto, Canada",0.635,0.139,0.37
+"Dubai, UAE",0.244,0.881,0.686
+"Dubai, UAE",0.431,0.674,0.875
+Singapore,0.532,0.291,0.503
+"Johannesburg, South Africa",0.306,0.482,0.692
+"London, UK",0.653,0.15,0.863
+"Dubai, UAE",0.786,0.632,0.752
+"New York, USA",0.11,0.874,0.193
+"Berlin, Germany",0.331,0.665,0.237
+"Berlin, Germany",0.67,0.598,0.174
+"Lagos, Nigeria",0.32,0.838,0.354
+"Berlin, Germany",0.518,0.51,0.104
+"Johannesburg, South Africa",0.705,0.696,0.649
+"London, UK",0.375,0.846,0.124
+"Berlin, Germany",0.73,0.618,0.504
+"Johannesburg, South Africa",0.753,0.521,0.544
+"Toronto, Canada",0.893,0.564,0.681
+"New York, USA",0.446,0.716,0.315
+"Lagos, Nigeria",0.481,0.142,0.881
+"Johannesburg, South Africa",0.726,0.362,0.554
+Singapore,0.794,0.141,0.721
+"Lagos, Nigeria",0.504,0.729,0.412
+"Lagos, Nigeria",0.117,0.832,0.34
+"Toronto, Canada",0.466,0.42,0.626
+"Berlin, Germany",0.28,0.302,0.906
+"Toronto, Canada",0.177,0.132,0.746
+"London, UK",0.371,0.105,0.729
+"Dubai, UAE",0.414,0.536,0.545
+"Berlin, Germany",0.885,0.367,0.106
+"Toronto, Canada",0.464,0.871,0.891
+"Johannesburg, South Africa",0.874,0.754,0.317
+"London, UK",0.686,0.461,0.527
+"London, UK",0.302,0.259,0.274
+"Toronto, Canada",0.662,0.406,0.833
+"Toronto, Canada",0.422,0.157,0.13
+"New York, USA",0.563,0.598,0.691
+"Toronto, Canada",0.515,0.792,0.144
+"Lagos, Nigeria",0.845,0.448,0.926
+"Berlin, Germany",0.204,0.484,0.149
+Singapore,0.455,0.85,0.901
+"London, UK",0.165,0.348,0.327
+Singapore,0.304,0.181,0.688
+"Lagos, Nigeria",0.161,0.155,0.673
+"Dubai, UAE",0.851,0.715,0.867
+"Lagos, Nigeria",0.352,0.275,0.463
+"Johannesburg, South Africa",0.725,0.899,0.576
+"London, UK",0.699,0.871,0.447
+"Dubai, UAE",0.212,0.783,0.69
+"Johannesburg, South Africa",0.213,0.503,0.38
+"Berlin, Germany",0.402,0.506,0.676
+"New York, USA",0.555,0.846,0.778
+"New York, USA",0.441,0.338,0.217
+"Dubai, UAE",0.714,0.489,0.442
+"Lagos, Nigeria",0.529,0.422,0.132
+"Johannesburg, South Africa",0.805,0.387,0.182
+"Lagos, Nigeria",0.574,0.813,0.143
+"Toronto, Canada",0.574,0.68,0.735
+"New York, USA",0.628,0.856,0.982
+"New York, USA",0.582,0.158,0.65
+"Berlin, Germany",0.59,0.762,0.405
+"Toronto, Canada",0.46,0.362,0.795
+"London, UK",0.172,0.573,0.557
+"Johannesburg, South Africa",0.395,0.663,0.225
+"London, UK",0.715,0.213,0.907
+"Berlin, Germany",0.13,0.699,0.213
+"London, UK",0.653,0.373,0.979
+"New York, USA",0.885,0.323,0.426
+"Lagos, Nigeria",0.449,0.477,0.754
+"Toronto, Canada",0.27,0.726,0.963
+"London, UK",0.118,0.427,0.634
+"London, UK",0.784,0.536,0.978
+"London, UK",0.218,0.291,0.261
+"London, UK",0.135,0.354,0.151
+"Lagos, Nigeria",0.488,0.853,0.68
+"Lagos, Nigeria",0.405,0.835,0.194
+"Dubai, UAE",0.868,0.81,0.555
+Singapore,0.47,0.411,0.799
+"Berlin, Germany",0.768,0.123,0.843
+Singapore,0.846,0.835,0.607
+"Johannesburg, South Africa",0.247,0.421,0.519
+"Johannesburg, South Africa",0.377,0.743,0.183
+"New York, USA",0.839,0.513,0.712
+"London, UK",0.545,0.815,0.771
+"Berlin, Germany",0.358,0.194,0.451
+"New York, USA",0.516,0.764,0.584
+"Lagos, Nigeria",0.685,0.794,0.328
+"London, UK",0.595,0.332,0.449
+Singapore,0.847,0.6,0.635
+"Lagos, Nigeria",0.87,0.144,0.783
+"Dubai, UAE",0.669,0.351,0.154
+"London, UK",0.631,0.398,0.544
+"Lagos, Nigeria",0.111,0.176,0.164
+Singapore,0.727,0.447,0.911
+"Johannesburg, South Africa",0.5,0.618,0.677
+"Berlin, Germany",0.8,0.619,0.532
+"Berlin, Germany",0.846,0.476,0.138
+Singapore,0.395,0.199,0.575
+"Lagos, Nigeria",0.824,0.163,0.666
+"Lagos, Nigeria",0.628,0.758,0.479
+"Johannesburg, South Africa",0.442,0.548,0.361
+Singapore,0.141,0.7,0.962
+"Toronto, Canada",0.694,0.126,0.286
+Singapore,0.815,0.453,0.973
+"London, UK",0.566,0.823,0.111
+"Toronto, Canada",0.422,0.666,0.568
+Singapore,0.461,0.713,0.414
+"Lagos, Nigeria",0.666,0.477,0.35
+"Berlin, Germany",0.259,0.696,0.417
+"London, UK",0.264,0.638,0.654
+"Berlin, Germany",0.378,0.207,0.47
+"Lagos, Nigeria",0.124,0.173,0.261
+Singapore,0.635,0.241,0.663
+Singapore,0.459,0.164,0.954
+"Toronto, Canada",0.815,0.562,0.981
+Singapore,0.618,0.872,0.839
+"Johannesburg, South Africa",0.664,0.719,0.262
+Singapore,0.637,0.696,0.281
+"London, UK",0.434,0.764,0.11
+"Dubai, UAE",0.846,0.821,0.821
+"Toronto, Canada",0.831,0.343,0.253
+"London, UK",0.486,0.172,0.957
+"Dubai, UAE",0.723,0.701,0.506
+"Dubai, UAE",0.888,0.441,0.141
+"Berlin, Germany",0.365,0.856,0.679
+"New York, USA",0.6,0.847,0.199
+"London, UK",0.556,0.879,0.691
+Singapore,0.533,0.72,0.714
+"Lagos, Nigeria",0.846,0.59,0.145
+Singapore,0.201,0.714,0.89
+"London, UK",0.513,0.32,0.448
+"Dubai, UAE",0.121,0.102,0.39
+"Lagos, Nigeria",0.346,0.469,0.69
+"New York, USA",0.64,0.612,0.942
+"New York, USA",0.724,0.771,0.973
+"Berlin, Germany",0.783,0.141,0.848
+"Berlin, Germany",0.161,0.137,0.792
+"Johannesburg, South Africa",0.248,0.849,0.59
+"Johannesburg, South Africa",0.421,0.261,0.586
+Singapore,0.405,0.651,0.65
+"Johannesburg, South Africa",0.303,0.218,0.985
+"Johannesburg, South Africa",0.849,0.821,0.13
+"New York, USA",0.527,0.698,0.524
+"Johannesburg, South Africa",0.626,0.144,0.29
+"London, UK",0.7,0.318,0.646
+"Dubai, UAE",0.535,0.876,0.626
+"London, UK",0.767,0.777,0.942
+"Berlin, Germany",0.888,0.138,0.413
+"London, UK",0.414,0.346,0.8
+"London, UK",0.615,0.363,0.752
+"London, UK",0.354,0.484,0.496
+"London, UK",0.155,0.321,0.574
+"Lagos, Nigeria",0.122,0.764,0.515
+"Berlin, Germany",0.286,0.477,0.942
+"New York, USA",0.23,0.11,0.201
+"Johannesburg, South Africa",0.678,0.412,0.633
+"New York, USA",0.471,0.574,0.445
+"Lagos, Nigeria",0.532,0.627,0.186
+"Berlin, Germany",0.165,0.177,0.32
+Singapore,0.116,0.498,0.652
+"Dubai, UAE",0.448,0.444,0.774
+"Lagos, Nigeria",0.305,0.241,0.56
+"Berlin, Germany",0.598,0.244,0.557
+"Lagos, Nigeria",0.509,0.878,0.68
+Singapore,0.763,0.431,0.234
+"London, UK",0.771,0.612,0.261
+"Lagos, Nigeria",0.53,0.265,0.963
+"Lagos, Nigeria",0.825,0.865,0.966
+"Johannesburg, South Africa",0.846,0.857,0.798
+"Toronto, Canada",0.295,0.735,0.811
+Singapore,0.882,0.449,0.184
+Singapore,0.889,0.432,0.434
+"Berlin, Germany",0.152,0.812,0.509
+"London, UK",0.102,0.795,0.229
+"Lagos, Nigeria",0.147,0.84,0.122
+"London, UK",0.38,0.319,0.299
+"Johannesburg, South Africa",0.746,0.63,0.97
+"Dubai, UAE",0.504,0.637,0.934
+"Berlin, Germany",0.337,0.388,0.31
+Singapore,0.144,0.176,0.946
+"Johannesburg, South Africa",0.417,0.184,0.406
+Singapore,0.129,0.774,0.781
+"New York, USA",0.238,0.373,0.44
+"Toronto, Canada",0.803,0.812,0.143
+"Johannesburg, South Africa",0.709,0.329,0.969
+"Toronto, Canada",0.897,0.262,0.344
+"Berlin, Germany",0.816,0.414,0.148
+"Toronto, Canada",0.785,0.679,0.994
+"New York, USA",0.24,0.596,0.676
+"London, UK",0.619,0.22,0.501
+Singapore,0.58,0.885,0.842
+"Lagos, Nigeria",0.834,0.883,0.748
+"Johannesburg, South Africa",0.725,0.318,0.485
+Singapore,0.72,0.524,0.233
+"Johannesburg, South Africa",0.36,0.282,0.697
+"Berlin, Germany",0.2,0.894,0.899
+"Dubai, UAE",0.395,0.379,0.564
+"Dubai, UAE",0.267,0.822,0.603
+"Berlin, Germany",0.682,0.443,0.861
+"Toronto, Canada",0.467,0.673,0.951
+"Lagos, Nigeria",0.286,0.824,0.588
+Singapore,0.626,0.597,0.141
+"Toronto, Canada",0.155,0.285,0.237
+"Toronto, Canada",0.834,0.738,0.955
+"Johannesburg, South Africa",0.563,0.827,0.85
+"London, UK",0.469,0.171,0.671
+"London, UK",0.299,0.399,0.522
+Singapore,0.538,0.894,0.47
+"Toronto, Canada",0.33,0.621,0.14
+"New York, USA",0.416,0.239,0.882
+"Johannesburg, South Africa",0.811,0.774,0.436
+"Berlin, Germany",0.255,0.477,0.567
+"Johannesburg, South Africa",0.378,0.789,0.584
+"Johannesburg, South Africa",0.625,0.711,0.855
+"Dubai, UAE",0.68,0.678,0.277
+"New York, USA",0.192,0.316,0.528
+"Johannesburg, South Africa",0.849,0.547,0.96
+"Johannesburg, South Africa",0.122,0.784,0.739
+"Berlin, Germany",0.154,0.783,0.459
+"Lagos, Nigeria",0.71,0.236,0.669
+"Lagos, Nigeria",0.717,0.421,0.629
+"New York, USA",0.633,0.468,0.591
+"Toronto, Canada",0.517,0.485,0.581
+"Johannesburg, South Africa",0.331,0.466,0.746
+"Dubai, UAE",0.772,0.177,0.894
+"Toronto, Canada",0.659,0.823,0.47
+Singapore,0.874,0.725,0.978
+Singapore,0.463,0.445,0.463
+"Johannesburg, South Africa",0.476,0.861,0.709
+"Lagos, Nigeria",0.733,0.533,0.343
+"Toronto, Canada",0.894,0.146,0.773
+"London, UK",0.817,0.455,0.449
+"Johannesburg, South Africa",0.338,0.265,0.444
+"Lagos, Nigeria",0.863,0.899,0.281
+Singapore,0.258,0.199,0.163
+"Berlin, Germany",0.437,0.345,0.414
+"Dubai, UAE",0.81,0.643,0.64
+"Berlin, Germany",0.351,0.279,0.141
+"Johannesburg, South Africa",0.382,0.19,0.272
+"Toronto, Canada",0.896,0.409,0.321
+"Berlin, Germany",0.461,0.816,0.269
+"Berlin, Germany",0.858,0.562,0.193
+"New York, USA",0.319,0.697,0.264
+"New York, USA",0.501,0.328,0.942
+"Berlin, Germany",0.406,0.814,0.805
+"Lagos, Nigeria",0.551,0.549,0.929
+"Dubai, UAE",0.819,0.383,0.901
+"Berlin, Germany",0.893,0.624,0.46
+"Dubai, UAE",0.501,0.426,0.432
+"London, UK",0.24,0.322,0.8
+"Johannesburg, South Africa",0.14,0.713,0.911
+"Lagos, Nigeria",0.228,0.186,0.776
+"Dubai, UAE",0.697,0.631,0.623
+"London, UK",0.575,0.52,0.601
+"Dubai, UAE",0.699,0.511,0.517
+"London, UK",0.863,0.374,0.509
+Singapore,0.665,0.32,0.151
+Singapore,0.722,0.652,0.294
+"Toronto, Canada",0.442,0.749,0.229
+"New York, USA",0.509,0.409,0.522
+"Toronto, Canada",0.759,0.215,0.36
+"Dubai, UAE",0.611,0.117,0.44
+"Johannesburg, South Africa",0.528,0.564,0.974
+"London, UK",0.277,0.3,0.788
+"Toronto, Canada",0.582,0.43,0.226
+"Toronto, Canada",0.333,0.546,0.828
+"Johannesburg, South Africa",0.572,0.679,0.498
+"Lagos, Nigeria",0.471,0.439,0.869
+"Toronto, Canada",0.181,0.662,0.784
+"Lagos, Nigeria",0.786,0.831,0.567
+Singapore,0.565,0.322,0.748
+"Toronto, Canada",0.822,0.658,0.943
+"Dubai, UAE",0.842,0.343,0.585
+Singapore,0.514,0.154,0.234
+"Toronto, Canada",0.642,0.166,0.611
+"Johannesburg, South Africa",0.816,0.662,0.142
+"London, UK",0.644,0.219,0.508
+Singapore,0.295,0.897,0.301
+"London, UK",0.307,0.535,0.681
+"Berlin, Germany",0.435,0.35,0.459
+Singapore,0.13,0.584,0.563
+"Berlin, Germany",0.397,0.172,0.903
+"Johannesburg, South Africa",0.215,0.142,0.513
+"Lagos, Nigeria",0.762,0.53,0.998
+Singapore,0.726,0.243,0.223
+"London, UK",0.24,0.158,0.872
+"Berlin, Germany",0.328,0.602,0.427
+"Dubai, UAE",0.556,0.459,0.816
+"Toronto, Canada",0.3,0.498,0.549
+"London, UK",0.144,0.711,0.571
+"Dubai, UAE",0.712,0.65,0.58
+"Dubai, UAE",0.173,0.744,0.317
+Singapore,0.642,0.171,0.148
+"Toronto, Canada",0.22,0.166,0.688
+"Toronto, Canada",0.106,0.562,0.123
+"Dubai, UAE",0.55,0.838,0.754
+"Lagos, Nigeria",0.328,0.697,0.391
+Singapore,0.204,0.661,0.456
+"London, UK",0.648,0.383,0.778
+"Toronto, Canada",0.615,0.555,0.236
+"Lagos, Nigeria",0.429,0.657,0.685
+"New York, USA",0.171,0.504,0.615
+"New York, USA",0.473,0.285,0.475
+"Toronto, Canada",0.183,0.643,0.663
+"Johannesburg, South Africa",0.895,0.512,0.424
+"Toronto, Canada",0.288,0.3,0.338
+"New York, USA",0.102,0.522,0.18
+"Berlin, Germany",0.276,0.374,0.632
+"Lagos, Nigeria",0.596,0.153,0.964
+"Toronto, Canada",0.881,0.478,0.825
+Singapore,0.52,0.875,0.185
+"New York, USA",0.456,0.299,0.298
+"New York, USA",0.894,0.453,0.684
+"New York, USA",0.232,0.757,0.102
+"New York, USA",0.258,0.86,0.607
+Singapore,0.405,0.145,0.977
+"New York, USA",0.698,0.7,0.417
+"New York, USA",0.342,0.358,0.904
+"Toronto, Canada",0.476,0.186,0.197
+"Dubai, UAE",0.851,0.705,0.142
+"Dubai, UAE",0.798,0.477,0.413
+"Lagos, Nigeria",0.858,0.266,0.621
+"New York, USA",0.233,0.674,0.851
+"New York, USA",0.486,0.277,0.267
+"Dubai, UAE",0.67,0.603,0.335
+"New York, USA",0.686,0.367,0.531
+"Johannesburg, South Africa",0.54,0.282,0.411
+"New York, USA",0.757,0.132,0.104
+"New York, USA",0.134,0.225,0.398
+"London, UK",0.258,0.848,0.335
+"London, UK",0.362,0.461,0.555
+"New York, USA",0.683,0.776,0.204
+"New York, USA",0.821,0.708,0.717
+"Berlin, Germany",0.523,0.654,0.365
+"Berlin, Germany",0.667,0.69,0.307
+"Lagos, Nigeria",0.576,0.234,0.374
+"London, UK",0.84,0.297,0.513
+"Toronto, Canada",0.82,0.723,0.899
+"Lagos, Nigeria",0.746,0.634,0.719
+Singapore,0.324,0.749,0.26
+Singapore,0.398,0.649,0.705
+"Lagos, Nigeria",0.433,0.728,0.238
+"New York, USA",0.103,0.566,0.387
+"New York, USA",0.285,0.754,0.517
+"Johannesburg, South Africa",0.671,0.359,0.673
+"Toronto, Canada",0.536,0.154,0.523
+"Berlin, Germany",0.866,0.261,0.625
+"New York, USA",0.123,0.221,0.714
+"London, UK",0.403,0.478,0.966
+"Toronto, Canada",0.666,0.824,0.915
+"Dubai, UAE",0.207,0.349,0.556
+"Toronto, Canada",0.5,0.514,0.769
+"New York, USA",0.113,0.752,0.495
+"Toronto, Canada",0.244,0.797,0.969
+"Berlin, Germany",0.851,0.323,0.17
+"New York, USA",0.579,0.519,0.285
+"Berlin, Germany",0.707,0.305,0.333
+"Berlin, Germany",0.182,0.436,0.354
+"Dubai, UAE",0.288,0.414,0.347
+"London, UK",0.254,0.151,0.644
+"New York, USA",0.32,0.122,0.904
+"London, UK",0.307,0.594,0.161
+"London, UK",0.551,0.237,0.849
+"Toronto, Canada",0.665,0.219,0.37
+"Lagos, Nigeria",0.539,0.387,0.63
+"New York, USA",0.339,0.285,0.693
+"Berlin, Germany",0.656,0.696,0.606
+"Johannesburg, South Africa",0.542,0.619,0.185
+"Dubai, UAE",0.611,0.87,0.536
+"Toronto, Canada",0.269,0.422,0.157
+"London, UK",0.868,0.121,0.102
+"Johannesburg, South Africa",0.362,0.777,0.282
+"Dubai, UAE",0.396,0.198,0.368
+"London, UK",0.532,0.315,0.718
+"Johannesburg, South Africa",0.14,0.604,0.446
+"New York, USA",0.253,0.469,0.54
+"Toronto, Canada",0.75,0.654,0.639
+"Dubai, UAE",0.735,0.255,0.131
+"Dubai, UAE",0.213,0.568,0.413
+"Berlin, Germany",0.572,0.463,0.484
+"London, UK",0.153,0.57,0.336
+"Toronto, Canada",0.16,0.806,0.438
+Singapore,0.74,0.527,0.544
+"Berlin, Germany",0.476,0.693,0.63
+"Toronto, Canada",0.841,0.695,0.361
+"London, UK",0.482,0.63,0.728
+"London, UK",0.746,0.487,0.874
+"Berlin, Germany",0.611,0.103,0.22
+"Toronto, Canada",0.444,0.197,0.361
+"London, UK",0.544,0.534,0.412
+"Johannesburg, South Africa",0.847,0.135,0.195
+"Johannesburg, South Africa",0.161,0.136,0.65
+Singapore,0.524,0.201,0.29
+"Toronto, Canada",0.141,0.287,0.916
+Singapore,0.544,0.9,0.224
+"New York, USA",0.586,0.196,0.754
+Singapore,0.746,0.317,0.692
+"Johannesburg, South Africa",0.739,0.646,0.522
+"Berlin, Germany",0.108,0.641,0.565
+"Lagos, Nigeria",0.157,0.8,0.244
+"Berlin, Germany",0.648,0.589,0.126
+"London, UK",0.246,0.313,0.949
+"Toronto, Canada",0.523,0.291,0.132
+"Dubai, UAE",0.285,0.764,0.618
+"Berlin, Germany",0.768,0.178,0.832
+"Lagos, Nigeria",0.645,0.485,0.105
+"New York, USA",0.448,0.486,0.444
+"London, UK",0.28,0.691,0.374
+"Toronto, Canada",0.627,0.896,0.288
+"New York, USA",0.381,0.497,0.249
+"London, UK",0.571,0.72,0.439
+"Berlin, Germany",0.634,0.781,0.23
+"Berlin, Germany",0.21,0.127,0.276
+"Johannesburg, South Africa",0.139,0.609,0.592
+"Lagos, Nigeria",0.495,0.807,0.316
+"Dubai, UAE",0.227,0.676,0.169
+"New York, USA",0.172,0.719,0.878
+"Johannesburg, South Africa",0.171,0.749,0.49
+"Berlin, Germany",0.662,0.116,0.847
+"Lagos, Nigeria",0.824,0.843,0.147
+"Toronto, Canada",0.845,0.825,0.673
+"Toronto, Canada",0.849,0.581,0.837
+"New York, USA",0.637,0.379,0.727
+"Toronto, Canada",0.841,0.395,0.859
+"Berlin, Germany",0.205,0.528,0.201
+"Toronto, Canada",0.581,0.333,0.254
+"Berlin, Germany",0.708,0.553,0.243
+"Johannesburg, South Africa",0.854,0.594,0.671
+"Lagos, Nigeria",0.363,0.683,0.998
+Singapore,0.568,0.153,0.474
+Singapore,0.423,0.153,0.922
+"Berlin, Germany",0.531,0.838,0.903
+"Berlin, Germany",0.503,0.696,0.831
+"New York, USA",0.78,0.374,0.532
+Singapore,0.759,0.12,0.386
+"Toronto, Canada",0.416,0.587,0.15
+"Berlin, Germany",0.325,0.299,0.531
+"New York, USA",0.781,0.146,0.886
+"New York, USA",0.864,0.704,0.533
+"Johannesburg, South Africa",0.115,0.881,0.101
+"New York, USA",0.501,0.698,0.816
+"London, UK",0.717,0.19,0.216
+"Johannesburg, South Africa",0.889,0.394,0.248
+Singapore,0.524,0.299,0.31
+"Johannesburg, South Africa",0.675,0.399,0.275
+"New York, USA",0.847,0.546,0.745
+"New York, USA",0.4,0.608,0.947
+Singapore,0.808,0.347,0.205
+"Berlin, Germany",0.313,0.639,0.451
+"New York, USA",0.68,0.647,0.641
+"New York, USA",0.865,0.894,0.525
+"London, UK",0.619,0.485,0.414
+"London, UK",0.401,0.363,0.301
+Singapore,0.162,0.786,0.598
+Singapore,0.261,0.235,0.557
+"Johannesburg, South Africa",0.683,0.457,0.992
+"New York, USA",0.892,0.601,0.517
+"Johannesburg, South Africa",0.78,0.214,0.896
+"New York, USA",0.733,0.144,0.95
+"Johannesburg, South Africa",0.115,0.418,0.396
+"Berlin, Germany",0.687,0.38,0.369
+"Johannesburg, South Africa",0.762,0.696,0.948
+"Berlin, Germany",0.36,0.527,0.62
+"London, UK",0.9,0.118,0.273
+"Berlin, Germany",0.129,0.835,0.33
+Singapore,0.413,0.789,0.118
+Singapore,0.27,0.16,0.39
+"Johannesburg, South Africa",0.878,0.304,0.659
+"Toronto, Canada",0.638,0.599,0.381
+"Dubai, UAE",0.433,0.244,0.306
+"Johannesburg, South Africa",0.878,0.879,0.153
+"Lagos, Nigeria",0.149,0.437,0.862
+"Johannesburg, South Africa",0.276,0.664,0.683
+Singapore,0.438,0.509,0.918
+Singapore,0.199,0.347,0.12
+"London, UK",0.898,0.658,0.93
+"London, UK",0.559,0.48,0.571
+"Berlin, Germany",0.23,0.609,0.222
+"Lagos, Nigeria",0.299,0.414,0.327
+"Johannesburg, South Africa",0.417,0.898,0.23
+"Lagos, Nigeria",0.681,0.265,0.304
+Singapore,0.343,0.246,0.336
+"New York, USA",0.338,0.108,0.625
+"London, UK",0.601,0.796,0.335
+"New York, USA",0.137,0.226,0.542
+"Berlin, Germany",0.67,0.297,0.678
+"Lagos, Nigeria",0.538,0.265,0.801
+"New York, USA",0.447,0.883,0.895
+"Lagos, Nigeria",0.414,0.782,0.243
+"Dubai, UAE",0.277,0.699,0.68
+"New York, USA",0.292,0.41,0.202
+Singapore,0.5,0.105,0.311
+"Johannesburg, South Africa",0.259,0.874,0.613
+"New York, USA",0.554,0.263,0.953
+"Lagos, Nigeria",0.62,0.153,0.648
+"Johannesburg, South Africa",0.466,0.404,0.888
+"Berlin, Germany",0.186,0.323,0.705
+Singapore,0.85,0.855,0.774
+Singapore,0.767,0.122,0.299
+Singapore,0.863,0.883,0.538
+Singapore,0.395,0.569,0.824
+"Dubai, UAE",0.126,0.34,0.694
+"Toronto, Canada",0.449,0.794,0.128
+"Toronto, Canada",0.472,0.434,0.701
+"London, UK",0.665,0.526,0.273
+"Dubai, UAE",0.688,0.214,0.938
+"Toronto, Canada",0.44,0.804,0.936
+"Johannesburg, South Africa",0.882,0.803,0.86
+"Johannesburg, South Africa",0.19,0.701,0.276
+"Dubai, UAE",0.822,0.681,0.203
+"Lagos, Nigeria",0.716,0.26,0.902
+"London, UK",0.527,0.454,0.534
+"Toronto, Canada",0.71,0.174,0.89
+"Dubai, UAE",0.703,0.573,0.87
+"Toronto, Canada",0.233,0.269,0.873
+"New York, USA",0.526,0.339,0.308
+Singapore,0.477,0.753,0.693
+"Johannesburg, South Africa",0.495,0.888,0.945
+"New York, USA",0.235,0.404,0.402
+"Toronto, Canada",0.408,0.735,0.693
+"Dubai, UAE",0.515,0.206,0.43
+"Dubai, UAE",0.647,0.523,0.338
+"Dubai, UAE",0.439,0.541,0.833
+"Johannesburg, South Africa",0.618,0.811,0.27
+"Johannesburg, South Africa",0.594,0.293,0.198
+"London, UK",0.75,0.151,0.347
+Singapore,0.432,0.38,0.502
+"Lagos, Nigeria",0.798,0.697,0.82
+"Dubai, UAE",0.121,0.137,0.31
+"Toronto, Canada",0.821,0.217,0.916
+"Lagos, Nigeria",0.861,0.136,0.595
+"Dubai, UAE",0.43,0.497,0.742
+"London, UK",0.859,0.76,0.326
+"Berlin, Germany",0.792,0.313,0.859
+"London, UK",0.146,0.125,0.128
+"Johannesburg, South Africa",0.621,0.241,0.29
+"Berlin, Germany",0.834,0.167,0.802
+"New York, USA",0.265,0.543,0.158
+"Lagos, Nigeria",0.837,0.5,0.634
+"New York, USA",0.266,0.296,0.751
+"Johannesburg, South Africa",0.605,0.774,0.616
+Singapore,0.404,0.429,0.191
+"Lagos, Nigeria",0.538,0.875,0.639
+"London, UK",0.325,0.287,0.65
+"Toronto, Canada",0.426,0.598,0.537
+"Toronto, Canada",0.503,0.736,0.428
+"Berlin, Germany",0.502,0.251,0.319
+"Toronto, Canada",0.895,0.735,0.169
+"Lagos, Nigeria",0.784,0.807,0.132
+Singapore,0.218,0.634,0.812
+"Toronto, Canada",0.868,0.817,0.573
+"New York, USA",0.555,0.414,0.233
+"Dubai, UAE",0.588,0.421,0.185
+"Toronto, Canada",0.321,0.115,0.182
+"New York, USA",0.342,0.739,0.23
+"Berlin, Germany",0.21,0.126,0.126
+"Berlin, Germany",0.764,0.311,0.789
+"London, UK",0.487,0.596,0.43
+"London, UK",0.178,0.586,0.359
+"London, UK",0.455,0.484,0.515
+"New York, USA",0.372,0.594,0.38
+"London, UK",0.652,0.358,0.728
+"Berlin, Germany",0.249,0.263,0.368
+"Toronto, Canada",0.848,0.334,0.659
+"New York, USA",0.725,0.298,0.437
+"Johannesburg, South Africa",0.413,0.443,0.468
+"Johannesburg, South Africa",0.251,0.707,0.805
+"London, UK",0.714,0.36,0.567
+"London, UK",0.195,0.385,0.465
+"Berlin, Germany",0.17,0.658,0.395
+"Johannesburg, South Africa",0.644,0.831,0.69
+"Toronto, Canada",0.26,0.308,0.664
+"Lagos, Nigeria",0.614,0.689,0.175
+"Toronto, Canada",0.384,0.599,0.707
+"London, UK",0.177,0.517,0.507
+"London, UK",0.6,0.115,0.977
+"Toronto, Canada",0.617,0.405,0.522
+"Toronto, Canada",0.532,0.264,0.949
+"Berlin, Germany",0.379,0.212,0.824
+"Lagos, Nigeria",0.831,0.32,0.971
+Singapore,0.644,0.622,0.285
+"New York, USA",0.544,0.531,0.399
+"New York, USA",0.485,0.45,0.63
+Singapore,0.774,0.216,0.188
+"Lagos, Nigeria",0.869,0.723,0.74
+"Berlin, Germany",0.546,0.485,0.342
+"Toronto, Canada",0.14,0.616,0.234
+"Johannesburg, South Africa",0.493,0.129,0.153
+"London, UK",0.616,0.814,0.474
+Singapore,0.754,0.514,0.215
+Singapore,0.348,0.38,0.549
+"Lagos, Nigeria",0.641,0.762,0.468
+Singapore,0.137,0.749,0.884
+"Berlin, Germany",0.381,0.276,0.166
+"Johannesburg, South Africa",0.339,0.397,0.874
+"Johannesburg, South Africa",0.168,0.584,0.743
+"Dubai, UAE",0.662,0.899,0.681
+"Lagos, Nigeria",0.395,0.729,0.978
+"London, UK",0.274,0.14,0.144
+"Johannesburg, South Africa",0.218,0.689,0.541
+"New York, USA",0.823,0.493,0.756
+"Toronto, Canada",0.211,0.115,0.581
+"Johannesburg, South Africa",0.793,0.462,0.388
+"Berlin, Germany",0.516,0.362,0.124
+"New York, USA",0.125,0.184,0.687
+"Johannesburg, South Africa",0.867,0.527,0.879
+"Johannesburg, South Africa",0.542,0.853,0.747
+"London, UK",0.354,0.8,0.146
+"Lagos, Nigeria",0.315,0.548,0.731
+"Berlin, Germany",0.354,0.265,0.764
+Singapore,0.272,0.192,0.697
+"Dubai, UAE",0.296,0.647,0.63
+"Berlin, Germany",0.403,0.414,0.731
+"New York, USA",0.517,0.518,0.619
+Singapore,0.681,0.722,0.531
+"New York, USA",0.342,0.582,0.583
+"Johannesburg, South Africa",0.208,0.161,0.165
+"London, UK",0.116,0.889,0.573
+"Dubai, UAE",0.398,0.215,0.733
+"New York, USA",0.733,0.884,0.544
+"Berlin, Germany",0.363,0.506,0.601
+Singapore,0.274,0.771,0.788
+"Dubai, UAE",0.829,0.199,0.227
+"Johannesburg, South Africa",0.63,0.789,0.775
+"Toronto, Canada",0.881,0.204,0.436
+Singapore,0.549,0.812,0.807
+"London, UK",0.533,0.454,0.298
+"London, UK",0.878,0.789,0.815
+"Toronto, Canada",0.589,0.321,0.812
+"London, UK",0.512,0.667,0.389
+"Dubai, UAE",0.291,0.719,0.816
+"London, UK",0.406,0.5,0.212
+"Johannesburg, South Africa",0.55,0.792,0.829
+"New York, USA",0.551,0.646,0.232
+"London, UK",0.464,0.352,0.987
+"Berlin, Germany",0.652,0.844,0.629
+"New York, USA",0.226,0.372,0.804
+"Lagos, Nigeria",0.794,0.685,0.607
+"Berlin, Germany",0.69,0.654,0.621
+"Lagos, Nigeria",0.759,0.206,0.535
+"Dubai, UAE",0.128,0.442,0.224
+"Johannesburg, South Africa",0.726,0.559,0.345
+"New York, USA",0.692,0.249,0.942
+"Berlin, Germany",0.116,0.18,0.435
+"Johannesburg, South Africa",0.461,0.537,0.151
+Singapore,0.344,0.223,0.818
+Singapore,0.305,0.73,0.742
+Singapore,0.226,0.784,0.377
+"New York, USA",0.303,0.175,0.434
+"Dubai, UAE",0.71,0.662,0.542
+Singapore,0.826,0.686,0.228
+"Lagos, Nigeria",0.381,0.153,0.993
+"Toronto, Canada",0.328,0.577,0.44
+"Dubai, UAE",0.335,0.597,0.872
+"Dubai, UAE",0.527,0.51,0.846
+"Dubai, UAE",0.136,0.652,0.339
+"London, UK",0.56,0.298,0.171
+"Dubai, UAE",0.836,0.309,0.503
+Singapore,0.494,0.839,0.297
+"Toronto, Canada",0.419,0.643,0.441
+Singapore,0.132,0.418,0.927
+"Dubai, UAE",0.538,0.637,0.627
+"Toronto, Canada",0.209,0.699,0.48
+"New York, USA",0.469,0.342,0.634
+"New York, USA",0.347,0.516,0.194
+"London, UK",0.309,0.192,0.784
+Singapore,0.866,0.581,0.61
+"Toronto, Canada",0.73,0.65,0.973
+"Johannesburg, South Africa",0.196,0.695,0.455
+Singapore,0.353,0.868,0.268
+"Dubai, UAE",0.663,0.233,0.261
+"Berlin, Germany",0.759,0.156,0.872
+"New York, USA",0.521,0.854,0.515
+"Dubai, UAE",0.82,0.619,0.363
+"Toronto, Canada",0.389,0.55,0.81
+"Lagos, Nigeria",0.161,0.439,0.763
+"Dubai, UAE",0.853,0.453,0.919
+"Johannesburg, South Africa",0.431,0.338,0.88
+Singapore,0.118,0.6,0.188
+"Johannesburg, South Africa",0.675,0.112,0.255
+"Johannesburg, South Africa",0.301,0.535,0.515
+"New York, USA",0.173,0.146,0.905
+"London, UK",0.775,0.679,0.772
+"Toronto, Canada",0.294,0.87,0.217
+"New York, USA",0.535,0.248,0.271
+"London, UK",0.59,0.32,0.518
+"London, UK",0.856,0.531,0.72
+"Lagos, Nigeria",0.417,0.492,0.276
+"London, UK",0.501,0.753,0.175
+"New York, USA",0.341,0.201,0.117
+"New York, USA",0.473,0.543,0.218
+"Dubai, UAE",0.106,0.838,0.469
+"Berlin, Germany",0.787,0.634,0.878
+"Toronto, Canada",0.153,0.315,0.137
+"Toronto, Canada",0.297,0.15,0.712
+"Lagos, Nigeria",0.675,0.435,0.221
+"Toronto, Canada",0.613,0.474,0.542
+"London, UK",0.701,0.206,0.359
+"Johannesburg, South Africa",0.504,0.484,0.855
+Singapore,0.843,0.641,0.698
+"New York, USA",0.856,0.48,0.367
+"London, UK",0.706,0.281,0.553
+Singapore,0.357,0.867,0.781
+"Toronto, Canada",0.133,0.192,0.88
+"Dubai, UAE",0.539,0.587,0.658
+"Dubai, UAE",0.107,0.683,0.653
+"Berlin, Germany",0.748,0.316,0.193
+"Johannesburg, South Africa",0.57,0.404,0.569
+"Johannesburg, South Africa",0.595,0.449,0.834
+"Toronto, Canada",0.148,0.618,0.714
+"Johannesburg, South Africa",0.569,0.51,0.143
+"Lagos, Nigeria",0.244,0.253,0.73
+"New York, USA",0.422,0.814,0.462
+"London, UK",0.355,0.392,0.716
+"Toronto, Canada",0.297,0.406,0.83
+"New York, USA",0.458,0.74,0.257
+"Dubai, UAE",0.71,0.528,0.884
+"Johannesburg, South Africa",0.287,0.285,0.275
+"London, UK",0.508,0.832,0.359
+"Toronto, Canada",0.385,0.744,0.712
+"Toronto, Canada",0.623,0.58,0.755
+"Dubai, UAE",0.554,0.51,0.483
+"Toronto, Canada",0.62,0.64,0.201
+"Lagos, Nigeria",0.886,0.389,0.926
+"Lagos, Nigeria",0.506,0.655,0.412
+"London, UK",0.182,0.131,0.971
+"Johannesburg, South Africa",0.136,0.42,0.864
+"London, UK",0.14,0.594,0.366
+"New York, USA",0.382,0.597,0.773
+"Berlin, Germany",0.68,0.157,0.346
+"New York, USA",0.772,0.676,0.123
+"Johannesburg, South Africa",0.575,0.168,0.337
+"Dubai, UAE",0.484,0.693,0.244
+"Berlin, Germany",0.777,0.83,0.377
+"Toronto, Canada",0.145,0.88,0.53
+"Toronto, Canada",0.359,0.583,0.235
+"New York, USA",0.146,0.671,0.187
+Singapore,0.845,0.287,0.558
+Singapore,0.171,0.4,0.413
+"Lagos, Nigeria",0.868,0.11,0.502
+"Lagos, Nigeria",0.685,0.738,0.991
+"London, UK",0.496,0.652,0.417
+"London, UK",0.35,0.306,0.643
+"New York, USA",0.53,0.492,0.535
+"Johannesburg, South Africa",0.614,0.683,0.764
+"Lagos, Nigeria",0.485,0.633,0.986
+"Johannesburg, South Africa",0.834,0.356,0.571
+"Toronto, Canada",0.211,0.396,0.415
+"Dubai, UAE",0.203,0.223,0.246
+"Johannesburg, South Africa",0.724,0.21,0.831
+"Toronto, Canada",0.549,0.424,0.166
+"Lagos, Nigeria",0.425,0.484,0.623
+"New York, USA",0.756,0.861,0.788
+"London, UK",0.851,0.504,0.273
+Singapore,0.52,0.252,0.533
+"New York, USA",0.555,0.235,0.457
+"Lagos, Nigeria",0.144,0.376,0.289
+"New York, USA",0.499,0.835,0.894
+"Lagos, Nigeria",0.116,0.735,0.579
+Singapore,0.425,0.495,0.871
+"New York, USA",0.873,0.865,0.866
+Singapore,0.71,0.272,0.982
+"Berlin, Germany",0.688,0.448,0.928
+"Toronto, Canada",0.728,0.101,0.759
+"Johannesburg, South Africa",0.78,0.793,0.708
+"Berlin, Germany",0.134,0.226,0.248
+"Lagos, Nigeria",0.804,0.866,0.486
+"Toronto, Canada",0.72,0.506,0.607
+"Berlin, Germany",0.647,0.895,0.156
+"Dubai, UAE",0.425,0.533,0.239
+"Johannesburg, South Africa",0.34,0.464,0.677
+"New York, USA",0.254,0.478,0.232
+"New York, USA",0.373,0.769,0.405
+"Toronto, Canada",0.803,0.39,0.134
+"Lagos, Nigeria",0.145,0.783,0.253
+"Dubai, UAE",0.681,0.809,0.599
+"Berlin, Germany",0.168,0.331,0.678
+"Lagos, Nigeria",0.193,0.841,0.193
+Singapore,0.26,0.252,0.317
+"New York, USA",0.639,0.761,0.456
+"London, UK",0.781,0.235,0.714
+"Johannesburg, South Africa",0.213,0.674,0.168
+"London, UK",0.287,0.88,0.504
+"Lagos, Nigeria",0.608,0.161,0.763
+"New York, USA",0.465,0.257,0.226
+"New York, USA",0.607,0.382,0.591
+"London, UK",0.227,0.388,0.497
+"London, UK",0.468,0.246,0.452
+"Dubai, UAE",0.372,0.498,0.94
+"Berlin, Germany",0.449,0.733,0.456
+"Berlin, Germany",0.337,0.742,0.502
+Singapore,0.215,0.473,0.156
+"London, UK",0.633,0.351,0.429
+Singapore,0.635,0.293,0.571
+"Lagos, Nigeria",0.312,0.672,0.109
+"Dubai, UAE",0.562,0.168,0.145
+"Toronto, Canada",0.869,0.536,0.315
+"New York, USA",0.53,0.533,0.768
+"Johannesburg, South Africa",0.351,0.19,0.805
+"New York, USA",0.347,0.477,0.821
+"New York, USA",0.765,0.3,0.616
+"Berlin, Germany",0.491,0.233,0.852
+"London, UK",0.311,0.166,0.223
+"Dubai, UAE",0.605,0.255,0.931
+"Dubai, UAE",0.792,0.616,0.826
+"Berlin, Germany",0.682,0.683,0.64
+"London, UK",0.169,0.283,0.623
+Singapore,0.373,0.559,0.2
+"Johannesburg, South Africa",0.75,0.397,0.821
+"Lagos, Nigeria",0.435,0.533,0.548
+"Berlin, Germany",0.899,0.297,0.839
+"London, UK",0.374,0.137,0.384
+"Lagos, Nigeria",0.826,0.361,0.146
+"Johannesburg, South Africa",0.468,0.229,0.555
+"Berlin, Germany",0.849,0.687,0.893
+"New York, USA",0.437,0.684,0.18
+"Lagos, Nigeria",0.475,0.158,0.47
+"Berlin, Germany",0.533,0.417,0.851
+Singapore,0.132,0.174,0.306
+"London, UK",0.167,0.672,0.336
+"New York, USA",0.784,0.115,0.659
+Singapore,0.312,0.45,0.878
+"London, UK",0.602,0.222,0.619
+"Johannesburg, South Africa",0.308,0.632,0.192
+Singapore,0.382,0.271,0.936
+"Toronto, Canada",0.583,0.425,0.582
+"Toronto, Canada",0.371,0.104,0.408
+"Berlin, Germany",0.681,0.891,0.778
+"Lagos, Nigeria",0.513,0.703,0.722
+"Dubai, UAE",0.705,0.232,0.376
+Singapore,0.271,0.455,0.87
+"Lagos, Nigeria",0.616,0.499,0.176
+"Berlin, Germany",0.351,0.281,0.891
+"Berlin, Germany",0.383,0.168,0.191
+"Dubai, UAE",0.249,0.556,0.132
+"New York, USA",0.203,0.768,0.878
+"London, UK",0.805,0.557,0.159
+"Dubai, UAE",0.857,0.605,0.992
+"London, UK",0.415,0.573,0.174
+Singapore,0.711,0.465,0.846
+"Toronto, Canada",0.743,0.218,0.968
+"Toronto, Canada",0.213,0.262,0.616
+"Berlin, Germany",0.851,0.362,0.252
+Singapore,0.747,0.335,0.246
+Singapore,0.732,0.517,0.784
+"Johannesburg, South Africa",0.84,0.437,0.161
+"Johannesburg, South Africa",0.382,0.61,0.717
+"Lagos, Nigeria",0.809,0.772,0.359
+Singapore,0.898,0.139,0.934
+"Lagos, Nigeria",0.285,0.47,0.599
+"New York, USA",0.197,0.273,0.3
+"Toronto, Canada",0.187,0.828,0.862
+"New York, USA",0.402,0.536,0.985
+"London, UK",0.747,0.807,0.77
+"Johannesburg, South Africa",0.701,0.636,0.728
+"Berlin, Germany",0.258,0.208,0.871
+"Lagos, Nigeria",0.528,0.777,0.118
+"Toronto, Canada",0.389,0.354,0.9
+Singapore,0.765,0.695,0.325
+"Toronto, Canada",0.743,0.507,0.631
+"Dubai, UAE",0.748,0.684,0.503
+"Berlin, Germany",0.52,0.522,0.49
+"Berlin, Germany",0.746,0.842,0.505
+"Dubai, UAE",0.687,0.508,0.715
+Singapore,0.52,0.149,0.708
+Singapore,0.718,0.462,0.438
+"Johannesburg, South Africa",0.401,0.874,0.994
+"Toronto, Canada",0.724,0.732,0.97
+"Johannesburg, South Africa",0.599,0.605,0.241
+"Toronto, Canada",0.79,0.221,0.719
+Singapore,0.814,0.247,0.561
+"Lagos, Nigeria",0.411,0.678,0.344
+"Lagos, Nigeria",0.33,0.685,0.827
+"Berlin, Germany",0.324,0.399,0.302
+"London, UK",0.361,0.896,0.703
+"London, UK",0.141,0.653,0.762
+"Berlin, Germany",0.845,0.816,0.462
+"Berlin, Germany",0.199,0.137,0.134
+"New York, USA",0.802,0.599,0.388
+Singapore,0.49,0.7,0.828
+"Johannesburg, South Africa",0.82,0.738,0.706
+"Johannesburg, South Africa",0.846,0.638,0.537
+"Johannesburg, South Africa",0.757,0.585,0.741
+"London, UK",0.426,0.697,0.294
+"Toronto, Canada",0.43,0.131,0.933
+"New York, USA",0.873,0.701,0.855
+"New York, USA",0.369,0.364,0.129
+"Dubai, UAE",0.429,0.709,0.703
+"Berlin, Germany",0.333,0.722,0.35
+"Lagos, Nigeria",0.511,0.321,0.546
+"New York, USA",0.588,0.672,0.277
+"Berlin, Germany",0.63,0.363,0.761
+"New York, USA",0.227,0.68,0.14
+"Dubai, UAE",0.377,0.252,0.598
+"Lagos, Nigeria",0.897,0.162,0.199
+"Berlin, Germany",0.157,0.571,0.377
+"Lagos, Nigeria",0.398,0.254,0.274
+"Lagos, Nigeria",0.269,0.816,0.49
+"Toronto, Canada",0.325,0.227,0.533
+"Lagos, Nigeria",0.474,0.586,0.693
+"Lagos, Nigeria",0.889,0.658,0.505
+"Lagos, Nigeria",0.75,0.102,0.752
+"London, UK",0.293,0.796,0.826
+"Toronto, Canada",0.21,0.681,0.994
+"London, UK",0.585,0.716,0.211
+"Lagos, Nigeria",0.801,0.145,0.468
+"London, UK",0.26,0.382,0.329
+"Berlin, Germany",0.256,0.614,0.752
+"Dubai, UAE",0.647,0.283,0.564
+"Dubai, UAE",0.338,0.766,0.2
+"Dubai, UAE",0.133,0.427,0.157
+"London, UK",0.342,0.741,0.551
+"Berlin, Germany",0.269,0.801,0.416
+"New York, USA",0.362,0.48,0.574
+"Toronto, Canada",0.752,0.282,0.324
+"Dubai, UAE",0.639,0.405,0.449
+"London, UK",0.324,0.5,0.977
+"Johannesburg, South Africa",0.427,0.464,0.317
+"Johannesburg, South Africa",0.271,0.104,0.121
+"Johannesburg, South Africa",0.543,0.168,0.93
+"New York, USA",0.281,0.465,0.823
+"Lagos, Nigeria",0.842,0.449,0.509
+Singapore,0.316,0.812,0.579
+"Berlin, Germany",0.67,0.321,0.402
+"Johannesburg, South Africa",0.415,0.882,0.229
+"Dubai, UAE",0.815,0.878,0.341
+"London, UK",0.352,0.251,0.422
+"New York, USA",0.113,0.12,0.6
+"Dubai, UAE",0.185,0.258,0.354
+"New York, USA",0.154,0.436,0.391
+"Toronto, Canada",0.348,0.394,0.593
+"Lagos, Nigeria",0.638,0.479,0.354
+"Toronto, Canada",0.513,0.653,0.975
+"London, UK",0.299,0.514,0.502
+"Lagos, Nigeria",0.899,0.376,0.827
+"London, UK",0.153,0.641,0.712
+"Berlin, Germany",0.599,0.367,0.222
+"London, UK",0.741,0.382,0.804
+"Dubai, UAE",0.866,0.375,0.323
+"Lagos, Nigeria",0.384,0.343,0.902
+Singapore,0.556,0.66,0.75
+"London, UK",0.301,0.24,0.745
+Singapore,0.127,0.719,0.375
+"Toronto, Canada",0.514,0.838,0.454
+"Johannesburg, South Africa",0.573,0.321,0.758
+"New York, USA",0.32,0.663,0.427
+"London, UK",0.286,0.583,0.508
+"Lagos, Nigeria",0.325,0.34,0.603
+"Johannesburg, South Africa",0.519,0.289,0.368
+"Toronto, Canada",0.644,0.855,0.787
+Singapore,0.677,0.658,0.347
+"Dubai, UAE",0.322,0.616,0.148
+"Lagos, Nigeria",0.785,0.898,0.808
+"Berlin, Germany",0.488,0.383,0.434
+"New York, USA",0.539,0.283,0.861
+"Toronto, Canada",0.283,0.364,0.661
+"New York, USA",0.407,0.236,0.848
+"London, UK",0.141,0.84,0.443
+"Johannesburg, South Africa",0.562,0.658,0.604
+Singapore,0.699,0.584,0.111
+"New York, USA",0.535,0.745,0.331
+"London, UK",0.361,0.513,0.887
+"Dubai, UAE",0.768,0.253,0.497
+"Toronto, Canada",0.146,0.223,0.672
+"Lagos, Nigeria",0.299,0.518,0.352
+Singapore,0.14,0.744,0.867
+"Johannesburg, South Africa",0.414,0.277,0.634
+"Johannesburg, South Africa",0.3,0.664,0.917
+"Toronto, Canada",0.646,0.3,0.319
+"Lagos, Nigeria",0.163,0.446,0.755
+"Dubai, UAE",0.127,0.149,0.118
+"Lagos, Nigeria",0.542,0.503,0.638
+"New York, USA",0.697,0.235,0.371
+Singapore,0.475,0.775,0.211
+"Lagos, Nigeria",0.325,0.866,0.664
+"Berlin, Germany",0.499,0.167,0.126
+"Johannesburg, South Africa",0.371,0.527,0.241
+"Berlin, Germany",0.337,0.663,0.434
+"Johannesburg, South Africa",0.458,0.152,0.502
+"New York, USA",0.591,0.543,0.917
+"New York, USA",0.563,0.849,0.402
+"Toronto, Canada",0.187,0.521,0.146
+"Berlin, Germany",0.275,0.597,0.966
+"Dubai, UAE",0.106,0.362,0.848
+"Berlin, Germany",0.451,0.592,0.305
+"Lagos, Nigeria",0.716,0.81,0.564
+"Toronto, Canada",0.431,0.363,0.24
+"Toronto, Canada",0.899,0.718,0.96
+"Toronto, Canada",0.7,0.557,0.565
+"London, UK",0.4,0.306,0.525
+"Lagos, Nigeria",0.879,0.413,0.846
+"New York, USA",0.613,0.386,0.216
+Singapore,0.836,0.475,0.338
+"Johannesburg, South Africa",0.17,0.19,0.759
+Singapore,0.546,0.221,0.653
+"Johannesburg, South Africa",0.827,0.403,0.243
+"Johannesburg, South Africa",0.621,0.55,0.29
+"Dubai, UAE",0.891,0.594,0.892
+"Toronto, Canada",0.897,0.828,0.841
+"Lagos, Nigeria",0.734,0.555,0.113
+"Dubai, UAE",0.323,0.684,0.956
+"Lagos, Nigeria",0.783,0.485,0.624
+"Lagos, Nigeria",0.663,0.519,0.524
+"Berlin, Germany",0.185,0.572,0.42
+Singapore,0.41,0.518,0.438
+"Dubai, UAE",0.8,0.348,0.545
+"New York, USA",0.666,0.882,0.29
+"Toronto, Canada",0.442,0.595,0.218
+"New York, USA",0.59,0.377,0.605
+"New York, USA",0.849,0.739,0.508
+"Berlin, Germany",0.578,0.231,0.709
+"New York, USA",0.282,0.894,0.543
+Singapore,0.635,0.731,0.453
+"New York, USA",0.313,0.178,0.409
+"Lagos, Nigeria",0.595,0.779,0.62
+"Lagos, Nigeria",0.616,0.307,0.351
+"Toronto, Canada",0.389,0.61,0.836
+Singapore,0.693,0.232,0.814
+"London, UK",0.334,0.669,0.68
+"Toronto, Canada",0.112,0.706,0.447
+"Toronto, Canada",0.381,0.781,0.642
+Singapore,0.79,0.49,0.66
+"Lagos, Nigeria",0.561,0.543,0.71
+"New York, USA",0.779,0.272,0.443
+Singapore,0.203,0.513,0.476
+"Berlin, Germany",0.254,0.525,0.92
+"Dubai, UAE",0.232,0.747,0.2
+"Johannesburg, South Africa",0.728,0.669,0.218
+"Johannesburg, South Africa",0.59,0.659,0.992
+Singapore,0.369,0.124,0.661
+"Toronto, Canada",0.725,0.537,0.513
+"Johannesburg, South Africa",0.448,0.894,0.208
+"London, UK",0.592,0.702,0.68
+"Toronto, Canada",0.784,0.768,0.798
+"New York, USA",0.44,0.495,0.578
+"Toronto, Canada",0.702,0.766,0.144
+"New York, USA",0.553,0.754,0.56
+"New York, USA",0.826,0.524,0.237
+"Berlin, Germany",0.464,0.555,0.489
+"Berlin, Germany",0.339,0.142,0.363
+"Dubai, UAE",0.316,0.782,0.218
+"Dubai, UAE",0.253,0.207,0.143
+"Toronto, Canada",0.385,0.341,0.639
+"Dubai, UAE",0.447,0.696,0.615
+"Berlin, Germany",0.208,0.341,0.244
+"London, UK",0.689,0.504,0.926
+Singapore,0.85,0.223,0.887
+"Lagos, Nigeria",0.429,0.333,0.342
+"Dubai, UAE",0.84,0.687,0.554
+Singapore,0.438,0.435,0.556
+"Johannesburg, South Africa",0.276,0.551,0.262
+Singapore,0.787,0.386,0.456
+"Toronto, Canada",0.821,0.845,0.674
+"Dubai, UAE",0.611,0.785,0.55
+"Berlin, Germany",0.838,0.19,0.443
+"London, UK",0.379,0.882,0.495
+"Johannesburg, South Africa",0.355,0.748,0.679
+"Lagos, Nigeria",0.784,0.227,0.929
+"Dubai, UAE",0.325,0.133,0.926
+"London, UK",0.793,0.814,0.86
+"Dubai, UAE",0.291,0.706,0.504
+"Toronto, Canada",0.656,0.32,0.992
+"Lagos, Nigeria",0.755,0.862,0.243
+"Dubai, UAE",0.794,0.825,0.516
+"Berlin, Germany",0.872,0.271,0.586
+"Johannesburg, South Africa",0.34,0.419,0.976
+"Johannesburg, South Africa",0.535,0.138,0.533
+Singapore,0.865,0.347,0.687
+"New York, USA",0.108,0.497,0.311
+"Dubai, UAE",0.592,0.151,0.571
+Singapore,0.22,0.369,0.692
+"Johannesburg, South Africa",0.452,0.221,0.305
+"Berlin, Germany",0.167,0.839,0.57
+"Dubai, UAE",0.369,0.764,0.692
+"Johannesburg, South Africa",0.653,0.713,0.349
+"Dubai, UAE",0.749,0.72,0.519
+Singapore,0.549,0.111,0.833
+"New York, USA",0.449,0.582,0.584
+Singapore,0.374,0.573,0.294
+"London, UK",0.826,0.894,0.293
+"Dubai, UAE",0.258,0.606,0.736
+"Johannesburg, South Africa",0.647,0.62,0.354
+"New York, USA",0.213,0.405,0.122
+"New York, USA",0.82,0.5,0.867
+"London, UK",0.328,0.416,0.117
+"Dubai, UAE",0.397,0.829,0.594
+"Dubai, UAE",0.247,0.262,0.3
+"Johannesburg, South Africa",0.847,0.22,0.799
+"London, UK",0.81,0.898,0.225
+"New York, USA",0.479,0.845,0.869
+"New York, USA",0.124,0.574,0.614
+"Toronto, Canada",0.824,0.718,0.252
+"Berlin, Germany",0.87,0.189,0.684
+"Johannesburg, South Africa",0.156,0.715,0.126
+"Lagos, Nigeria",0.587,0.472,0.64
+"London, UK",0.865,0.762,0.77
+"London, UK",0.657,0.512,0.532
+"New York, USA",0.513,0.681,0.234
+"London, UK",0.374,0.372,0.278
+"Berlin, Germany",0.692,0.685,0.232
+"Dubai, UAE",0.89,0.318,0.464
+"Toronto, Canada",0.611,0.863,0.26
+"Dubai, UAE",0.504,0.636,0.37
+"Johannesburg, South Africa",0.234,0.483,0.223
+"Dubai, UAE",0.789,0.585,0.26
+"Toronto, Canada",0.407,0.593,0.941
+"Johannesburg, South Africa",0.716,0.784,0.113
+Singapore,0.378,0.547,0.571
+"New York, USA",0.197,0.551,0.488
+"Dubai, UAE",0.635,0.569,0.353
+"Dubai, UAE",0.537,0.718,0.818
+"New York, USA",0.221,0.493,0.297
+"Johannesburg, South Africa",0.764,0.27,0.903
+"Lagos, Nigeria",0.342,0.434,0.714
+"Berlin, Germany",0.454,0.4,0.698
+"London, UK",0.497,0.147,0.966
+"New York, USA",0.297,0.74,0.879
+Singapore,0.502,0.769,0.539
+"Lagos, Nigeria",0.154,0.314,0.619
+"Toronto, Canada",0.25,0.359,0.798
+"London, UK",0.321,0.357,0.285
+"Dubai, UAE",0.387,0.514,0.681
+"Toronto, Canada",0.299,0.475,0.345
+"Toronto, Canada",0.477,0.809,0.163
+"Berlin, Germany",0.627,0.495,0.984
+"New York, USA",0.376,0.242,0.732
+"New York, USA",0.13,0.698,0.734
+"New York, USA",0.607,0.795,0.496
+"Toronto, Canada",0.804,0.588,0.278
+Singapore,0.2,0.712,0.896
+"Lagos, Nigeria",0.248,0.28,0.668
+"Berlin, Germany",0.124,0.82,0.324
+"Berlin, Germany",0.275,0.16,0.248
+"Toronto, Canada",0.337,0.819,0.768
+"New York, USA",0.465,0.391,0.259
+"Dubai, UAE",0.66,0.172,0.296
+"Lagos, Nigeria",0.446,0.245,0.191
+"New York, USA",0.392,0.891,0.777
+"Berlin, Germany",0.647,0.398,0.668
+"Lagos, Nigeria",0.616,0.719,0.482
+Singapore,0.439,0.482,0.258
+"London, UK",0.371,0.561,0.599
+"London, UK",0.404,0.609,0.682
+"Toronto, Canada",0.424,0.582,0.323
+"London, UK",0.172,0.899,0.387
+"Dubai, UAE",0.245,0.541,0.292
+"Berlin, Germany",0.625,0.597,0.421
+"Berlin, Germany",0.845,0.379,0.32
+"London, UK",0.168,0.292,0.538
+"Toronto, Canada",0.197,0.459,0.944
+"Toronto, Canada",0.179,0.591,0.354
+"Lagos, Nigeria",0.304,0.352,0.473
+"London, UK",0.734,0.5,0.435
+Singapore,0.769,0.752,0.278
+"London, UK",0.813,0.439,0.976
+"Dubai, UAE",0.727,0.563,0.567
+"Berlin, Germany",0.467,0.84,0.642
+"London, UK",0.555,0.599,0.263
+"New York, USA",0.648,0.349,0.826
+"Johannesburg, South Africa",0.298,0.556,0.887
+"Toronto, Canada",0.536,0.789,0.558
+"Dubai, UAE",0.512,0.222,0.386
+"Toronto, Canada",0.713,0.759,0.331
+"Dubai, UAE",0.287,0.18,0.18
+Singapore,0.836,0.866,0.478
+"Johannesburg, South Africa",0.409,0.228,0.626
+"Dubai, UAE",0.495,0.473,0.523
+"Lagos, Nigeria",0.368,0.861,0.571
+Singapore,0.192,0.267,0.902
+"London, UK",0.242,0.613,0.343
+"Johannesburg, South Africa",0.892,0.69,0.626
+"Toronto, Canada",0.38,0.13,0.237
+"London, UK",0.192,0.575,0.666
+"Berlin, Germany",0.456,0.708,0.182
+"Toronto, Canada",0.21,0.876,0.229
+"Johannesburg, South Africa",0.592,0.211,0.243
+"Johannesburg, South Africa",0.119,0.791,0.663
+"London, UK",0.548,0.604,0.716
+"London, UK",0.649,0.682,0.11
+"Dubai, UAE",0.165,0.693,0.845
+"Lagos, Nigeria",0.218,0.679,0.82
+"Toronto, Canada",0.72,0.838,0.295
+"New York, USA",0.437,0.198,0.18
+"Johannesburg, South Africa",0.174,0.327,0.624
+Singapore,0.79,0.823,0.882
+"Johannesburg, South Africa",0.69,0.465,0.416
+"Dubai, UAE",0.25,0.425,0.969
+"Toronto, Canada",0.378,0.531,0.977
+"Berlin, Germany",0.554,0.348,0.113
+"Johannesburg, South Africa",0.117,0.578,0.69
+"London, UK",0.492,0.803,0.416
+"Toronto, Canada",0.372,0.417,0.226
+"London, UK",0.841,0.266,0.767
+Singapore,0.281,0.225,0.744
+"Lagos, Nigeria",0.419,0.658,0.146
+"Lagos, Nigeria",0.23,0.159,0.225
+"Toronto, Canada",0.203,0.16,0.169
+"Johannesburg, South Africa",0.324,0.869,0.635
+Singapore,0.753,0.634,0.358
+"Lagos, Nigeria",0.402,0.251,0.606
+"Dubai, UAE",0.249,0.606,0.716
+"London, UK",0.114,0.563,0.414
+"Berlin, Germany",0.539,0.723,0.414
+"Dubai, UAE",0.496,0.439,0.774
+"Toronto, Canada",0.268,0.113,0.418
+Singapore,0.391,0.452,0.415
+"Berlin, Germany",0.331,0.653,0.642
+Singapore,0.669,0.866,0.163
+"Lagos, Nigeria",0.394,0.772,0.408
+"Lagos, Nigeria",0.476,0.119,0.218
+"Johannesburg, South Africa",0.892,0.296,0.893
+"London, UK",0.816,0.54,0.397
+"Dubai, UAE",0.626,0.144,0.521
+"Dubai, UAE",0.486,0.576,0.178
+"Toronto, Canada",0.382,0.443,0.545
+"Dubai, UAE",0.855,0.635,0.692
+Singapore,0.83,0.276,0.14
+"Toronto, Canada",0.232,0.25,0.399
+"New York, USA",0.302,0.832,0.601
+"London, UK",0.412,0.375,0.997
+"Toronto, Canada",0.466,0.877,0.79
+"Berlin, Germany",0.534,0.228,0.61
+Singapore,0.131,0.703,0.288
+"Lagos, Nigeria",0.154,0.261,0.972
+"Berlin, Germany",0.476,0.673,0.281
+Singapore,0.835,0.31,0.239
+"Johannesburg, South Africa",0.694,0.365,0.483
+"Dubai, UAE",0.534,0.613,0.766
+"Lagos, Nigeria",0.123,0.127,0.182
+"Johannesburg, South Africa",0.155,0.297,0.266
+"London, UK",0.604,0.786,0.662
+"Toronto, Canada",0.253,0.349,0.122
+"Lagos, Nigeria",0.561,0.865,0.694
+"Johannesburg, South Africa",0.463,0.215,0.158
+"London, UK",0.248,0.677,0.432
+"Berlin, Germany",0.472,0.231,0.474
+Singapore,0.809,0.711,0.679
+"Lagos, Nigeria",0.28,0.271,0.397
+"Dubai, UAE",0.866,0.793,0.185
+"Toronto, Canada",0.283,0.599,0.226
+"Dubai, UAE",0.465,0.805,0.498
+"Berlin, Germany",0.678,0.602,0.615
+"London, UK",0.72,0.745,0.942
+"Berlin, Germany",0.348,0.796,0.599
+"Lagos, Nigeria",0.113,0.475,0.731
+"Dubai, UAE",0.601,0.639,0.271
+"Dubai, UAE",0.358,0.121,0.992
+Singapore,0.517,0.497,0.231
+"New York, USA",0.152,0.27,0.607
+"New York, USA",0.413,0.192,0.952
+"Toronto, Canada",0.605,0.897,0.52
+"London, UK",0.167,0.898,0.913
+"Toronto, Canada",0.479,0.27,0.629
+"Lagos, Nigeria",0.45,0.818,0.867
+"London, UK",0.35,0.818,0.742
+"New York, USA",0.889,0.881,0.629
+"Berlin, Germany",0.879,0.414,0.204
+"Berlin, Germany",0.492,0.846,0.362
+Singapore,0.251,0.725,0.209
+"Lagos, Nigeria",0.473,0.688,0.593
+"Johannesburg, South Africa",0.778,0.298,0.494
+"Lagos, Nigeria",0.376,0.492,0.487
+Singapore,0.373,0.73,0.355
+"Johannesburg, South Africa",0.747,0.777,0.836
+"London, UK",0.602,0.258,0.483
+"Johannesburg, South Africa",0.424,0.349,0.353
+"New York, USA",0.515,0.23,0.338
+"Berlin, Germany",0.576,0.221,0.377
+"London, UK",0.229,0.271,0.846
+"Dubai, UAE",0.482,0.827,0.43
+"Dubai, UAE",0.519,0.39,0.319
+"Dubai, UAE",0.896,0.498,0.9
+"London, UK",0.302,0.109,0.906
+Singapore,0.298,0.702,0.713
+"London, UK",0.709,0.331,0.843
+Singapore,0.368,0.663,0.848
+"Toronto, Canada",0.145,0.259,0.727
+"Johannesburg, South Africa",0.866,0.402,0.519
+"London, UK",0.133,0.514,0.951
+"Dubai, UAE",0.835,0.605,0.396
+"Johannesburg, South Africa",0.75,0.232,0.812
+Singapore,0.589,0.446,0.305
+"London, UK",0.805,0.109,0.686
+"Dubai, UAE",0.257,0.206,0.847
+"Dubai, UAE",0.25,0.363,0.751
+"Johannesburg, South Africa",0.455,0.849,0.737
+"London, UK",0.897,0.807,0.519
+"Johannesburg, South Africa",0.107,0.519,0.91
+"London, UK",0.214,0.584,0.382
+"Toronto, Canada",0.675,0.331,0.916
+"Lagos, Nigeria",0.307,0.636,0.133
+"Dubai, UAE",0.544,0.29,0.64
+Singapore,0.671,0.102,0.66
+"Toronto, Canada",0.772,0.871,0.336
+"Johannesburg, South Africa",0.545,0.405,0.779
+"London, UK",0.181,0.518,0.273
+Singapore,0.655,0.18,0.472
+"Johannesburg, South Africa",0.501,0.522,0.909
+Singapore,0.655,0.822,0.455
+"Johannesburg, South Africa",0.146,0.802,0.844
+"Lagos, Nigeria",0.103,0.562,0.189
+"Toronto, Canada",0.826,0.785,0.203
+"Johannesburg, South Africa",0.555,0.391,0.26
+Singapore,0.243,0.254,0.248
+"New York, USA",0.664,0.437,0.981
+"New York, USA",0.666,0.748,0.201
+"London, UK",0.832,0.665,0.235
+"London, UK",0.714,0.408,0.253
+"Berlin, Germany",0.771,0.373,0.639
+"Johannesburg, South Africa",0.768,0.871,0.543
+"Johannesburg, South Africa",0.335,0.311,0.751
+"New York, USA",0.517,0.347,0.409
+Singapore,0.128,0.378,0.137
+"Lagos, Nigeria",0.134,0.726,0.411
+"Johannesburg, South Africa",0.805,0.78,0.797
+Singapore,0.141,0.274,0.833
+"Lagos, Nigeria",0.539,0.426,0.742
+"Dubai, UAE",0.843,0.792,0.464
+Singapore,0.264,0.351,0.649
+"Dubai, UAE",0.454,0.423,0.229
+"Berlin, Germany",0.618,0.543,0.327
+"New York, USA",0.549,0.613,0.322
+"Toronto, Canada",0.391,0.343,0.168
+Singapore,0.73,0.561,0.946
+"Toronto, Canada",0.428,0.68,0.488
+"Lagos, Nigeria",0.409,0.172,0.887
+"Johannesburg, South Africa",0.117,0.899,0.3
+"Toronto, Canada",0.792,0.846,0.791
+"London, UK",0.9,0.222,0.824
+"London, UK",0.695,0.366,0.104
+Singapore,0.877,0.325,0.131
+"Berlin, Germany",0.496,0.118,0.929
+"Johannesburg, South Africa",0.565,0.502,0.612
+"Toronto, Canada",0.808,0.227,0.356
+Singapore,0.519,0.209,0.267
+"Berlin, Germany",0.157,0.269,0.836
+"New York, USA",0.691,0.708,0.274
+"Toronto, Canada",0.211,0.203,0.859
+"Lagos, Nigeria",0.374,0.603,0.66
+"Lagos, Nigeria",0.776,0.333,0.694
+"Johannesburg, South Africa",0.322,0.155,0.494
+"New York, USA",0.848,0.882,0.132
+"London, UK",0.752,0.618,0.599
+"London, UK",0.875,0.263,0.742
+"London, UK",0.184,0.505,0.103
+"Toronto, Canada",0.336,0.411,0.123
+"Berlin, Germany",0.733,0.24,0.916
+"New York, USA",0.639,0.869,0.712
+"Dubai, UAE",0.711,0.787,0.812
+Singapore,0.798,0.395,0.124
+Singapore,0.318,0.749,0.461
+"Toronto, Canada",0.878,0.252,0.772
+"Lagos, Nigeria",0.708,0.16,0.182
+"Berlin, Germany",0.858,0.521,0.27
+"Berlin, Germany",0.187,0.414,0.558
+"Toronto, Canada",0.546,0.156,0.904
+"Lagos, Nigeria",0.753,0.604,0.396
+"Berlin, Germany",0.171,0.756,0.845
+"Toronto, Canada",0.488,0.522,0.108
+"Lagos, Nigeria",0.738,0.143,0.264
+"Dubai, UAE",0.14,0.402,0.361
+"Toronto, Canada",0.674,0.301,0.738
+"Dubai, UAE",0.875,0.219,0.621
+"Johannesburg, South Africa",0.145,0.499,0.338
+"Lagos, Nigeria",0.834,0.152,0.623
+"Johannesburg, South Africa",0.435,0.151,0.901
+"New York, USA",0.119,0.721,0.522
+"Dubai, UAE",0.379,0.442,0.726
+Singapore,0.343,0.696,0.411
+"London, UK",0.299,0.361,0.741
+"Toronto, Canada",0.763,0.38,0.88
+"Johannesburg, South Africa",0.462,0.443,0.61
+"Johannesburg, South Africa",0.346,0.344,0.448
+"Toronto, Canada",0.348,0.547,0.779
+"Toronto, Canada",0.894,0.158,0.961
+"Toronto, Canada",0.595,0.546,0.161
+"New York, USA",0.133,0.671,0.565
+"Dubai, UAE",0.81,0.894,0.264
+"Johannesburg, South Africa",0.681,0.61,0.347
+"London, UK",0.269,0.667,0.673
+Singapore,0.191,0.576,0.964
+"Dubai, UAE",0.402,0.861,0.868
+"London, UK",0.266,0.748,0.332
+"Berlin, Germany",0.661,0.592,0.122
+"New York, USA",0.239,0.366,0.639
+"London, UK",0.519,0.36,0.58
+"London, UK",0.61,0.703,0.514
+"Lagos, Nigeria",0.635,0.843,0.528
+"Dubai, UAE",0.713,0.888,0.633
+"Lagos, Nigeria",0.502,0.31,0.457
+"New York, USA",0.269,0.574,0.254
+"New York, USA",0.372,0.662,0.333
+"London, UK",0.404,0.43,0.157
+"Lagos, Nigeria",0.65,0.187,0.15
+"Lagos, Nigeria",0.601,0.329,0.881
+"London, UK",0.496,0.512,0.213
+Singapore,0.479,0.192,0.162
+"London, UK",0.148,0.35,0.844
+"Berlin, Germany",0.652,0.306,0.958
+"Toronto, Canada",0.743,0.384,0.285
+"Johannesburg, South Africa",0.811,0.65,0.782
+"Dubai, UAE",0.116,0.481,0.246
+"Johannesburg, South Africa",0.8,0.401,0.713
+"New York, USA",0.801,0.32,0.712
+"New York, USA",0.63,0.651,0.486
+"Berlin, Germany",0.323,0.64,0.894
+Singapore,0.814,0.457,0.209
+"Lagos, Nigeria",0.378,0.323,0.529
+"Dubai, UAE",0.565,0.747,0.642
+Singapore,0.453,0.782,0.783
+"Toronto, Canada",0.809,0.777,0.228
+"Johannesburg, South Africa",0.306,0.414,0.581
+Singapore,0.365,0.303,0.509
+"Lagos, Nigeria",0.426,0.777,0.475
+"Berlin, Germany",0.784,0.884,0.423
+"Berlin, Germany",0.355,0.255,0.997
+"Berlin, Germany",0.331,0.609,0.253
+"New York, USA",0.737,0.364,0.778
+"New York, USA",0.41,0.489,0.439
+"Johannesburg, South Africa",0.632,0.558,0.684
+"Lagos, Nigeria",0.8,0.531,0.989
+"Dubai, UAE",0.28,0.709,0.53
+Singapore,0.471,0.877,0.842
+"Johannesburg, South Africa",0.49,0.169,0.168
+"London, UK",0.555,0.647,0.599
+"Johannesburg, South Africa",0.835,0.519,0.444
+"New York, USA",0.884,0.417,0.729
+"Dubai, UAE",0.741,0.63,0.133
+"Toronto, Canada",0.124,0.809,0.503
+Singapore,0.194,0.588,0.545
+"Toronto, Canada",0.194,0.756,0.86
+"Toronto, Canada",0.525,0.336,0.446
+Singapore,0.135,0.45,0.389
+Singapore,0.509,0.239,0.45
+"Berlin, Germany",0.701,0.558,0.494
+"Lagos, Nigeria",0.342,0.692,0.329
+Singapore,0.476,0.563,0.141
+"Berlin, Germany",0.177,0.83,0.991
+"Toronto, Canada",0.155,0.787,0.789
+"Toronto, Canada",0.527,0.44,0.987
+Singapore,0.11,0.558,0.696
+"Berlin, Germany",0.663,0.618,0.895
+"Toronto, Canada",0.214,0.746,0.505
+"Toronto, Canada",0.815,0.16,0.414
+"Johannesburg, South Africa",0.78,0.746,0.994
+"Johannesburg, South Africa",0.281,0.153,0.253
+"Lagos, Nigeria",0.288,0.676,0.295
+"Toronto, Canada",0.129,0.472,0.701
+"Berlin, Germany",0.887,0.29,0.33
+"Berlin, Germany",0.144,0.666,0.488
+Singapore,0.484,0.796,0.939
+"London, UK",0.779,0.763,0.339
+"Toronto, Canada",0.228,0.255,0.56
+Singapore,0.717,0.583,0.763
+"London, UK",0.235,0.63,0.165
+Singapore,0.344,0.142,0.165
+Singapore,0.304,0.363,0.771
+"Dubai, UAE",0.138,0.183,0.928
+"Berlin, Germany",0.198,0.433,0.633
+"London, UK",0.64,0.682,0.134
+"Johannesburg, South Africa",0.169,0.744,0.507
+"Dubai, UAE",0.88,0.711,0.748
+"Toronto, Canada",0.309,0.317,0.669
+"Johannesburg, South Africa",0.188,0.219,0.278
+"New York, USA",0.398,0.798,0.148
+"Lagos, Nigeria",0.321,0.694,0.9
+"Dubai, UAE",0.163,0.704,0.303
+"Toronto, Canada",0.625,0.317,0.996
+"London, UK",0.722,0.558,0.204
+"London, UK",0.102,0.818,0.203
+"Johannesburg, South Africa",0.558,0.767,0.701
+"Johannesburg, South Africa",0.616,0.314,0.343
+Singapore,0.887,0.861,0.977
+"Dubai, UAE",0.628,0.403,0.313
+"Johannesburg, South Africa",0.339,0.558,0.661
+Singapore,0.636,0.685,0.466
+"London, UK",0.321,0.301,0.181
+"Dubai, UAE",0.212,0.415,0.737
+"Johannesburg, South Africa",0.693,0.843,0.811
+"Berlin, Germany",0.487,0.161,0.844
+"Toronto, Canada",0.861,0.116,0.541
+"London, UK",0.15,0.872,0.978
+"New York, USA",0.484,0.8,0.82
+"Toronto, Canada",0.301,0.74,0.496
+"Berlin, Germany",0.504,0.367,0.19
+Singapore,0.134,0.401,0.329
+"Toronto, Canada",0.132,0.818,0.795
+"Dubai, UAE",0.529,0.88,0.892
+"Dubai, UAE",0.383,0.149,0.696
+"Berlin, Germany",0.118,0.475,0.449
+"Berlin, Germany",0.587,0.421,0.42
+"Lagos, Nigeria",0.455,0.69,0.423
+"Johannesburg, South Africa",0.882,0.495,0.542
+"Lagos, Nigeria",0.766,0.163,0.753
+"New York, USA",0.684,0.234,0.247
+"London, UK",0.483,0.346,0.119
+Singapore,0.488,0.73,0.169
+"Toronto, Canada",0.852,0.719,0.699
+"London, UK",0.685,0.717,0.864
+"Toronto, Canada",0.172,0.721,0.466
+"New York, USA",0.449,0.433,0.404
+"New York, USA",0.434,0.592,0.118
+"Toronto, Canada",0.19,0.216,0.155
+"Johannesburg, South Africa",0.776,0.28,0.779
+"Berlin, Germany",0.325,0.359,0.181
+"Lagos, Nigeria",0.399,0.511,0.846
+Singapore,0.884,0.247,0.803
+"Toronto, Canada",0.646,0.8,0.838
+"Johannesburg, South Africa",0.745,0.597,0.717
+"Berlin, Germany",0.184,0.53,0.119
+"Toronto, Canada",0.532,0.113,0.499
+"Toronto, Canada",0.672,0.55,0.241
+"Dubai, UAE",0.751,0.833,0.404
+"Toronto, Canada",0.808,0.279,0.602
+"Toronto, Canada",0.172,0.277,0.759
+"Toronto, Canada",0.691,0.832,0.309
+Singapore,0.179,0.766,0.401
+"Berlin, Germany",0.423,0.644,0.289
+"New York, USA",0.457,0.687,0.986
+"Dubai, UAE",0.329,0.147,0.936
+"Lagos, Nigeria",0.791,0.709,0.688
+"Lagos, Nigeria",0.569,0.696,0.842
+"Berlin, Germany",0.212,0.14,0.747
+"Johannesburg, South Africa",0.398,0.732,0.864
+"Berlin, Germany",0.163,0.613,0.942
+"Toronto, Canada",0.496,0.557,0.937
+"Johannesburg, South Africa",0.384,0.512,0.617
+Singapore,0.357,0.511,0.968
+"New York, USA",0.775,0.287,0.467
+"Dubai, UAE",0.78,0.102,0.274
+"New York, USA",0.644,0.868,0.308
+"London, UK",0.835,0.469,0.513
+Singapore,0.624,0.135,0.328
+"Johannesburg, South Africa",0.595,0.365,0.214
+"New York, USA",0.175,0.398,0.457
+Singapore,0.108,0.797,0.623
+Singapore,0.268,0.374,0.971
+"Toronto, Canada",0.729,0.803,0.658
+"London, UK",0.843,0.454,0.797
+"Johannesburg, South Africa",0.284,0.234,0.714
+"Berlin, Germany",0.235,0.329,0.446
+Singapore,0.768,0.778,0.27
+"Toronto, Canada",0.404,0.228,0.354
+"Dubai, UAE",0.882,0.592,0.889
+"Dubai, UAE",0.869,0.68,0.24
+"Dubai, UAE",0.367,0.35,0.188
+Singapore,0.548,0.743,0.868
+"Johannesburg, South Africa",0.644,0.35,0.593
+Singapore,0.612,0.318,0.714
+"London, UK",0.88,0.16,0.843
+"Toronto, Canada",0.387,0.568,0.406
+"Berlin, Germany",0.681,0.526,0.775
+"London, UK",0.565,0.63,0.668
+"Toronto, Canada",0.516,0.474,0.122
+"Lagos, Nigeria",0.219,0.265,0.748
+"Berlin, Germany",0.703,0.183,0.41
+"Johannesburg, South Africa",0.418,0.499,0.287
+"Johannesburg, South Africa",0.203,0.53,0.965
+"London, UK",0.109,0.846,0.793
+"Johannesburg, South Africa",0.219,0.496,0.122
+"Lagos, Nigeria",0.652,0.846,0.784
+"Lagos, Nigeria",0.699,0.608,0.865
+"London, UK",0.137,0.22,0.421
+"New York, USA",0.224,0.169,0.394
+"New York, USA",0.899,0.869,0.481
+"Toronto, Canada",0.431,0.263,0.52
+"London, UK",0.816,0.378,0.443
+Singapore,0.425,0.128,0.556
+"London, UK",0.523,0.32,0.975
+"Johannesburg, South Africa",0.8,0.865,0.129
+"Lagos, Nigeria",0.892,0.173,0.984
+"Johannesburg, South Africa",0.157,0.819,0.864
+"Lagos, Nigeria",0.606,0.152,0.818
+Singapore,0.475,0.621,0.505
+Singapore,0.531,0.496,0.168
+"Dubai, UAE",0.261,0.685,0.657
+"Lagos, Nigeria",0.815,0.722,0.905
+"Berlin, Germany",0.329,0.642,0.483
+"New York, USA",0.211,0.257,0.162
+"Toronto, Canada",0.667,0.608,0.105
+"Toronto, Canada",0.884,0.594,0.207
+"London, UK",0.292,0.78,0.645
+"Lagos, Nigeria",0.475,0.191,0.992
+Singapore,0.152,0.583,0.741
+Singapore,0.367,0.265,0.241
+"London, UK",0.745,0.631,0.876
+"New York, USA",0.805,0.515,0.694
+Singapore,0.287,0.252,0.371
+"Johannesburg, South Africa",0.538,0.199,0.552
+"Berlin, Germany",0.728,0.659,0.463
+Singapore,0.115,0.754,0.884
+Singapore,0.27,0.396,0.958
+"New York, USA",0.13,0.598,0.211
+"London, UK",0.201,0.745,0.233
+"Lagos, Nigeria",0.242,0.679,0.174
+"London, UK",0.124,0.684,0.442
+"Johannesburg, South Africa",0.45,0.546,0.974
+"Lagos, Nigeria",0.43,0.209,0.989
+"Lagos, Nigeria",0.333,0.857,0.636
+Singapore,0.355,0.346,0.517
+Singapore,0.53,0.192,0.372
+"Dubai, UAE",0.744,0.791,0.1
+"London, UK",0.88,0.806,0.337
+"Berlin, Germany",0.753,0.801,0.232
+"Dubai, UAE",0.412,0.513,0.102
+"London, UK",0.8,0.347,0.906
+"Johannesburg, South Africa",0.759,0.749,0.176
+"New York, USA",0.83,0.842,0.738
+"Johannesburg, South Africa",0.152,0.108,0.932
+"New York, USA",0.383,0.825,0.214
+Singapore,0.137,0.289,0.316
+"Toronto, Canada",0.357,0.736,0.312
+"New York, USA",0.324,0.748,0.178
+"Dubai, UAE",0.828,0.549,0.919
+"Johannesburg, South Africa",0.856,0.45,0.864
+"New York, USA",0.656,0.28,0.443
+"Johannesburg, South Africa",0.326,0.292,0.793
+Singapore,0.106,0.498,0.558
+"London, UK",0.636,0.214,0.711
+Singapore,0.5,0.641,0.72
+"London, UK",0.266,0.125,0.798
+"Berlin, Germany",0.241,0.121,0.909
+"New York, USA",0.548,0.508,0.81
+"Berlin, Germany",0.204,0.313,0.736
+"Berlin, Germany",0.539,0.482,0.66
+"Johannesburg, South Africa",0.833,0.546,0.288
+"New York, USA",0.733,0.349,0.355
+"London, UK",0.853,0.803,0.168
+"Lagos, Nigeria",0.299,0.497,0.332
+"Johannesburg, South Africa",0.862,0.758,0.59
+Singapore,0.48,0.814,0.958
+"Lagos, Nigeria",0.605,0.811,0.214
+"Johannesburg, South Africa",0.335,0.153,0.499
+"Lagos, Nigeria",0.895,0.136,0.776
+"Berlin, Germany",0.45,0.574,0.814
+Singapore,0.25,0.428,0.272
+"Lagos, Nigeria",0.559,0.717,0.26
+"Dubai, UAE",0.304,0.863,0.65
+"Toronto, Canada",0.449,0.154,0.923
+"Toronto, Canada",0.266,0.604,0.824
+"Dubai, UAE",0.409,0.584,0.446
+"Berlin, Germany",0.174,0.795,0.693
+"London, UK",0.328,0.351,0.329
+"New York, USA",0.299,0.513,0.525
+Singapore,0.858,0.853,0.582
+Singapore,0.574,0.896,0.674
+"Berlin, Germany",0.121,0.554,0.46
+"Lagos, Nigeria",0.831,0.266,0.129
+"New York, USA",0.615,0.735,0.935
+"Dubai, UAE",0.37,0.4,0.961
+"London, UK",0.393,0.83,0.718
+"Lagos, Nigeria",0.125,0.736,0.34
+"Johannesburg, South Africa",0.879,0.852,0.635
+"Dubai, UAE",0.788,0.272,0.348
+"Toronto, Canada",0.152,0.432,0.729
+"Toronto, Canada",0.645,0.3,0.424
+"Berlin, Germany",0.459,0.852,0.602
+"London, UK",0.747,0.688,0.153
+Singapore,0.599,0.12,0.997
+Singapore,0.43,0.324,0.696
+"Berlin, Germany",0.449,0.69,0.946
+"Johannesburg, South Africa",0.621,0.645,0.77
+"Johannesburg, South Africa",0.624,0.13,0.606
+"Dubai, UAE",0.546,0.408,0.763
+"London, UK",0.807,0.735,0.522
+"Berlin, Germany",0.723,0.371,0.963
+"New York, USA",0.195,0.292,0.797
+"Berlin, Germany",0.798,0.668,0.209
+Singapore,0.261,0.622,0.956
+"Johannesburg, South Africa",0.86,0.12,0.618
+Singapore,0.746,0.825,0.505
+"New York, USA",0.827,0.489,0.813
+"London, UK",0.641,0.786,0.306
+"New York, USA",0.621,0.413,0.962
+"Johannesburg, South Africa",0.299,0.4,0.25
+"New York, USA",0.601,0.198,0.366
+"Berlin, Germany",0.436,0.738,0.9
+"New York, USA",0.223,0.103,0.647
+"Lagos, Nigeria",0.388,0.332,0.869
+"Lagos, Nigeria",0.63,0.158,0.279
+"London, UK",0.801,0.67,0.823
+"Lagos, Nigeria",0.45,0.673,0.261
+"Johannesburg, South Africa",0.332,0.351,0.769
+"Berlin, Germany",0.229,0.662,0.239
+"New York, USA",0.422,0.299,0.409
+"New York, USA",0.328,0.351,0.529
+"London, UK",0.458,0.746,0.927
+Singapore,0.181,0.691,0.759
+"New York, USA",0.688,0.719,0.354
+"New York, USA",0.104,0.19,0.502
+"New York, USA",0.66,0.206,0.415
+"London, UK",0.345,0.343,0.946
+"Johannesburg, South Africa",0.387,0.183,0.257
+"Lagos, Nigeria",0.237,0.517,0.924
+"Dubai, UAE",0.875,0.525,0.845
+"Lagos, Nigeria",0.142,0.378,0.216
+"Toronto, Canada",0.326,0.432,0.346
+"Berlin, Germany",0.218,0.18,0.739
+"Toronto, Canada",0.486,0.643,0.737
+"London, UK",0.548,0.312,0.31
+"Johannesburg, South Africa",0.257,0.722,0.67
+"London, UK",0.624,0.717,0.719
+"Dubai, UAE",0.542,0.573,0.165
+"Lagos, Nigeria",0.774,0.451,0.443
+"Johannesburg, South Africa",0.825,0.265,0.916
+"Dubai, UAE",0.656,0.85,0.91
+"Johannesburg, South Africa",0.604,0.817,0.696
+"Dubai, UAE",0.584,0.702,0.687
+"New York, USA",0.234,0.835,0.87
+"Toronto, Canada",0.807,0.819,0.408
+"London, UK",0.388,0.518,0.145
+"Berlin, Germany",0.653,0.268,0.862
+"Toronto, Canada",0.453,0.263,0.381
+"Berlin, Germany",0.822,0.498,0.705
+"Dubai, UAE",0.426,0.68,0.539
+"Berlin, Germany",0.548,0.424,0.23
+Singapore,0.25,0.423,0.477
+"Lagos, Nigeria",0.543,0.158,0.336
+"Lagos, Nigeria",0.262,0.723,0.107
+"Johannesburg, South Africa",0.736,0.237,0.572
+"Johannesburg, South Africa",0.394,0.819,0.608
+"Berlin, Germany",0.439,0.239,0.375
+"Johannesburg, South Africa",0.612,0.694,0.365
+"Toronto, Canada",0.169,0.697,0.502
+"Lagos, Nigeria",0.352,0.789,0.656
+"Toronto, Canada",0.847,0.517,0.972
+"Lagos, Nigeria",0.79,0.422,0.53
+"New York, USA",0.285,0.178,0.94
+"London, UK",0.51,0.768,0.977
+"New York, USA",0.567,0.434,0.647
+"New York, USA",0.341,0.891,0.605
+"London, UK",0.378,0.339,0.154
+"Lagos, Nigeria",0.882,0.45,0.301
+"Johannesburg, South Africa",0.211,0.433,0.998
+"Lagos, Nigeria",0.829,0.482,0.771
+"Johannesburg, South Africa",0.383,0.278,0.701
+"New York, USA",0.291,0.319,0.61
+"Lagos, Nigeria",0.308,0.468,0.715
+"Berlin, Germany",0.327,0.717,0.713
+"Berlin, Germany",0.33,0.696,0.299
+"Johannesburg, South Africa",0.303,0.248,0.806
+"Lagos, Nigeria",0.774,0.525,0.519
+"Berlin, Germany",0.314,0.518,0.731
+"Johannesburg, South Africa",0.789,0.557,0.413
+Singapore,0.875,0.352,0.62
+"London, UK",0.323,0.675,0.762
+"New York, USA",0.552,0.324,0.651
+"Lagos, Nigeria",0.465,0.363,0.67
+"Dubai, UAE",0.777,0.253,0.267
+"New York, USA",0.347,0.228,0.555
+"London, UK",0.712,0.805,0.347
+"New York, USA",0.481,0.415,0.433
+"Lagos, Nigeria",0.605,0.704,0.822
+"London, UK",0.561,0.707,0.143
+"Dubai, UAE",0.15,0.557,0.332
+"London, UK",0.571,0.761,0.81
+Singapore,0.762,0.101,0.862
+"Berlin, Germany",0.331,0.229,0.292
+"Lagos, Nigeria",0.422,0.783,0.249
+"London, UK",0.264,0.849,0.819
+"London, UK",0.268,0.509,0.746
+"Dubai, UAE",0.346,0.655,0.607
+"Johannesburg, South Africa",0.703,0.225,0.512
+Singapore,0.485,0.637,0.888
+"Dubai, UAE",0.653,0.619,0.351
+"New York, USA",0.848,0.188,0.683
+"Berlin, Germany",0.684,0.726,0.937
+Singapore,0.399,0.127,0.255
+"New York, USA",0.509,0.884,0.274
+Singapore,0.323,0.873,0.207
+Singapore,0.153,0.73,0.34
+"London, UK",0.633,0.49,0.612
+Singapore,0.629,0.338,0.396
+"London, UK",0.785,0.371,0.603
+"New York, USA",0.228,0.183,0.535
+"New York, USA",0.807,0.68,0.578
+"London, UK",0.735,0.869,0.957
+"London, UK",0.186,0.291,0.286
+"Berlin, Germany",0.886,0.882,0.704
+Singapore,0.131,0.462,0.527
+"Johannesburg, South Africa",0.736,0.212,0.712
+"London, UK",0.443,0.718,0.638
+"Dubai, UAE",0.792,0.764,0.781
+"Johannesburg, South Africa",0.683,0.37,0.58
+"London, UK",0.149,0.874,0.732
+"Lagos, Nigeria",0.292,0.529,0.762
+Singapore,0.862,0.126,0.26
+"Toronto, Canada",0.218,0.376,0.932
+"Toronto, Canada",0.155,0.713,0.752
+"Johannesburg, South Africa",0.223,0.259,0.187
+"London, UK",0.676,0.205,0.875
+"Johannesburg, South Africa",0.132,0.591,0.272
+"Berlin, Germany",0.446,0.339,0.628
+"Lagos, Nigeria",0.173,0.591,0.382
+"London, UK",0.65,0.352,0.618
+"Lagos, Nigeria",0.302,0.717,0.899
+"New York, USA",0.648,0.437,0.902
+"Johannesburg, South Africa",0.24,0.889,0.807
+Singapore,0.417,0.4,0.833
+"Berlin, Germany",0.84,0.217,0.557
+"Johannesburg, South Africa",0.407,0.608,0.882
+"Toronto, Canada",0.191,0.683,0.52
+"Johannesburg, South Africa",0.396,0.376,0.288
+"Lagos, Nigeria",0.464,0.697,0.908
+"Dubai, UAE",0.467,0.373,0.514
+"Dubai, UAE",0.667,0.178,0.641
+"London, UK",0.2,0.167,0.664
+"New York, USA",0.469,0.481,0.174
+"Johannesburg, South Africa",0.303,0.887,0.419
+"Berlin, Germany",0.456,0.526,0.423
+Singapore,0.238,0.526,0.745
+"Dubai, UAE",0.288,0.79,0.71
+"Lagos, Nigeria",0.542,0.858,0.99
+"New York, USA",0.341,0.241,0.758
+"Dubai, UAE",0.228,0.206,0.3
+"Lagos, Nigeria",0.596,0.646,0.411
+"Lagos, Nigeria",0.769,0.589,0.25
+Singapore,0.757,0.377,0.876
+"Lagos, Nigeria",0.767,0.816,0.861
+"Berlin, Germany",0.114,0.534,0.922
+"Berlin, Germany",0.649,0.239,0.694
+"Toronto, Canada",0.899,0.412,0.342
+"Lagos, Nigeria",0.681,0.802,0.907
+"New York, USA",0.313,0.115,0.345
+"Dubai, UAE",0.551,0.77,0.446
+"London, UK",0.482,0.861,0.12
+"Johannesburg, South Africa",0.467,0.393,0.62
+"Lagos, Nigeria",0.678,0.328,0.492
+"Toronto, Canada",0.201,0.233,0.683
+"Dubai, UAE",0.195,0.132,0.971
+"Dubai, UAE",0.505,0.641,0.152
+"Johannesburg, South Africa",0.879,0.237,0.182
+Singapore,0.149,0.816,0.608
+"Berlin, Germany",0.396,0.465,0.998
+"Toronto, Canada",0.507,0.878,0.359
+"Johannesburg, South Africa",0.101,0.884,0.583
+"Toronto, Canada",0.336,0.74,0.283
+"Lagos, Nigeria",0.189,0.452,0.577
+"Johannesburg, South Africa",0.664,0.47,0.265
+"Lagos, Nigeria",0.451,0.86,0.259
+"New York, USA",0.598,0.682,0.405
+"New York, USA",0.582,0.421,0.946
+"Toronto, Canada",0.386,0.79,0.693
+"New York, USA",0.128,0.317,0.435
+"Johannesburg, South Africa",0.314,0.849,0.675
+"Dubai, UAE",0.485,0.294,0.28
+"New York, USA",0.262,0.686,0.674
+"London, UK",0.85,0.618,0.928
+"New York, USA",0.431,0.569,0.943
+"Toronto, Canada",0.382,0.474,0.628
+"Lagos, Nigeria",0.186,0.546,0.892
+"Berlin, Germany",0.321,0.654,0.449
+"Lagos, Nigeria",0.563,0.607,0.897
+"Toronto, Canada",0.756,0.321,0.401
+"Johannesburg, South Africa",0.719,0.317,0.733
+Singapore,0.648,0.619,0.927
+"Berlin, Germany",0.846,0.222,0.609
+"Dubai, UAE",0.294,0.88,0.347
+"London, UK",0.288,0.777,0.728
+"Johannesburg, South Africa",0.137,0.462,0.201
+"Toronto, Canada",0.663,0.52,0.411
+"Toronto, Canada",0.741,0.383,0.906
+"Dubai, UAE",0.308,0.222,0.763
+"Toronto, Canada",0.733,0.573,0.149
+"Johannesburg, South Africa",0.667,0.891,0.616
+"Johannesburg, South Africa",0.533,0.23,0.323
+"Lagos, Nigeria",0.543,0.529,0.112
+"Johannesburg, South Africa",0.664,0.868,0.341
+"Dubai, UAE",0.899,0.886,0.797
+Singapore,0.355,0.489,0.462
+"Berlin, Germany",0.158,0.158,0.339
+"London, UK",0.66,0.3,0.999
+"Johannesburg, South Africa",0.123,0.663,0.619
+"New York, USA",0.816,0.156,0.3
+"Berlin, Germany",0.878,0.61,0.283
+Singapore,0.681,0.46,0.193
+"Toronto, Canada",0.374,0.245,0.651
+Singapore,0.281,0.18,0.891
+"Toronto, Canada",0.188,0.646,0.874
+"Toronto, Canada",0.105,0.241,0.946
+Singapore,0.444,0.518,0.121
+"Toronto, Canada",0.618,0.494,0.605
+Singapore,0.401,0.639,0.925
+"London, UK",0.451,0.445,0.91
+"Lagos, Nigeria",0.648,0.832,0.344
+"Berlin, Germany",0.427,0.782,0.552
+"London, UK",0.719,0.754,0.186
+"London, UK",0.614,0.322,0.347
+"Johannesburg, South Africa",0.637,0.888,0.993
+"London, UK",0.595,0.519,0.627
+"London, UK",0.196,0.881,0.999
+Singapore,0.647,0.773,0.115
+"London, UK",0.574,0.792,0.974
+"London, UK",0.559,0.665,0.419
+"London, UK",0.579,0.239,0.175
+"Lagos, Nigeria",0.89,0.866,0.181
+"Lagos, Nigeria",0.449,0.42,0.41
+"Dubai, UAE",0.185,0.855,0.526
+"London, UK",0.51,0.802,0.177
+"Toronto, Canada",0.22,0.758,0.866
+"New York, USA",0.745,0.107,0.537
+"London, UK",0.3,0.561,0.428
+"Berlin, Germany",0.897,0.295,0.569
+"Berlin, Germany",0.242,0.804,0.539
+"Johannesburg, South Africa",0.402,0.661,0.193
+"London, UK",0.217,0.619,0.145
+Singapore,0.435,0.824,0.711
+"Lagos, Nigeria",0.487,0.337,0.539
+"Dubai, UAE",0.695,0.186,0.122
+"Berlin, Germany",0.101,0.344,0.7
+"Lagos, Nigeria",0.285,0.247,0.735
+Singapore,0.316,0.302,0.973
+"New York, USA",0.58,0.553,0.667
+"Toronto, Canada",0.322,0.464,0.348
+"Johannesburg, South Africa",0.489,0.885,0.315
+"Lagos, Nigeria",0.49,0.435,0.512
+"Berlin, Germany",0.748,0.221,0.183
+"Dubai, UAE",0.801,0.8,0.546
+"New York, USA",0.882,0.321,0.395
+Singapore,0.773,0.186,0.847
+"Toronto, Canada",0.802,0.627,0.725
+"Dubai, UAE",0.877,0.305,0.331
+"Dubai, UAE",0.762,0.113,0.531
+"Lagos, Nigeria",0.264,0.631,0.745
+"Toronto, Canada",0.734,0.158,0.256
+Singapore,0.668,0.102,0.972
+"New York, USA",0.545,0.646,0.183
+"Johannesburg, South Africa",0.24,0.463,0.958
+"Johannesburg, South Africa",0.138,0.744,0.115
+"New York, USA",0.274,0.231,0.535
+"Johannesburg, South Africa",0.802,0.509,0.359
+"London, UK",0.316,0.193,0.971
+"London, UK",0.458,0.428,0.87
+"Lagos, Nigeria",0.898,0.385,0.912
+"Berlin, Germany",0.508,0.611,0.543
+"London, UK",0.714,0.599,0.195
+"Johannesburg, South Africa",0.736,0.307,0.322
+"Johannesburg, South Africa",0.803,0.141,0.578
+"Lagos, Nigeria",0.366,0.184,0.45
+"Toronto, Canada",0.222,0.83,0.395
+"New York, USA",0.811,0.681,0.373
+"London, UK",0.588,0.854,0.311
+"Lagos, Nigeria",0.577,0.594,0.584
+Singapore,0.556,0.803,0.719
+"Dubai, UAE",0.128,0.718,0.722
+"Dubai, UAE",0.299,0.296,0.14
+"New York, USA",0.638,0.7,0.124
+"Toronto, Canada",0.126,0.588,0.179
+"Johannesburg, South Africa",0.585,0.236,0.116
+"London, UK",0.14,0.175,0.496
+"Johannesburg, South Africa",0.107,0.393,0.148
+"London, UK",0.813,0.569,0.492
+"Toronto, Canada",0.829,0.545,0.403
+"Dubai, UAE",0.332,0.485,0.153
+"Johannesburg, South Africa",0.792,0.483,0.176
+"Berlin, Germany",0.16,0.113,0.795
+"Lagos, Nigeria",0.429,0.117,0.752
+"Toronto, Canada",0.481,0.426,0.358
+"Dubai, UAE",0.427,0.512,0.217
+"New York, USA",0.379,0.64,0.421
+"New York, USA",0.589,0.632,0.536
+Singapore,0.641,0.888,0.566
+"Berlin, Germany",0.867,0.413,0.122
+Singapore,0.201,0.201,0.641
+"Toronto, Canada",0.82,0.341,0.667
+"Johannesburg, South Africa",0.738,0.713,0.679
+"Johannesburg, South Africa",0.326,0.295,0.664
+"Dubai, UAE",0.26,0.754,0.961
+"Johannesburg, South Africa",0.193,0.745,0.739
+"Lagos, Nigeria",0.439,0.475,0.385
+"Toronto, Canada",0.54,0.684,0.831
+"Berlin, Germany",0.556,0.741,0.489
+Singapore,0.433,0.681,0.154
+"Johannesburg, South Africa",0.648,0.35,0.684
+"London, UK",0.666,0.236,0.444
+Singapore,0.512,0.195,0.937
+Singapore,0.541,0.871,0.408
+Singapore,0.256,0.176,0.141
+"Dubai, UAE",0.543,0.453,0.952
+"Toronto, Canada",0.16,0.181,0.849
+"Berlin, Germany",0.557,0.736,0.981
+"Berlin, Germany",0.614,0.543,0.263
+"London, UK",0.885,0.241,0.119
+"Berlin, Germany",0.44,0.868,0.956
+Singapore,0.497,0.779,0.768
+"Lagos, Nigeria",0.462,0.202,0.871
+"Berlin, Germany",0.308,0.751,0.104
+Singapore,0.175,0.776,0.691
+"London, UK",0.612,0.717,0.74
+Singapore,0.158,0.381,0.409
+"Dubai, UAE",0.444,0.305,0.526
+"Johannesburg, South Africa",0.109,0.52,0.22
+Singapore,0.852,0.479,0.172
+"Toronto, Canada",0.658,0.567,0.829
+"Berlin, Germany",0.279,0.434,0.84
+"Berlin, Germany",0.321,0.269,0.307
+"Lagos, Nigeria",0.358,0.556,0.835
+"London, UK",0.515,0.53,0.428
+"London, UK",0.605,0.827,0.36
+"Dubai, UAE",0.161,0.608,0.813
+"London, UK",0.628,0.716,0.736
+"London, UK",0.16,0.442,0.672
+"Dubai, UAE",0.831,0.758,0.816
+"London, UK",0.498,0.348,0.877
+"New York, USA",0.847,0.882,0.954
+"Johannesburg, South Africa",0.614,0.753,0.661
+"Toronto, Canada",0.421,0.103,0.182
+"Berlin, Germany",0.726,0.754,0.418
+"Berlin, Germany",0.154,0.53,0.218
+"Berlin, Germany",0.57,0.564,0.209
+"Lagos, Nigeria",0.306,0.899,0.99
+"London, UK",0.774,0.674,0.266
+"Toronto, Canada",0.813,0.204,0.764
+"Berlin, Germany",0.568,0.703,0.804
+"Dubai, UAE",0.309,0.26,0.542
+"London, UK",0.411,0.848,0.104
+"London, UK",0.596,0.311,0.755
+"London, UK",0.44,0.469,0.957
+"Lagos, Nigeria",0.722,0.75,0.793
+"Toronto, Canada",0.395,0.871,0.576
+"Dubai, UAE",0.504,0.226,0.629
+"Berlin, Germany",0.251,0.155,0.243
+"New York, USA",0.658,0.732,0.895
+Singapore,0.792,0.79,0.637
+"Lagos, Nigeria",0.393,0.582,0.323
+"Johannesburg, South Africa",0.864,0.237,0.19
+"Dubai, UAE",0.131,0.226,0.341
+Singapore,0.276,0.468,0.79
+"Lagos, Nigeria",0.43,0.255,0.96
+"New York, USA",0.44,0.377,0.31
+"Lagos, Nigeria",0.735,0.735,0.379
+"Berlin, Germany",0.81,0.185,0.825
+"Toronto, Canada",0.342,0.343,0.756
+"Toronto, Canada",0.611,0.417,0.211
+"Berlin, Germany",0.541,0.282,0.919
+"Berlin, Germany",0.242,0.667,0.311
+"Toronto, Canada",0.361,0.475,0.791
+"Dubai, UAE",0.116,0.857,0.686
+"Berlin, Germany",0.343,0.372,0.521
+Singapore,0.184,0.84,0.179
+"Johannesburg, South Africa",0.819,0.555,0.903
+"Lagos, Nigeria",0.819,0.531,0.577
+"Toronto, Canada",0.644,0.288,0.202
+"New York, USA",0.894,0.858,0.529
+"New York, USA",0.564,0.355,0.193
+"Berlin, Germany",0.26,0.537,0.436
+"New York, USA",0.808,0.852,0.206
+"New York, USA",0.267,0.781,0.336
+"Toronto, Canada",0.314,0.347,0.83
+"Lagos, Nigeria",0.627,0.744,0.309
+"London, UK",0.204,0.645,0.674
+"Johannesburg, South Africa",0.588,0.127,0.307
+"New York, USA",0.342,0.494,0.655
+"Berlin, Germany",0.601,0.438,0.77
+"London, UK",0.739,0.627,0.193
+"New York, USA",0.415,0.662,0.863
+Singapore,0.365,0.664,0.922
+"Lagos, Nigeria",0.365,0.468,0.435
+"Dubai, UAE",0.386,0.858,0.89
+"New York, USA",0.727,0.157,0.204
+"Berlin, Germany",0.444,0.619,0.483
+Singapore,0.671,0.451,0.245
+"Lagos, Nigeria",0.692,0.286,0.965
+"Berlin, Germany",0.526,0.209,0.797
+"Berlin, Germany",0.464,0.47,0.658
+"Berlin, Germany",0.403,0.344,0.164
+"Berlin, Germany",0.624,0.275,0.249
+"Berlin, Germany",0.512,0.129,0.415
+"Lagos, Nigeria",0.333,0.35,0.305
+"Toronto, Canada",0.526,0.846,0.38
+Singapore,0.626,0.531,0.972
+"Lagos, Nigeria",0.536,0.293,0.821
+"Toronto, Canada",0.112,0.881,0.163
+Singapore,0.895,0.621,0.15
+"Dubai, UAE",0.706,0.506,0.141
+"Lagos, Nigeria",0.295,0.847,0.748
+"Johannesburg, South Africa",0.709,0.725,0.562
+"Berlin, Germany",0.714,0.526,0.233
+"Lagos, Nigeria",0.581,0.106,0.946
+"Lagos, Nigeria",0.6,0.431,0.281
+"Toronto, Canada",0.229,0.74,0.75
+"Lagos, Nigeria",0.398,0.328,0.999
+"Dubai, UAE",0.57,0.144,0.991
+Singapore,0.162,0.587,0.657
+"Lagos, Nigeria",0.882,0.82,0.238
+"New York, USA",0.181,0.891,0.994
+"Berlin, Germany",0.423,0.192,0.754
+"Johannesburg, South Africa",0.831,0.87,0.844
+"Berlin, Germany",0.112,0.407,0.983
+"New York, USA",0.647,0.696,0.283
+"Dubai, UAE",0.411,0.263,0.39
+"Lagos, Nigeria",0.674,0.638,0.321
+"London, UK",0.631,0.637,0.992
+"Lagos, Nigeria",0.578,0.326,0.689
+"Berlin, Germany",0.792,0.456,0.38
+Singapore,0.104,0.432,0.433
+Singapore,0.217,0.624,0.509
+"Lagos, Nigeria",0.729,0.882,0.495
+"London, UK",0.608,0.556,0.256
+"New York, USA",0.841,0.535,0.871
+"Johannesburg, South Africa",0.451,0.37,0.795
+"Berlin, Germany",0.54,0.642,0.922
+"London, UK",0.599,0.777,0.573
+"London, UK",0.241,0.179,0.705
+"London, UK",0.215,0.293,0.779
+"Toronto, Canada",0.303,0.574,0.635
+"Johannesburg, South Africa",0.409,0.167,0.734
+"Johannesburg, South Africa",0.49,0.378,0.581
+"New York, USA",0.472,0.484,0.459
+"Berlin, Germany",0.734,0.745,0.985
+"New York, USA",0.207,0.521,0.53
+"Dubai, UAE",0.395,0.404,0.854
+"Toronto, Canada",0.857,0.218,0.638
+"Johannesburg, South Africa",0.718,0.262,0.345
+"Dubai, UAE",0.442,0.515,0.202
+"Berlin, Germany",0.565,0.744,0.924
+"Lagos, Nigeria",0.476,0.419,0.404
+Singapore,0.407,0.282,0.366
+"New York, USA",0.206,0.403,0.772
+"Toronto, Canada",0.234,0.144,0.681
+"Lagos, Nigeria",0.331,0.525,0.695
+"Dubai, UAE",0.392,0.159,0.219
+"Toronto, Canada",0.301,0.78,0.323
+"Berlin, Germany",0.562,0.711,0.546
+"Dubai, UAE",0.579,0.663,0.882
+Singapore,0.137,0.856,0.483
+"New York, USA",0.62,0.811,0.228
+"Toronto, Canada",0.474,0.102,0.46
+Singapore,0.538,0.723,0.362
+"Dubai, UAE",0.815,0.568,0.995
+"Berlin, Germany",0.247,0.448,0.438
+"Toronto, Canada",0.424,0.33,0.654
+"London, UK",0.488,0.257,0.617
+"Dubai, UAE",0.573,0.806,0.253
+"Dubai, UAE",0.642,0.39,0.217
+"Dubai, UAE",0.203,0.459,0.116
+"New York, USA",0.699,0.67,0.224
+Singapore,0.277,0.729,0.754
+"Johannesburg, South Africa",0.861,0.6,0.669
+"Johannesburg, South Africa",0.185,0.436,0.356
+Singapore,0.889,0.151,0.294
+"Dubai, UAE",0.842,0.589,0.128
+"Dubai, UAE",0.811,0.777,0.355
+"London, UK",0.124,0.136,0.403
+"Toronto, Canada",0.261,0.383,0.879
+"Lagos, Nigeria",0.554,0.298,0.112
+"Berlin, Germany",0.677,0.532,0.338
+"Lagos, Nigeria",0.688,0.109,0.958
+"Lagos, Nigeria",0.137,0.806,0.867
+"London, UK",0.651,0.733,0.894
+"Dubai, UAE",0.497,0.183,0.103
+"Johannesburg, South Africa",0.351,0.814,0.426
+"Berlin, Germany",0.652,0.714,0.533
+"Dubai, UAE",0.301,0.865,0.197
+"Toronto, Canada",0.616,0.307,0.172
+"Johannesburg, South Africa",0.59,0.784,0.422
+"Toronto, Canada",0.573,0.216,0.929
+"Toronto, Canada",0.526,0.657,0.46
+"Toronto, Canada",0.318,0.157,0.781
+"Dubai, UAE",0.261,0.671,0.638
+"London, UK",0.407,0.221,0.899
+Singapore,0.877,0.688,0.4
+"Berlin, Germany",0.73,0.452,0.22
+"Toronto, Canada",0.407,0.208,0.223
+"New York, USA",0.647,0.557,0.269
+"Johannesburg, South Africa",0.325,0.12,0.828
+Singapore,0.272,0.29,0.614
+"Johannesburg, South Africa",0.567,0.334,0.591
+"Toronto, Canada",0.305,0.894,0.211
+Singapore,0.537,0.736,0.26
+"London, UK",0.164,0.35,0.285
+"New York, USA",0.768,0.392,0.777
+"Lagos, Nigeria",0.406,0.451,0.726
+Singapore,0.112,0.731,0.625
+"London, UK",0.867,0.645,0.192
+"Johannesburg, South Africa",0.536,0.533,0.239
+"Dubai, UAE",0.833,0.458,0.332
+"Toronto, Canada",0.25,0.303,0.848
+"Berlin, Germany",0.34,0.463,0.75
+"Berlin, Germany",0.407,0.721,0.923
+"New York, USA",0.256,0.458,0.131
+"London, UK",0.463,0.519,0.839
+"New York, USA",0.325,0.371,0.122
+"Dubai, UAE",0.2,0.488,0.699
+"New York, USA",0.165,0.708,0.685
+"Dubai, UAE",0.306,0.838,0.341
+"Berlin, Germany",0.885,0.497,0.774
+Singapore,0.305,0.218,0.48
+"London, UK",0.784,0.719,0.67
+Singapore,0.467,0.707,0.667
+"Berlin, Germany",0.302,0.641,0.893
+"London, UK",0.758,0.567,0.707
+"Berlin, Germany",0.704,0.356,0.704
+"London, UK",0.594,0.698,0.637
+"Johannesburg, South Africa",0.329,0.887,0.19
+"Lagos, Nigeria",0.71,0.475,0.371
+"Johannesburg, South Africa",0.116,0.23,0.513
+"Berlin, Germany",0.324,0.28,0.325
+"Dubai, UAE",0.789,0.306,0.249
+"Lagos, Nigeria",0.287,0.609,0.561
+Singapore,0.604,0.714,0.852
+Singapore,0.483,0.379,0.671
+"New York, USA",0.443,0.685,0.725
+"Berlin, Germany",0.649,0.17,0.227
+Singapore,0.131,0.818,0.818
+"Dubai, UAE",0.498,0.154,0.2
+"New York, USA",0.452,0.742,0.354
+"Berlin, Germany",0.701,0.668,0.889
+"New York, USA",0.441,0.616,0.93
+"Toronto, Canada",0.824,0.149,0.179
+Singapore,0.894,0.515,0.246
+"London, UK",0.801,0.198,0.423
+"New York, USA",0.737,0.452,0.745
+"London, UK",0.674,0.236,0.234
+"New York, USA",0.549,0.224,0.239
+"Berlin, Germany",0.729,0.558,0.591
+"London, UK",0.582,0.327,0.631
+"Dubai, UAE",0.87,0.717,0.179
+"London, UK",0.812,0.302,0.465
+"Lagos, Nigeria",0.561,0.369,0.759
+"Dubai, UAE",0.44,0.573,0.407
+"Dubai, UAE",0.258,0.107,0.318
+"Dubai, UAE",0.296,0.773,0.203
+"London, UK",0.275,0.173,0.518
+"London, UK",0.813,0.122,0.946
+"London, UK",0.833,0.719,0.653
+"Dubai, UAE",0.356,0.74,0.16
+"New York, USA",0.662,0.61,0.333
+"Dubai, UAE",0.2,0.765,0.767
+"Dubai, UAE",0.549,0.834,0.781
+"Toronto, Canada",0.34,0.28,0.438
+"London, UK",0.86,0.459,0.16
+"Toronto, Canada",0.209,0.424,0.583
+"Dubai, UAE",0.208,0.235,0.759
+"London, UK",0.717,0.312,0.399
+"Berlin, Germany",0.35,0.427,0.81
+"Toronto, Canada",0.304,0.181,0.396
+"Lagos, Nigeria",0.268,0.705,0.252
+"London, UK",0.302,0.587,0.819
+"Berlin, Germany",0.891,0.838,0.22
+Singapore,0.463,0.125,0.32
+"Toronto, Canada",0.3,0.62,0.868
+"Dubai, UAE",0.151,0.728,0.571
+"Berlin, Germany",0.197,0.508,0.239
+Singapore,0.625,0.873,0.654
+"Lagos, Nigeria",0.308,0.131,0.627
+"Lagos, Nigeria",0.545,0.519,0.596
+"Lagos, Nigeria",0.542,0.35,0.406
+"Lagos, Nigeria",0.39,0.879,0.466
+"Berlin, Germany",0.671,0.866,0.785
+"Dubai, UAE",0.127,0.178,0.934
+"Toronto, Canada",0.434,0.415,0.62
+"Lagos, Nigeria",0.447,0.277,0.939
+"Berlin, Germany",0.2,0.764,0.258
+"Dubai, UAE",0.112,0.829,0.361
+"Berlin, Germany",0.527,0.808,0.852
+"Toronto, Canada",0.336,0.386,0.967
+"Berlin, Germany",0.846,0.342,0.901
+Singapore,0.665,0.641,0.542
+"Dubai, UAE",0.17,0.845,0.83
+"New York, USA",0.624,0.149,0.281
+"Dubai, UAE",0.8,0.146,0.386
+Singapore,0.866,0.423,0.999
+"Johannesburg, South Africa",0.35,0.435,0.261
+"Toronto, Canada",0.45,0.494,0.318
+"Dubai, UAE",0.616,0.499,0.751
+Singapore,0.828,0.471,0.702
+"Johannesburg, South Africa",0.641,0.726,0.746
+"Berlin, Germany",0.407,0.712,0.955

@@ -1,0 +1,3001 @@
+customer_id,age,gender,location,income_band,risk_profile
+CUST0000001,56,Male,Singapore,Middle,Medium Risk
+CUST0000002,69,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000003,46,Female,"Berlin, Germany",Low,Low Risk
+CUST0000004,32,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0000005,60,Male,"Dubai, UAE",Middle,Low Risk
+CUST0000006,25,Male,"London, UK",Middle,High Risk
+CUST0000007,38,Female,"New York, USA",High,High Risk
+CUST0000008,56,Female,"London, UK",Low,High Risk
+CUST0000009,36,Male,"London, UK",High,Low Risk
+CUST0000010,40,Female,Singapore,High,Low Risk
+CUST0000011,28,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000012,28,Male,"New York, USA",Low,Medium Risk
+CUST0000013,41,Male,"New York, USA",Middle,Medium Risk
+CUST0000014,70,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0000015,53,Male,"Berlin, Germany",High,Medium Risk
+CUST0000016,57,Female,"New York, USA",Middle,Low Risk
+CUST0000017,41,Female,"Dubai, UAE",Middle,Low Risk
+CUST0000018,20,Female,"Lagos, Nigeria",Low,High Risk
+CUST0000019,39,Female,"Berlin, Germany",Low,High Risk
+CUST0000020,70,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0000021,19,Female,Singapore,Low,High Risk
+CUST0000022,41,Male,"Dubai, UAE",Middle,Low Risk
+CUST0000023,61,Male,"New York, USA",Low,Low Risk
+CUST0000024,47,Female,"Dubai, UAE",Low,Low Risk
+CUST0000025,55,Female,"Berlin, Germany",Low,Medium Risk
+CUST0000026,19,Female,"London, UK",Low,Medium Risk
+CUST0000027,38,Male,Singapore,Middle,High Risk
+CUST0000028,50,Female,"New York, USA",High,Medium Risk
+CUST0000029,29,Male,"Toronto, Canada",Low,Low Risk
+CUST0000030,39,Female,Singapore,Middle,High Risk
+CUST0000031,61,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0000032,42,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0000033,66,Male,"Dubai, UAE",High,High Risk
+CUST0000034,44,Female,"New York, USA",Low,Medium Risk
+CUST0000035,59,Female,Singapore,Middle,Medium Risk
+CUST0000036,45,Female,"Dubai, UAE",High,High Risk
+CUST0000037,33,Male,"New York, USA",Middle,Medium Risk
+CUST0000038,32,Male,"Berlin, Germany",Low,Medium Risk
+CUST0000039,64,Male,Singapore,High,Medium Risk
+CUST0000040,68,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0000041,61,Male,Singapore,Middle,High Risk
+CUST0000042,72,Male,"Berlin, Germany",Middle,Low Risk
+CUST0000043,69,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0000044,74,Female,"Dubai, UAE",High,Medium Risk
+CUST0000045,20,Male,"Toronto, Canada",Low,Medium Risk
+CUST0000046,54,Female,Singapore,Low,Medium Risk
+CUST0000047,68,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0000048,24,Male,Singapore,High,Medium Risk
+CUST0000049,38,Female,"Berlin, Germany",Low,High Risk
+CUST0000050,26,Male,"New York, USA",Low,High Risk
+CUST0000051,56,Male,Singapore,Low,High Risk
+CUST0000052,35,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0000053,21,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0000054,42,Male,"London, UK",Low,Medium Risk
+CUST0000055,31,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0000056,67,Male,"Dubai, UAE",Low,Low Risk
+CUST0000057,26,Male,"Toronto, Canada",High,Low Risk
+CUST0000058,43,Male,"London, UK",Middle,Low Risk
+CUST0000059,70,Male,"Dubai, UAE",Middle,Low Risk
+CUST0000060,19,Male,"Dubai, UAE",Middle,High Risk
+CUST0000061,37,Female,"Dubai, UAE",Middle,Low Risk
+CUST0000062,45,Female,"New York, USA",High,Low Risk
+CUST0000063,64,Female,"Dubai, UAE",Low,Low Risk
+CUST0000064,24,Male,"New York, USA",Middle,Medium Risk
+CUST0000065,61,Male,"Dubai, UAE",High,Medium Risk
+CUST0000066,25,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000067,64,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0000068,52,Female,"London, UK",Middle,High Risk
+CUST0000069,31,Male,"Lagos, Nigeria",High,Low Risk
+CUST0000070,34,Female,"Dubai, UAE",Low,Medium Risk
+CUST0000071,53,Female,"London, UK",High,High Risk
+CUST0000072,67,Male,"London, UK",Low,Medium Risk
+CUST0000073,57,Female,Singapore,Low,High Risk
+CUST0000074,21,Male,"Toronto, Canada",Low,High Risk
+CUST0000075,19,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0000076,23,Male,"Toronto, Canada",High,Low Risk
+CUST0000077,71,Female,"London, UK",High,High Risk
+CUST0000078,59,Female,"New York, USA",High,Low Risk
+CUST0000079,21,Male,"London, UK",Low,High Risk
+CUST0000080,71,Female,"Toronto, Canada",Middle,High Risk
+CUST0000081,46,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0000082,35,Female,"Dubai, UAE",High,Low Risk
+CUST0000083,43,Female,Singapore,Middle,Low Risk
+CUST0000084,61,Male,Singapore,Middle,Low Risk
+CUST0000085,51,Female,Singapore,Middle,Medium Risk
+CUST0000086,27,Male,"Dubai, UAE",High,Medium Risk
+CUST0000087,53,Male,Singapore,Middle,Medium Risk
+CUST0000088,31,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0000089,48,Male,"Dubai, UAE",Low,Low Risk
+CUST0000090,65,Female,Singapore,Low,Low Risk
+CUST0000091,32,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0000092,25,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0000093,31,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0000094,40,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000095,74,Male,"Lagos, Nigeria",Low,High Risk
+CUST0000096,57,Female,"Berlin, Germany",High,Low Risk
+CUST0000097,38,Female,"New York, USA",High,Medium Risk
+CUST0000098,33,Female,Singapore,Low,Low Risk
+CUST0000099,62,Male,"New York, USA",Middle,Low Risk
+CUST0000100,35,Male,"Dubai, UAE",Low,Low Risk
+CUST0000101,64,Male,"New York, USA",High,Low Risk
+CUST0000102,70,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000103,41,Male,"Lagos, Nigeria",High,Low Risk
+CUST0000104,43,Female,"London, UK",Middle,High Risk
+CUST0000105,42,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0000106,62,Female,Singapore,Middle,Low Risk
+CUST0000107,58,Female,"London, UK",Middle,Medium Risk
+CUST0000108,46,Male,"New York, USA",Middle,High Risk
+CUST0000109,32,Male,"Berlin, Germany",Middle,Low Risk
+CUST0000110,62,Female,"London, UK",High,High Risk
+CUST0000111,18,Female,"London, UK",High,Low Risk
+CUST0000112,42,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0000113,24,Male,"Berlin, Germany",Middle,Low Risk
+CUST0000114,26,Female,"Dubai, UAE",High,Medium Risk
+CUST0000115,41,Male,"New York, USA",Middle,Low Risk
+CUST0000116,18,Female,"London, UK",Middle,Medium Risk
+CUST0000117,61,Female,"Berlin, Germany",Middle,Low Risk
+CUST0000118,25,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0000119,41,Male,Singapore,Middle,High Risk
+CUST0000120,28,Male,"Berlin, Germany",Low,High Risk
+CUST0000121,68,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0000122,34,Male,"New York, USA",High,Low Risk
+CUST0000123,25,Female,"Berlin, Germany",Low,Low Risk
+CUST0000124,52,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0000125,52,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0000126,50,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0000127,22,Male,Singapore,Low,Low Risk
+CUST0000128,59,Female,"Johannesburg, South Africa",High,High Risk
+CUST0000129,56,Male,"Johannesburg, South Africa",High,High Risk
+CUST0000130,58,Male,"London, UK",Middle,High Risk
+CUST0000131,45,Female,"New York, USA",High,Low Risk
+CUST0000132,24,Female,Singapore,High,High Risk
+CUST0000133,26,Male,"Berlin, Germany",Middle,Low Risk
+CUST0000134,25,Male,"Berlin, Germany",High,Medium Risk
+CUST0000135,29,Male,"London, UK",Middle,High Risk
+CUST0000136,51,Female,"New York, USA",Low,Medium Risk
+CUST0000137,50,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0000138,65,Male,Singapore,Low,Low Risk
+CUST0000139,72,Male,"London, UK",Low,Low Risk
+CUST0000140,40,Female,"New York, USA",High,Low Risk
+CUST0000141,41,Female,Singapore,High,Low Risk
+CUST0000142,54,Male,"Berlin, Germany",High,High Risk
+CUST0000143,52,Male,"New York, USA",Middle,Medium Risk
+CUST0000144,61,Female,"New York, USA",High,Low Risk
+CUST0000145,57,Female,"Dubai, UAE",Low,High Risk
+CUST0000146,39,Female,"New York, USA",High,Medium Risk
+CUST0000147,44,Female,"Lagos, Nigeria",High,Low Risk
+CUST0000148,52,Female,"New York, USA",Middle,Medium Risk
+CUST0000149,18,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0000150,52,Female,"Berlin, Germany",Low,Medium Risk
+CUST0000151,54,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000152,64,Female,Singapore,High,Low Risk
+CUST0000153,31,Male,"Berlin, Germany",Middle,High Risk
+CUST0000154,20,Male,"Berlin, Germany",Low,Medium Risk
+CUST0000155,18,Male,"Lagos, Nigeria",High,Low Risk
+CUST0000156,22,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000157,43,Male,"London, UK",Middle,Medium Risk
+CUST0000158,72,Female,"Toronto, Canada",Middle,High Risk
+CUST0000159,31,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000160,56,Male,"New York, USA",High,Medium Risk
+CUST0000161,44,Female,"Dubai, UAE",Middle,Low Risk
+CUST0000162,26,Male,"Toronto, Canada",Middle,Low Risk
+CUST0000163,32,Male,"New York, USA",High,High Risk
+CUST0000164,32,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000165,43,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000166,59,Male,"New York, USA",Middle,Medium Risk
+CUST0000167,30,Female,"Berlin, Germany",Middle,High Risk
+CUST0000168,68,Male,"New York, USA",High,Medium Risk
+CUST0000169,49,Male,"Dubai, UAE",Low,Low Risk
+CUST0000170,56,Male,"Johannesburg, South Africa",High,High Risk
+CUST0000171,66,Female,"New York, USA",Middle,Low Risk
+CUST0000172,69,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0000173,49,Female,"Toronto, Canada",High,High Risk
+CUST0000174,21,Male,"Lagos, Nigeria",High,Low Risk
+CUST0000175,47,Male,"Dubai, UAE",High,Medium Risk
+CUST0000176,54,Female,"New York, USA",Low,High Risk
+CUST0000177,40,Female,Singapore,Middle,Low Risk
+CUST0000178,56,Female,"Dubai, UAE",High,Medium Risk
+CUST0000179,62,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0000180,32,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000181,60,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0000182,46,Male,"London, UK",Low,High Risk
+CUST0000183,53,Female,"New York, USA",Low,Low Risk
+CUST0000184,30,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0000185,49,Male,Singapore,Low,Medium Risk
+CUST0000186,24,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000187,68,Female,"Lagos, Nigeria",High,Low Risk
+CUST0000188,39,Male,"Berlin, Germany",Low,Low Risk
+CUST0000189,45,Female,"Dubai, UAE",High,Low Risk
+CUST0000190,19,Female,"Dubai, UAE",Low,High Risk
+CUST0000191,59,Male,"New York, USA",Low,Low Risk
+CUST0000192,62,Male,"Johannesburg, South Africa",High,High Risk
+CUST0000193,74,Male,"London, UK",Low,High Risk
+CUST0000194,70,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0000195,23,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0000196,45,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0000197,45,Male,"London, UK",Middle,Low Risk
+CUST0000198,61,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0000199,61,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0000200,37,Female,"Dubai, UAE",Low,Medium Risk
+CUST0000201,47,Female,"Dubai, UAE",High,High Risk
+CUST0000202,28,Male,"Toronto, Canada",High,Medium Risk
+CUST0000203,72,Male,Singapore,High,High Risk
+CUST0000204,45,Male,"New York, USA",Low,Low Risk
+CUST0000205,42,Female,"Johannesburg, South Africa",High,High Risk
+CUST0000206,56,Male,"Toronto, Canada",High,High Risk
+CUST0000207,50,Female,Singapore,Middle,Low Risk
+CUST0000208,18,Male,"Toronto, Canada",Middle,High Risk
+CUST0000209,74,Male,"Toronto, Canada",Low,Low Risk
+CUST0000210,44,Male,"New York, USA",Middle,Medium Risk
+CUST0000211,74,Male,"New York, USA",Middle,Low Risk
+CUST0000212,69,Male,"Berlin, Germany",High,Low Risk
+CUST0000213,30,Male,"London, UK",High,High Risk
+CUST0000214,58,Female,"London, UK",Middle,Medium Risk
+CUST0000215,20,Male,"Berlin, Germany",Middle,Low Risk
+CUST0000216,56,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0000217,23,Male,"Dubai, UAE",Low,Medium Risk
+CUST0000218,25,Male,Singapore,Low,High Risk
+CUST0000219,44,Female,"Toronto, Canada",Low,Low Risk
+CUST0000220,26,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0000221,54,Female,"Berlin, Germany",Middle,Low Risk
+CUST0000222,50,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0000223,68,Male,"London, UK",Low,Low Risk
+CUST0000224,59,Female,"Berlin, Germany",Middle,Low Risk
+CUST0000225,61,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0000226,41,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0000227,32,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0000228,71,Male,"Dubai, UAE",Middle,High Risk
+CUST0000229,49,Male,"Dubai, UAE",High,Low Risk
+CUST0000230,49,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000231,41,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0000232,58,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0000233,69,Male,Singapore,Low,Medium Risk
+CUST0000234,66,Male,"Dubai, UAE",High,High Risk
+CUST0000235,66,Female,"Toronto, Canada",High,Medium Risk
+CUST0000236,69,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000237,29,Male,"Toronto, Canada",Low,Medium Risk
+CUST0000238,56,Female,"Toronto, Canada",High,Medium Risk
+CUST0000239,19,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0000240,20,Female,"London, UK",High,Medium Risk
+CUST0000241,66,Female,Singapore,Middle,Medium Risk
+CUST0000242,54,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0000243,66,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0000244,73,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000245,34,Male,"Dubai, UAE",High,Low Risk
+CUST0000246,66,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0000247,19,Female,"London, UK",Low,Low Risk
+CUST0000248,19,Female,"Dubai, UAE",Low,High Risk
+CUST0000249,45,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0000250,71,Male,"New York, USA",Middle,Medium Risk
+CUST0000251,40,Female,"New York, USA",High,Medium Risk
+CUST0000252,54,Female,"Toronto, Canada",Middle,Low Risk
+CUST0000253,49,Female,Singapore,Low,Medium Risk
+CUST0000254,50,Male,"Toronto, Canada",High,High Risk
+CUST0000255,18,Male,"London, UK",Middle,High Risk
+CUST0000256,36,Female,"Berlin, Germany",High,Medium Risk
+CUST0000257,19,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0000258,70,Female,Singapore,Low,High Risk
+CUST0000259,61,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000260,43,Male,"New York, USA",High,High Risk
+CUST0000261,49,Female,"Toronto, Canada",High,Low Risk
+CUST0000262,23,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0000263,49,Female,"New York, USA",High,Low Risk
+CUST0000264,72,Female,"London, UK",Low,Medium Risk
+CUST0000265,21,Male,"London, UK",Middle,Medium Risk
+CUST0000266,72,Male,"Berlin, Germany",Low,Medium Risk
+CUST0000267,28,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000268,73,Female,"Berlin, Germany",Low,Medium Risk
+CUST0000269,34,Male,"Dubai, UAE",High,Low Risk
+CUST0000270,55,Female,Singapore,High,Medium Risk
+CUST0000271,41,Male,"Johannesburg, South Africa",High,High Risk
+CUST0000272,22,Female,"London, UK",Middle,High Risk
+CUST0000273,69,Female,"Toronto, Canada",High,Medium Risk
+CUST0000274,51,Male,"New York, USA",Middle,High Risk
+CUST0000275,23,Female,"Lagos, Nigeria",High,Low Risk
+CUST0000276,39,Female,"Berlin, Germany",High,Low Risk
+CUST0000277,28,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0000278,65,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000279,33,Female,"Toronto, Canada",Low,Medium Risk
+CUST0000280,50,Female,"Berlin, Germany",Middle,High Risk
+CUST0000281,26,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0000282,23,Male,Singapore,High,Low Risk
+CUST0000283,33,Female,"Toronto, Canada",Middle,High Risk
+CUST0000284,46,Male,"New York, USA",High,Low Risk
+CUST0000285,20,Female,Singapore,Middle,High Risk
+CUST0000286,37,Female,"Toronto, Canada",Middle,Low Risk
+CUST0000287,53,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0000288,36,Female,"Berlin, Germany",Low,High Risk
+CUST0000289,43,Female,"London, UK",Middle,Low Risk
+CUST0000290,20,Male,"New York, USA",Low,High Risk
+CUST0000291,36,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000292,37,Male,Singapore,Middle,Low Risk
+CUST0000293,49,Male,Singapore,High,High Risk
+CUST0000294,24,Female,"Lagos, Nigeria",High,High Risk
+CUST0000295,69,Female,"Berlin, Germany",High,Medium Risk
+CUST0000296,58,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000297,50,Male,"London, UK",High,Low Risk
+CUST0000298,57,Male,"Toronto, Canada",Low,High Risk
+CUST0000299,56,Female,"London, UK",High,High Risk
+CUST0000300,35,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0000301,57,Female,"Berlin, Germany",High,Medium Risk
+CUST0000302,18,Female,"Dubai, UAE",Low,Low Risk
+CUST0000303,28,Female,"Dubai, UAE",Middle,High Risk
+CUST0000304,45,Male,"London, UK",High,High Risk
+CUST0000305,74,Female,"Toronto, Canada",Middle,Low Risk
+CUST0000306,42,Female,"London, UK",Middle,Low Risk
+CUST0000307,67,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0000308,40,Female,"Berlin, Germany",High,Medium Risk
+CUST0000309,48,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0000310,47,Male,"Dubai, UAE",High,Low Risk
+CUST0000311,59,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0000312,52,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0000313,24,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0000314,33,Female,"Lagos, Nigeria",High,High Risk
+CUST0000315,43,Male,"New York, USA",Middle,Low Risk
+CUST0000316,65,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0000317,74,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0000318,69,Male,"Lagos, Nigeria",Low,High Risk
+CUST0000319,66,Female,"London, UK",High,Low Risk
+CUST0000320,19,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0000321,18,Female,"Dubai, UAE",Low,Medium Risk
+CUST0000322,65,Male,"Toronto, Canada",Low,Medium Risk
+CUST0000323,29,Male,"London, UK",High,Medium Risk
+CUST0000324,22,Male,"Toronto, Canada",Low,Low Risk
+CUST0000325,54,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0000326,49,Male,Singapore,Low,Low Risk
+CUST0000327,72,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0000328,26,Female,"New York, USA",Middle,Medium Risk
+CUST0000329,58,Male,"London, UK",Low,High Risk
+CUST0000330,52,Male,"London, UK",Low,High Risk
+CUST0000331,36,Female,"London, UK",Low,Medium Risk
+CUST0000332,65,Male,"Toronto, Canada",Low,Medium Risk
+CUST0000333,33,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0000334,20,Female,"London, UK",Low,High Risk
+CUST0000335,37,Female,Singapore,Middle,Medium Risk
+CUST0000336,41,Female,"London, UK",Low,Medium Risk
+CUST0000337,71,Female,"Dubai, UAE",Low,Low Risk
+CUST0000338,73,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0000339,50,Male,"New York, USA",Low,High Risk
+CUST0000340,41,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000341,69,Female,"Dubai, UAE",Middle,High Risk
+CUST0000342,28,Male,"Dubai, UAE",Middle,Low Risk
+CUST0000343,66,Female,"New York, USA",High,Low Risk
+CUST0000344,25,Female,Singapore,Low,High Risk
+CUST0000345,53,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000346,55,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0000347,57,Male,"Lagos, Nigeria",High,High Risk
+CUST0000348,37,Female,"Dubai, UAE",Low,Medium Risk
+CUST0000349,52,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0000350,65,Male,"New York, USA",Low,Low Risk
+CUST0000351,42,Male,"Dubai, UAE",Low,Medium Risk
+CUST0000352,52,Female,"Berlin, Germany",Middle,High Risk
+CUST0000353,42,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000354,46,Male,"Toronto, Canada",Low,Medium Risk
+CUST0000355,35,Male,"Berlin, Germany",Low,Medium Risk
+CUST0000356,63,Male,"London, UK",Middle,Medium Risk
+CUST0000357,35,Female,"Dubai, UAE",Low,Medium Risk
+CUST0000358,19,Male,"Berlin, Germany",Low,Low Risk
+CUST0000359,71,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0000360,52,Male,"Toronto, Canada",Low,Low Risk
+CUST0000361,33,Male,Singapore,Low,High Risk
+CUST0000362,58,Male,"Dubai, UAE",High,High Risk
+CUST0000363,53,Male,"London, UK",Middle,High Risk
+CUST0000364,50,Female,Singapore,High,High Risk
+CUST0000365,21,Female,"Berlin, Germany",High,High Risk
+CUST0000366,50,Male,Singapore,High,Medium Risk
+CUST0000367,31,Female,Singapore,Low,Low Risk
+CUST0000368,38,Male,"Toronto, Canada",Low,Low Risk
+CUST0000369,65,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0000370,37,Male,Singapore,High,High Risk
+CUST0000371,73,Male,Singapore,High,Low Risk
+CUST0000372,25,Female,"Dubai, UAE",Low,Medium Risk
+CUST0000373,24,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0000374,20,Male,"Toronto, Canada",High,Low Risk
+CUST0000375,34,Female,"London, UK",Middle,Low Risk
+CUST0000376,50,Male,"Berlin, Germany",Middle,High Risk
+CUST0000377,65,Male,"Toronto, Canada",Low,High Risk
+CUST0000378,29,Male,"Toronto, Canada",Middle,Low Risk
+CUST0000379,68,Female,"New York, USA",Middle,High Risk
+CUST0000380,39,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0000381,72,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0000382,39,Male,"New York, USA",Middle,High Risk
+CUST0000383,63,Male,"Berlin, Germany",Low,Medium Risk
+CUST0000384,47,Female,Singapore,High,High Risk
+CUST0000385,55,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0000386,55,Male,"Dubai, UAE",Low,High Risk
+CUST0000387,62,Female,"Berlin, Germany",Middle,Low Risk
+CUST0000388,68,Female,"Berlin, Germany",High,High Risk
+CUST0000389,71,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0000390,25,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000391,44,Female,Singapore,Low,Low Risk
+CUST0000392,44,Male,"Berlin, Germany",High,Low Risk
+CUST0000393,51,Female,"Toronto, Canada",High,Low Risk
+CUST0000394,38,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0000395,47,Male,"Dubai, UAE",Low,Medium Risk
+CUST0000396,50,Male,"London, UK",High,Medium Risk
+CUST0000397,45,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000398,64,Female,"Dubai, UAE",High,High Risk
+CUST0000399,50,Male,"New York, USA",Low,Medium Risk
+CUST0000400,22,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0000401,65,Female,"Dubai, UAE",High,High Risk
+CUST0000402,36,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0000403,21,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000404,52,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0000405,66,Male,Singapore,Middle,Medium Risk
+CUST0000406,34,Female,"Berlin, Germany",Middle,Low Risk
+CUST0000407,61,Male,Singapore,Low,Medium Risk
+CUST0000408,45,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000409,47,Female,"Berlin, Germany",Low,Medium Risk
+CUST0000410,46,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0000411,63,Male,"London, UK",Middle,Low Risk
+CUST0000412,70,Male,"London, UK",Middle,Medium Risk
+CUST0000413,23,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0000414,52,Male,"Lagos, Nigeria",High,Low Risk
+CUST0000415,58,Female,"New York, USA",Middle,Medium Risk
+CUST0000416,54,Male,"Dubai, UAE",High,Low Risk
+CUST0000417,41,Male,"Berlin, Germany",Low,High Risk
+CUST0000418,46,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000419,66,Female,"Dubai, UAE",High,Low Risk
+CUST0000420,63,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000421,70,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000422,48,Female,"Toronto, Canada",Middle,Low Risk
+CUST0000423,52,Female,"Toronto, Canada",High,Medium Risk
+CUST0000424,50,Female,"Lagos, Nigeria",Low,High Risk
+CUST0000425,69,Female,"Berlin, Germany",Middle,High Risk
+CUST0000426,38,Male,Singapore,Low,Medium Risk
+CUST0000427,49,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000428,40,Female,"Johannesburg, South Africa",High,High Risk
+CUST0000429,50,Male,"Berlin, Germany",High,High Risk
+CUST0000430,20,Female,"London, UK",Low,Low Risk
+CUST0000431,35,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000432,42,Male,"Berlin, Germany",High,High Risk
+CUST0000433,59,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0000434,48,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0000435,71,Female,Singapore,Middle,High Risk
+CUST0000436,20,Male,Singapore,Low,Medium Risk
+CUST0000437,57,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0000438,63,Male,"Berlin, Germany",Low,Low Risk
+CUST0000439,41,Female,"Berlin, Germany",Low,High Risk
+CUST0000440,67,Female,"New York, USA",Middle,Medium Risk
+CUST0000441,49,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0000442,64,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0000443,39,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0000444,40,Female,"Lagos, Nigeria",Low,High Risk
+CUST0000445,19,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0000446,44,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0000447,59,Female,"Dubai, UAE",Low,Medium Risk
+CUST0000448,19,Female,"Lagos, Nigeria",High,High Risk
+CUST0000449,43,Female,"Dubai, UAE",High,Medium Risk
+CUST0000450,34,Female,Singapore,Low,Medium Risk
+CUST0000451,57,Female,"Toronto, Canada",High,Low Risk
+CUST0000452,50,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0000453,26,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0000454,60,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0000455,71,Female,"Dubai, UAE",High,High Risk
+CUST0000456,65,Male,"Dubai, UAE",Middle,High Risk
+CUST0000457,56,Female,Singapore,High,Medium Risk
+CUST0000458,46,Female,"Dubai, UAE",High,Medium Risk
+CUST0000459,59,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000460,72,Male,"London, UK",Middle,Medium Risk
+CUST0000461,43,Female,"New York, USA",High,Low Risk
+CUST0000462,52,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000463,67,Female,"Toronto, Canada",Low,High Risk
+CUST0000464,42,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000465,41,Female,Singapore,Middle,High Risk
+CUST0000466,30,Male,Singapore,Low,Medium Risk
+CUST0000467,24,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000468,74,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000469,53,Male,"London, UK",High,Low Risk
+CUST0000470,62,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0000471,37,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000472,18,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000473,25,Male,"Berlin, Germany",High,Low Risk
+CUST0000474,63,Female,"Berlin, Germany",High,Low Risk
+CUST0000475,33,Male,"Berlin, Germany",High,Medium Risk
+CUST0000476,31,Female,"London, UK",Middle,Low Risk
+CUST0000477,29,Male,"Lagos, Nigeria",High,Medium Risk
+CUST0000478,68,Female,"New York, USA",Low,Low Risk
+CUST0000479,40,Female,"Toronto, Canada",High,High Risk
+CUST0000480,32,Male,"Berlin, Germany",Low,Low Risk
+CUST0000481,45,Female,"Berlin, Germany",High,High Risk
+CUST0000482,51,Female,Singapore,High,Low Risk
+CUST0000483,19,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000484,49,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0000485,40,Female,"London, UK",High,Low Risk
+CUST0000486,39,Female,"London, UK",High,Low Risk
+CUST0000487,68,Female,"Berlin, Germany",Middle,High Risk
+CUST0000488,42,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000489,39,Male,"New York, USA",High,Medium Risk
+CUST0000490,39,Male,"Toronto, Canada",Low,High Risk
+CUST0000491,66,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000492,69,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0000493,59,Male,Singapore,High,Medium Risk
+CUST0000494,23,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0000495,32,Male,"Lagos, Nigeria",Low,High Risk
+CUST0000496,71,Female,"Dubai, UAE",Middle,Low Risk
+CUST0000497,60,Male,"London, UK",Low,Medium Risk
+CUST0000498,54,Female,Singapore,Middle,High Risk
+CUST0000499,50,Female,"Toronto, Canada",Low,Medium Risk
+CUST0000500,25,Male,"Berlin, Germany",Low,Low Risk
+CUST0000501,70,Female,Singapore,Low,High Risk
+CUST0000502,61,Female,"Lagos, Nigeria",High,High Risk
+CUST0000503,61,Female,"Berlin, Germany",Middle,Low Risk
+CUST0000504,22,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0000505,56,Male,"Berlin, Germany",Low,Low Risk
+CUST0000506,21,Male,"Toronto, Canada",High,High Risk
+CUST0000507,23,Female,"London, UK",High,High Risk
+CUST0000508,62,Female,"Toronto, Canada",Middle,Low Risk
+CUST0000509,49,Male,"Dubai, UAE",High,Low Risk
+CUST0000510,69,Female,"New York, USA",Middle,High Risk
+CUST0000511,47,Male,"London, UK",Middle,High Risk
+CUST0000512,64,Female,"Toronto, Canada",Middle,Low Risk
+CUST0000513,52,Female,"Dubai, UAE",High,Low Risk
+CUST0000514,72,Male,"New York, USA",Middle,High Risk
+CUST0000515,57,Male,"Dubai, UAE",Middle,High Risk
+CUST0000516,69,Male,"Lagos, Nigeria",Low,High Risk
+CUST0000517,33,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000518,30,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0000519,67,Male,"Berlin, Germany",Low,Medium Risk
+CUST0000520,59,Female,"London, UK",Low,Low Risk
+CUST0000521,47,Male,"Lagos, Nigeria",High,High Risk
+CUST0000522,36,Male,Singapore,Middle,Low Risk
+CUST0000523,34,Female,"Dubai, UAE",High,Medium Risk
+CUST0000524,73,Male,"London, UK",High,Low Risk
+CUST0000525,36,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0000526,45,Male,Singapore,High,Medium Risk
+CUST0000527,72,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000528,43,Female,"Berlin, Germany",Low,High Risk
+CUST0000529,54,Female,"Toronto, Canada",Middle,High Risk
+CUST0000530,43,Male,"Berlin, Germany",Middle,High Risk
+CUST0000531,70,Male,Singapore,Low,Low Risk
+CUST0000532,40,Male,"New York, USA",Middle,Low Risk
+CUST0000533,26,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000534,29,Female,Singapore,Middle,High Risk
+CUST0000535,70,Female,"New York, USA",Low,High Risk
+CUST0000536,18,Female,"New York, USA",High,Low Risk
+CUST0000537,18,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0000538,64,Male,"London, UK",Low,Low Risk
+CUST0000539,51,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0000540,49,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0000541,71,Male,"New York, USA",Middle,High Risk
+CUST0000542,65,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0000543,42,Female,Singapore,High,Low Risk
+CUST0000544,57,Male,"Toronto, Canada",High,High Risk
+CUST0000545,62,Male,"New York, USA",High,Low Risk
+CUST0000546,70,Male,Singapore,Low,High Risk
+CUST0000547,18,Female,"Johannesburg, South Africa",High,High Risk
+CUST0000548,33,Female,"Toronto, Canada",Low,Medium Risk
+CUST0000549,56,Male,"Dubai, UAE",Middle,Low Risk
+CUST0000550,22,Male,"Dubai, UAE",Middle,High Risk
+CUST0000551,39,Female,"London, UK",High,Low Risk
+CUST0000552,46,Male,Singapore,Low,Medium Risk
+CUST0000553,72,Female,"New York, USA",Middle,Medium Risk
+CUST0000554,20,Female,"Berlin, Germany",Low,Low Risk
+CUST0000555,29,Male,"Dubai, UAE",Low,Low Risk
+CUST0000556,43,Male,"Dubai, UAE",Middle,High Risk
+CUST0000557,33,Male,"London, UK",Low,Medium Risk
+CUST0000558,68,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0000559,54,Female,"London, UK",Middle,Medium Risk
+CUST0000560,39,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000561,74,Female,"New York, USA",Low,High Risk
+CUST0000562,46,Male,Singapore,Middle,Low Risk
+CUST0000563,31,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000564,45,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0000565,22,Male,Singapore,Middle,High Risk
+CUST0000566,64,Male,"Toronto, Canada",High,Low Risk
+CUST0000567,66,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0000568,47,Male,"Dubai, UAE",High,Medium Risk
+CUST0000569,63,Male,"Toronto, Canada",Low,Medium Risk
+CUST0000570,69,Female,"Dubai, UAE",Low,High Risk
+CUST0000571,22,Male,"Dubai, UAE",Middle,Low Risk
+CUST0000572,29,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0000573,33,Female,"Toronto, Canada",Middle,Low Risk
+CUST0000574,43,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000575,43,Male,"London, UK",Low,Low Risk
+CUST0000576,65,Male,"Dubai, UAE",Middle,Low Risk
+CUST0000577,38,Female,"Berlin, Germany",Middle,Low Risk
+CUST0000578,56,Male,"Berlin, Germany",High,High Risk
+CUST0000579,53,Female,"London, UK",Middle,Low Risk
+CUST0000580,50,Male,"Berlin, Germany",Middle,Low Risk
+CUST0000581,47,Male,"New York, USA",Middle,Low Risk
+CUST0000582,54,Female,"Dubai, UAE",Low,High Risk
+CUST0000583,40,Female,"London, UK",High,High Risk
+CUST0000584,27,Male,"Toronto, Canada",Middle,High Risk
+CUST0000585,71,Female,"Dubai, UAE",Middle,Low Risk
+CUST0000586,22,Female,"London, UK",High,Medium Risk
+CUST0000587,53,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000588,51,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000589,69,Female,"Toronto, Canada",Middle,Low Risk
+CUST0000590,48,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000591,27,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0000592,36,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0000593,49,Male,"Toronto, Canada",High,Low Risk
+CUST0000594,18,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000595,73,Female,"Berlin, Germany",High,Medium Risk
+CUST0000596,22,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000597,62,Female,"London, UK",Low,High Risk
+CUST0000598,21,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0000599,33,Male,"New York, USA",High,High Risk
+CUST0000600,41,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000601,33,Female,"Toronto, Canada",Middle,Low Risk
+CUST0000602,72,Female,"Toronto, Canada",Low,High Risk
+CUST0000603,19,Female,Singapore,Middle,High Risk
+CUST0000604,66,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0000605,45,Male,"Dubai, UAE",Middle,High Risk
+CUST0000606,49,Male,"Dubai, UAE",Low,Medium Risk
+CUST0000607,44,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0000608,37,Female,Singapore,High,High Risk
+CUST0000609,41,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000610,29,Female,"Berlin, Germany",Low,High Risk
+CUST0000611,67,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0000612,52,Female,Singapore,High,Low Risk
+CUST0000613,50,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0000614,50,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0000615,68,Female,"Lagos, Nigeria",High,High Risk
+CUST0000616,60,Female,"Berlin, Germany",Low,Low Risk
+CUST0000617,54,Female,Singapore,Low,Medium Risk
+CUST0000618,29,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000619,20,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000620,18,Male,Singapore,High,High Risk
+CUST0000621,50,Male,"New York, USA",Low,Low Risk
+CUST0000622,57,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000623,27,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000624,60,Female,"Toronto, Canada",High,Low Risk
+CUST0000625,61,Female,"Berlin, Germany",High,High Risk
+CUST0000626,46,Female,"London, UK",Middle,High Risk
+CUST0000627,30,Female,"New York, USA",Low,High Risk
+CUST0000628,29,Female,Singapore,Middle,Low Risk
+CUST0000629,48,Male,Singapore,Middle,Medium Risk
+CUST0000630,63,Female,Singapore,Middle,High Risk
+CUST0000631,19,Male,"New York, USA",Middle,Low Risk
+CUST0000632,68,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0000633,67,Female,Singapore,Middle,High Risk
+CUST0000634,52,Female,Singapore,Low,Medium Risk
+CUST0000635,40,Male,"Berlin, Germany",Middle,High Risk
+CUST0000636,34,Male,"Dubai, UAE",High,Medium Risk
+CUST0000637,43,Female,"Dubai, UAE",Low,Low Risk
+CUST0000638,25,Female,"Toronto, Canada",High,High Risk
+CUST0000639,46,Male,"Toronto, Canada",Middle,Low Risk
+CUST0000640,43,Female,Singapore,Middle,Low Risk
+CUST0000641,27,Female,"Berlin, Germany",Middle,Low Risk
+CUST0000642,43,Female,Singapore,Low,High Risk
+CUST0000643,51,Male,"Toronto, Canada",High,Medium Risk
+CUST0000644,68,Male,"New York, USA",Low,High Risk
+CUST0000645,58,Male,"New York, USA",Low,Low Risk
+CUST0000646,24,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000647,21,Female,"London, UK",High,Low Risk
+CUST0000648,70,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0000649,67,Male,"Berlin, Germany",Low,High Risk
+CUST0000650,62,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000651,28,Female,"Dubai, UAE",High,High Risk
+CUST0000652,46,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0000653,73,Male,"London, UK",High,Medium Risk
+CUST0000654,53,Female,"London, UK",High,Low Risk
+CUST0000655,42,Female,Singapore,Middle,Medium Risk
+CUST0000656,38,Female,"Toronto, Canada",Low,High Risk
+CUST0000657,74,Male,"London, UK",Middle,Medium Risk
+CUST0000658,53,Female,"London, UK",Low,Medium Risk
+CUST0000659,27,Female,"Lagos, Nigeria",Low,High Risk
+CUST0000660,54,Male,"Toronto, Canada",Middle,High Risk
+CUST0000661,26,Female,"London, UK",Low,High Risk
+CUST0000662,41,Male,"Dubai, UAE",Low,Medium Risk
+CUST0000663,52,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000664,66,Female,"London, UK",Middle,Medium Risk
+CUST0000665,52,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000666,65,Female,"Toronto, Canada",Low,Low Risk
+CUST0000667,53,Female,Singapore,High,High Risk
+CUST0000668,35,Female,"Berlin, Germany",Low,Medium Risk
+CUST0000669,66,Female,"Toronto, Canada",High,Low Risk
+CUST0000670,56,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0000671,49,Male,"Berlin, Germany",High,High Risk
+CUST0000672,41,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0000673,40,Male,"New York, USA",Middle,High Risk
+CUST0000674,49,Female,"Johannesburg, South Africa",High,High Risk
+CUST0000675,54,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000676,29,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0000677,66,Male,"Toronto, Canada",Middle,High Risk
+CUST0000678,72,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0000679,30,Male,Singapore,Low,High Risk
+CUST0000680,40,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000681,42,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0000682,52,Male,"Dubai, UAE",High,High Risk
+CUST0000683,58,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0000684,47,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0000685,34,Male,"Berlin, Germany",Middle,Low Risk
+CUST0000686,66,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0000687,37,Female,"Johannesburg, South Africa",High,High Risk
+CUST0000688,65,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0000689,42,Male,"London, UK",Low,Medium Risk
+CUST0000690,39,Male,Singapore,High,Medium Risk
+CUST0000691,30,Male,"Toronto, Canada",Low,Low Risk
+CUST0000692,36,Female,"New York, USA",Low,Medium Risk
+CUST0000693,66,Male,"Toronto, Canada",Low,Low Risk
+CUST0000694,53,Female,"Berlin, Germany",High,Low Risk
+CUST0000695,29,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0000696,58,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000697,36,Male,"Toronto, Canada",Low,High Risk
+CUST0000698,29,Male,"Berlin, Germany",Low,Medium Risk
+CUST0000699,26,Female,"London, UK",Middle,High Risk
+CUST0000700,24,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0000701,45,Male,"Toronto, Canada",High,Medium Risk
+CUST0000702,31,Male,Singapore,Middle,Medium Risk
+CUST0000703,48,Female,"London, UK",High,Medium Risk
+CUST0000704,69,Male,"Johannesburg, South Africa",High,High Risk
+CUST0000705,36,Male,"Dubai, UAE",High,High Risk
+CUST0000706,64,Female,Singapore,High,Medium Risk
+CUST0000707,33,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0000708,70,Female,Singapore,Low,High Risk
+CUST0000709,22,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000710,52,Male,Singapore,Low,Low Risk
+CUST0000711,29,Male,"Dubai, UAE",High,Low Risk
+CUST0000712,42,Female,"London, UK",Middle,High Risk
+CUST0000713,69,Male,Singapore,Low,High Risk
+CUST0000714,38,Male,Singapore,Low,Low Risk
+CUST0000715,53,Female,"Lagos, Nigeria",High,Low Risk
+CUST0000716,70,Female,"Toronto, Canada",Low,Medium Risk
+CUST0000717,40,Female,"Dubai, UAE",Low,High Risk
+CUST0000718,33,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0000719,74,Female,"Dubai, UAE",Low,Low Risk
+CUST0000720,56,Male,"Berlin, Germany",Low,Low Risk
+CUST0000721,62,Female,"Johannesburg, South Africa",High,High Risk
+CUST0000722,70,Male,"Dubai, UAE",High,Medium Risk
+CUST0000723,59,Male,"London, UK",Low,Low Risk
+CUST0000724,56,Female,"Johannesburg, South Africa",High,High Risk
+CUST0000725,31,Female,"Johannesburg, South Africa",High,High Risk
+CUST0000726,48,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0000727,22,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000728,52,Female,"Lagos, Nigeria",High,Low Risk
+CUST0000729,40,Female,"Toronto, Canada",High,Low Risk
+CUST0000730,46,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0000731,60,Female,"Toronto, Canada",Middle,High Risk
+CUST0000732,28,Female,"Dubai, UAE",Low,Low Risk
+CUST0000733,35,Male,Singapore,Middle,High Risk
+CUST0000734,64,Male,"New York, USA",Low,Low Risk
+CUST0000735,29,Male,"New York, USA",Low,Medium Risk
+CUST0000736,26,Female,Singapore,Low,Medium Risk
+CUST0000737,27,Female,Singapore,Low,High Risk
+CUST0000738,61,Female,Singapore,Middle,Medium Risk
+CUST0000739,34,Male,"London, UK",Middle,High Risk
+CUST0000740,55,Female,"New York, USA",High,High Risk
+CUST0000741,24,Female,Singapore,Low,Medium Risk
+CUST0000742,63,Female,"London, UK",Middle,High Risk
+CUST0000743,30,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0000744,57,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000745,59,Male,"London, UK",Low,Low Risk
+CUST0000746,26,Female,"New York, USA",High,Medium Risk
+CUST0000747,67,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0000748,44,Male,"Berlin, Germany",Low,Medium Risk
+CUST0000749,19,Male,"New York, USA",Middle,Medium Risk
+CUST0000750,22,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000751,46,Female,"London, UK",High,High Risk
+CUST0000752,54,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0000753,55,Male,"Toronto, Canada",Middle,Low Risk
+CUST0000754,36,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0000755,25,Female,"New York, USA",Low,Low Risk
+CUST0000756,65,Male,Singapore,High,High Risk
+CUST0000757,62,Female,"London, UK",Low,Medium Risk
+CUST0000758,18,Female,Singapore,Low,Medium Risk
+CUST0000759,39,Female,Singapore,High,Medium Risk
+CUST0000760,69,Female,Singapore,Middle,Low Risk
+CUST0000761,34,Male,Singapore,High,Low Risk
+CUST0000762,24,Female,Singapore,Low,High Risk
+CUST0000763,42,Female,"Berlin, Germany",High,High Risk
+CUST0000764,62,Male,"New York, USA",Middle,High Risk
+CUST0000765,21,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0000766,53,Female,"New York, USA",Low,High Risk
+CUST0000767,23,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0000768,48,Female,"Toronto, Canada",High,High Risk
+CUST0000769,36,Female,"London, UK",Middle,Medium Risk
+CUST0000770,61,Male,"Lagos, Nigeria",High,Low Risk
+CUST0000771,71,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0000772,56,Male,"London, UK",Middle,Medium Risk
+CUST0000773,44,Female,"Berlin, Germany",High,Medium Risk
+CUST0000774,27,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000775,43,Female,"New York, USA",Low,Low Risk
+CUST0000776,36,Female,Singapore,High,Low Risk
+CUST0000777,56,Male,"Toronto, Canada",Middle,Low Risk
+CUST0000778,20,Male,"Toronto, Canada",Low,High Risk
+CUST0000779,62,Female,"Dubai, UAE",High,Low Risk
+CUST0000780,30,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0000781,67,Female,"Toronto, Canada",Low,Low Risk
+CUST0000782,45,Female,Singapore,Low,High Risk
+CUST0000783,37,Male,"New York, USA",Middle,High Risk
+CUST0000784,45,Female,"Lagos, Nigeria",High,High Risk
+CUST0000785,25,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0000786,58,Male,"London, UK",Middle,Low Risk
+CUST0000787,56,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0000788,18,Female,Singapore,Low,Low Risk
+CUST0000789,20,Male,Singapore,High,Medium Risk
+CUST0000790,30,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0000791,45,Male,"Lagos, Nigeria",Low,High Risk
+CUST0000792,74,Female,"New York, USA",Middle,High Risk
+CUST0000793,66,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0000794,42,Male,"Dubai, UAE",Low,Medium Risk
+CUST0000795,73,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0000796,50,Female,"Berlin, Germany",Low,Low Risk
+CUST0000797,55,Male,"Berlin, Germany",Middle,Low Risk
+CUST0000798,70,Male,"New York, USA",High,High Risk
+CUST0000799,23,Male,"New York, USA",Middle,High Risk
+CUST0000800,61,Male,"Berlin, Germany",Low,High Risk
+CUST0000801,62,Male,"Dubai, UAE",Middle,Low Risk
+CUST0000802,49,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0000803,62,Female,"Berlin, Germany",Low,High Risk
+CUST0000804,64,Female,"New York, USA",High,High Risk
+CUST0000805,38,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0000806,33,Female,"London, UK",Low,Medium Risk
+CUST0000807,71,Female,"Dubai, UAE",High,High Risk
+CUST0000808,38,Female,Singapore,High,High Risk
+CUST0000809,28,Male,"Dubai, UAE",High,Medium Risk
+CUST0000810,54,Female,"Toronto, Canada",Middle,High Risk
+CUST0000811,53,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0000812,52,Male,Singapore,Middle,Medium Risk
+CUST0000813,36,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0000814,37,Male,"New York, USA",Middle,Low Risk
+CUST0000815,74,Male,"Berlin, Germany",Low,Low Risk
+CUST0000816,35,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0000817,64,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0000818,58,Female,"Dubai, UAE",High,Low Risk
+CUST0000819,66,Female,Singapore,Middle,High Risk
+CUST0000820,31,Female,"Dubai, UAE",Low,High Risk
+CUST0000821,32,Female,"Johannesburg, South Africa",High,High Risk
+CUST0000822,48,Female,"Toronto, Canada",Low,High Risk
+CUST0000823,18,Female,"Berlin, Germany",High,High Risk
+CUST0000824,70,Female,"Dubai, UAE",High,Medium Risk
+CUST0000825,71,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0000826,71,Female,"Toronto, Canada",Low,Medium Risk
+CUST0000827,20,Female,"Lagos, Nigeria",High,Low Risk
+CUST0000828,33,Male,"Berlin, Germany",Middle,High Risk
+CUST0000829,40,Female,"Dubai, UAE",High,Low Risk
+CUST0000830,74,Male,"London, UK",High,Medium Risk
+CUST0000831,28,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0000832,29,Male,"Dubai, UAE",High,Low Risk
+CUST0000833,27,Male,"Johannesburg, South Africa",High,High Risk
+CUST0000834,49,Female,"Berlin, Germany",High,High Risk
+CUST0000835,33,Male,"Dubai, UAE",Middle,Low Risk
+CUST0000836,25,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0000837,55,Female,Singapore,Low,Low Risk
+CUST0000838,29,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0000839,41,Female,"Dubai, UAE",Low,High Risk
+CUST0000840,45,Male,"New York, USA",High,High Risk
+CUST0000841,70,Male,"Dubai, UAE",Low,Low Risk
+CUST0000842,25,Female,"Dubai, UAE",High,High Risk
+CUST0000843,45,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0000844,53,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0000845,43,Female,"London, UK",Middle,High Risk
+CUST0000846,25,Female,"Lagos, Nigeria",High,Low Risk
+CUST0000847,67,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000848,45,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0000849,45,Male,"Toronto, Canada",Middle,Low Risk
+CUST0000850,54,Female,"New York, USA",Middle,Low Risk
+CUST0000851,58,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0000852,53,Female,Singapore,Middle,Low Risk
+CUST0000853,44,Female,"Berlin, Germany",High,Medium Risk
+CUST0000854,71,Female,Singapore,Low,Medium Risk
+CUST0000855,34,Male,"Berlin, Germany",High,High Risk
+CUST0000856,26,Female,"Dubai, UAE",Low,Low Risk
+CUST0000857,50,Male,"Toronto, Canada",High,Low Risk
+CUST0000858,70,Female,"New York, USA",High,High Risk
+CUST0000859,37,Male,Singapore,Middle,Medium Risk
+CUST0000860,30,Female,"New York, USA",High,Low Risk
+CUST0000861,45,Male,Singapore,Middle,High Risk
+CUST0000862,65,Female,"Dubai, UAE",Low,High Risk
+CUST0000863,46,Male,"Berlin, Germany",High,Low Risk
+CUST0000864,30,Male,"London, UK",High,High Risk
+CUST0000865,63,Male,"Toronto, Canada",Low,Medium Risk
+CUST0000866,52,Male,Singapore,Low,High Risk
+CUST0000867,23,Male,Singapore,High,Medium Risk
+CUST0000868,35,Male,"Dubai, UAE",Low,Medium Risk
+CUST0000869,68,Female,"Toronto, Canada",Middle,Low Risk
+CUST0000870,22,Male,"Berlin, Germany",Low,High Risk
+CUST0000871,64,Female,"Berlin, Germany",Low,Medium Risk
+CUST0000872,42,Female,Singapore,High,Medium Risk
+CUST0000873,19,Female,"London, UK",Middle,High Risk
+CUST0000874,27,Female,"London, UK",Low,Medium Risk
+CUST0000875,73,Female,"New York, USA",Middle,High Risk
+CUST0000876,47,Male,"Toronto, Canada",Middle,Low Risk
+CUST0000877,67,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0000878,62,Male,"Berlin, Germany",High,Medium Risk
+CUST0000879,22,Female,"New York, USA",Low,High Risk
+CUST0000880,72,Male,"Dubai, UAE",High,High Risk
+CUST0000881,73,Male,"Toronto, Canada",Low,High Risk
+CUST0000882,50,Male,"New York, USA",Low,High Risk
+CUST0000883,71,Male,"New York, USA",High,Medium Risk
+CUST0000884,18,Male,Singapore,Middle,Low Risk
+CUST0000885,35,Female,"Berlin, Germany",Middle,Low Risk
+CUST0000886,49,Male,"New York, USA",Low,Low Risk
+CUST0000887,64,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0000888,66,Female,"London, UK",Middle,High Risk
+CUST0000889,28,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000890,38,Female,"London, UK",Low,Medium Risk
+CUST0000891,43,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0000892,42,Male,"Berlin, Germany",High,High Risk
+CUST0000893,39,Male,Singapore,Low,Medium Risk
+CUST0000894,44,Male,"Dubai, UAE",Middle,High Risk
+CUST0000895,66,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000896,30,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000897,50,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0000898,51,Female,"London, UK",High,Medium Risk
+CUST0000899,58,Female,Singapore,High,Low Risk
+CUST0000900,52,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000901,18,Female,"Berlin, Germany",Low,Low Risk
+CUST0000902,38,Male,Singapore,Low,High Risk
+CUST0000903,65,Female,"Berlin, Germany",High,High Risk
+CUST0000904,72,Female,"New York, USA",Middle,Medium Risk
+CUST0000905,23,Male,"Toronto, Canada",Low,Low Risk
+CUST0000906,45,Male,"New York, USA",Middle,Medium Risk
+CUST0000907,34,Female,"Berlin, Germany",Low,Medium Risk
+CUST0000908,22,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0000909,48,Female,Singapore,Low,Medium Risk
+CUST0000910,22,Female,"London, UK",Low,High Risk
+CUST0000911,55,Male,"Dubai, UAE",Low,Medium Risk
+CUST0000912,20,Male,"London, UK",Middle,Low Risk
+CUST0000913,70,Female,Singapore,Low,High Risk
+CUST0000914,40,Female,"New York, USA",Middle,High Risk
+CUST0000915,54,Female,"Dubai, UAE",High,Medium Risk
+CUST0000916,70,Male,Singapore,Low,Medium Risk
+CUST0000917,54,Female,"Berlin, Germany",Middle,High Risk
+CUST0000918,27,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0000919,27,Female,"London, UK",High,Low Risk
+CUST0000920,36,Female,"Berlin, Germany",High,Medium Risk
+CUST0000921,34,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0000922,38,Male,"Dubai, UAE",Low,High Risk
+CUST0000923,31,Female,"London, UK",Low,Medium Risk
+CUST0000924,26,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0000925,63,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0000926,18,Female,"Berlin, Germany",Middle,Low Risk
+CUST0000927,68,Male,"Dubai, UAE",Low,Medium Risk
+CUST0000928,62,Male,"Berlin, Germany",High,Low Risk
+CUST0000929,30,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0000930,21,Female,Singapore,Middle,Low Risk
+CUST0000931,18,Female,"New York, USA",Middle,Low Risk
+CUST0000932,66,Male,"Johannesburg, South Africa",High,High Risk
+CUST0000933,57,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0000934,49,Male,"Toronto, Canada",Low,Medium Risk
+CUST0000935,51,Female,Singapore,Low,Low Risk
+CUST0000936,45,Female,"New York, USA",High,Medium Risk
+CUST0000937,48,Male,"Toronto, Canada",Middle,Low Risk
+CUST0000938,25,Male,"London, UK",High,High Risk
+CUST0000939,56,Male,"Toronto, Canada",Low,Low Risk
+CUST0000940,43,Female,Singapore,High,Low Risk
+CUST0000941,51,Female,"Berlin, Germany",Middle,High Risk
+CUST0000942,71,Female,Singapore,High,Low Risk
+CUST0000943,71,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000944,20,Male,"Toronto, Canada",Middle,Low Risk
+CUST0000945,67,Female,"Dubai, UAE",Low,Low Risk
+CUST0000946,29,Male,"New York, USA",Low,Low Risk
+CUST0000947,18,Female,"New York, USA",Low,High Risk
+CUST0000948,71,Male,"Toronto, Canada",Middle,Low Risk
+CUST0000949,61,Male,"New York, USA",High,Low Risk
+CUST0000950,22,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0000951,47,Male,Singapore,Low,Low Risk
+CUST0000952,47,Female,"New York, USA",Low,Low Risk
+CUST0000953,74,Male,"Toronto, Canada",High,Low Risk
+CUST0000954,34,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0000955,65,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0000956,64,Female,"London, UK",Low,Medium Risk
+CUST0000957,40,Male,"Johannesburg, South Africa",High,High Risk
+CUST0000958,32,Female,"New York, USA",Middle,Low Risk
+CUST0000959,54,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0000960,38,Female,Singapore,High,High Risk
+CUST0000961,31,Male,"Toronto, Canada",Low,Low Risk
+CUST0000962,19,Male,"New York, USA",High,Medium Risk
+CUST0000963,28,Female,"Berlin, Germany",Low,Medium Risk
+CUST0000964,68,Male,"Dubai, UAE",High,Low Risk
+CUST0000965,56,Female,"New York, USA",Low,Low Risk
+CUST0000966,55,Female,"New York, USA",Middle,Medium Risk
+CUST0000967,51,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0000968,55,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0000969,67,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0000970,51,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0000971,35,Female,"Toronto, Canada",Low,High Risk
+CUST0000972,47,Male,"New York, USA",High,High Risk
+CUST0000973,32,Male,"Lagos, Nigeria",High,Low Risk
+CUST0000974,44,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0000975,68,Female,"London, UK",High,Low Risk
+CUST0000976,51,Male,"Dubai, UAE",Low,Medium Risk
+CUST0000977,69,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0000978,74,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0000979,55,Male,Singapore,High,Medium Risk
+CUST0000980,50,Male,"Lagos, Nigeria",Low,High Risk
+CUST0000981,41,Male,Singapore,Low,Low Risk
+CUST0000982,32,Male,"New York, USA",Low,High Risk
+CUST0000983,47,Male,"New York, USA",Middle,High Risk
+CUST0000984,72,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0000985,59,Male,"London, UK",High,Low Risk
+CUST0000986,68,Female,"Berlin, Germany",High,Medium Risk
+CUST0000987,34,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0000988,22,Female,"Berlin, Germany",High,Medium Risk
+CUST0000989,46,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0000990,21,Female,Singapore,Middle,Low Risk
+CUST0000991,27,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0000992,73,Male,"Dubai, UAE",Low,Low Risk
+CUST0000993,34,Male,"Dubai, UAE",Low,Medium Risk
+CUST0000994,27,Male,"London, UK",High,Low Risk
+CUST0000995,34,Female,"Dubai, UAE",High,Low Risk
+CUST0000996,37,Male,"Berlin, Germany",Middle,High Risk
+CUST0000997,41,Male,"Berlin, Germany",High,Medium Risk
+CUST0000998,22,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0000999,51,Male,"Lagos, Nigeria",High,High Risk
+CUST0001000,23,Male,"Dubai, UAE",Low,Medium Risk
+CUST0001001,70,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001002,19,Male,"New York, USA",High,Low Risk
+CUST0001003,30,Male,"New York, USA",Middle,Medium Risk
+CUST0001004,60,Male,"Lagos, Nigeria",Low,High Risk
+CUST0001005,60,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001006,65,Male,"Lagos, Nigeria",High,Medium Risk
+CUST0001007,28,Female,"Johannesburg, South Africa",High,High Risk
+CUST0001008,68,Female,"New York, USA",Low,Low Risk
+CUST0001009,64,Female,"Berlin, Germany",High,High Risk
+CUST0001010,74,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0001011,40,Female,"London, UK",Middle,High Risk
+CUST0001012,72,Female,Singapore,Low,Low Risk
+CUST0001013,33,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0001014,48,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001015,28,Female,Singapore,Low,Low Risk
+CUST0001016,71,Male,"Toronto, Canada",Low,Medium Risk
+CUST0001017,33,Male,"Lagos, Nigeria",High,High Risk
+CUST0001018,25,Female,"New York, USA",Middle,High Risk
+CUST0001019,21,Male,"Dubai, UAE",Low,High Risk
+CUST0001020,57,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0001021,21,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0001022,73,Female,"Dubai, UAE",Low,High Risk
+CUST0001023,42,Male,"Toronto, Canada",High,Medium Risk
+CUST0001024,20,Male,"London, UK",Middle,Medium Risk
+CUST0001025,49,Female,"Dubai, UAE",Low,High Risk
+CUST0001026,20,Female,Singapore,Middle,High Risk
+CUST0001027,44,Female,"Berlin, Germany",High,Low Risk
+CUST0001028,46,Female,"Lagos, Nigeria",High,Low Risk
+CUST0001029,49,Female,"Toronto, Canada",High,High Risk
+CUST0001030,67,Male,"Toronto, Canada",Low,Medium Risk
+CUST0001031,68,Female,"Dubai, UAE",Low,High Risk
+CUST0001032,36,Female,"London, UK",High,Low Risk
+CUST0001033,38,Male,"New York, USA",Low,Medium Risk
+CUST0001034,22,Male,"Lagos, Nigeria",High,Medium Risk
+CUST0001035,35,Female,"Toronto, Canada",Low,Low Risk
+CUST0001036,45,Male,"London, UK",High,High Risk
+CUST0001037,59,Male,"Berlin, Germany",Middle,High Risk
+CUST0001038,39,Female,"Toronto, Canada",High,High Risk
+CUST0001039,38,Male,"London, UK",High,Low Risk
+CUST0001040,23,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001041,18,Female,"New York, USA",Low,Low Risk
+CUST0001042,22,Female,"New York, USA",Low,High Risk
+CUST0001043,58,Male,"Toronto, Canada",Low,Low Risk
+CUST0001044,29,Male,Singapore,Low,Medium Risk
+CUST0001045,43,Female,"Toronto, Canada",Low,Low Risk
+CUST0001046,63,Male,"Dubai, UAE",Middle,High Risk
+CUST0001047,51,Male,"Lagos, Nigeria",High,Medium Risk
+CUST0001048,66,Male,"London, UK",High,Low Risk
+CUST0001049,31,Female,"Toronto, Canada",High,Low Risk
+CUST0001050,43,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001051,62,Male,"Dubai, UAE",High,Medium Risk
+CUST0001052,44,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0001053,26,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001054,43,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001055,74,Female,"Toronto, Canada",High,Low Risk
+CUST0001056,64,Female,"New York, USA",Middle,High Risk
+CUST0001057,74,Female,"London, UK",High,Low Risk
+CUST0001058,39,Female,"London, UK",High,Medium Risk
+CUST0001059,64,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0001060,73,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001061,47,Female,"New York, USA",Middle,Low Risk
+CUST0001062,60,Female,Singapore,Middle,Low Risk
+CUST0001063,65,Male,"Toronto, Canada",High,Low Risk
+CUST0001064,34,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001065,43,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0001066,53,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0001067,18,Male,"London, UK",Middle,High Risk
+CUST0001068,25,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0001069,66,Female,"Dubai, UAE",High,Medium Risk
+CUST0001070,52,Male,"Toronto, Canada",High,High Risk
+CUST0001071,69,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0001072,32,Male,"New York, USA",High,Medium Risk
+CUST0001073,64,Male,Singapore,Low,Low Risk
+CUST0001074,73,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001075,39,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0001076,31,Male,"Toronto, Canada",High,High Risk
+CUST0001077,43,Female,Singapore,High,High Risk
+CUST0001078,45,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001079,40,Male,Singapore,Low,Low Risk
+CUST0001080,31,Female,"Dubai, UAE",Middle,High Risk
+CUST0001081,41,Male,"Berlin, Germany",Middle,High Risk
+CUST0001082,19,Female,"New York, USA",High,Low Risk
+CUST0001083,62,Female,Singapore,Low,High Risk
+CUST0001084,43,Female,"London, UK",Middle,Low Risk
+CUST0001085,31,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0001086,73,Male,"London, UK",Middle,Medium Risk
+CUST0001087,68,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001088,24,Female,"Dubai, UAE",High,Low Risk
+CUST0001089,20,Female,"Dubai, UAE",High,High Risk
+CUST0001090,64,Male,"London, UK",Low,Medium Risk
+CUST0001091,40,Female,"New York, USA",Middle,Medium Risk
+CUST0001092,63,Male,"London, UK",High,Medium Risk
+CUST0001093,60,Male,"Toronto, Canada",High,High Risk
+CUST0001094,64,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0001095,62,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0001096,35,Male,"London, UK",High,Medium Risk
+CUST0001097,55,Female,"Lagos, Nigeria",Low,High Risk
+CUST0001098,52,Male,"Lagos, Nigeria",High,Low Risk
+CUST0001099,68,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001100,32,Female,"Berlin, Germany",Low,High Risk
+CUST0001101,42,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0001102,72,Male,"London, UK",Middle,Low Risk
+CUST0001103,54,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001104,45,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0001105,27,Female,"New York, USA",Middle,High Risk
+CUST0001106,56,Female,Singapore,Middle,Medium Risk
+CUST0001107,74,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0001108,34,Male,"Toronto, Canada",High,High Risk
+CUST0001109,56,Male,"New York, USA",Middle,High Risk
+CUST0001110,39,Male,"Berlin, Germany",Middle,Low Risk
+CUST0001111,43,Female,"Toronto, Canada",Low,High Risk
+CUST0001112,61,Female,"London, UK",High,Medium Risk
+CUST0001113,42,Male,Singapore,Middle,Medium Risk
+CUST0001114,34,Male,"London, UK",Low,High Risk
+CUST0001115,30,Female,Singapore,High,Low Risk
+CUST0001116,37,Male,Singapore,High,Low Risk
+CUST0001117,42,Male,"London, UK",High,Medium Risk
+CUST0001118,21,Male,"Toronto, Canada",High,Low Risk
+CUST0001119,27,Male,"Toronto, Canada",High,High Risk
+CUST0001120,20,Male,Singapore,High,High Risk
+CUST0001121,58,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0001122,62,Female,Singapore,Middle,Medium Risk
+CUST0001123,35,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001124,64,Male,Singapore,Middle,Low Risk
+CUST0001125,53,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0001126,64,Female,"New York, USA",Middle,High Risk
+CUST0001127,39,Female,"Dubai, UAE",High,High Risk
+CUST0001128,51,Male,"New York, USA",Middle,Medium Risk
+CUST0001129,64,Female,"London, UK",Middle,High Risk
+CUST0001130,25,Male,"Dubai, UAE",High,Low Risk
+CUST0001131,57,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0001132,66,Male,"London, UK",Middle,High Risk
+CUST0001133,61,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0001134,36,Female,"New York, USA",Low,High Risk
+CUST0001135,59,Female,"Toronto, Canada",Middle,Low Risk
+CUST0001136,58,Female,"New York, USA",High,Low Risk
+CUST0001137,54,Female,"Toronto, Canada",High,Low Risk
+CUST0001138,23,Male,"Dubai, UAE",Middle,High Risk
+CUST0001139,69,Male,"Berlin, Germany",Middle,Low Risk
+CUST0001140,43,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0001141,51,Male,"Berlin, Germany",High,High Risk
+CUST0001142,73,Female,"New York, USA",High,High Risk
+CUST0001143,62,Female,"Toronto, Canada",Low,Low Risk
+CUST0001144,23,Male,"Dubai, UAE",Low,Low Risk
+CUST0001145,54,Female,"Berlin, Germany",Low,Medium Risk
+CUST0001146,74,Female,Singapore,High,High Risk
+CUST0001147,50,Male,"London, UK",Low,Low Risk
+CUST0001148,70,Male,"London, UK",Middle,Medium Risk
+CUST0001149,39,Female,"Dubai, UAE",Middle,Low Risk
+CUST0001150,38,Female,"Toronto, Canada",High,High Risk
+CUST0001151,23,Male,Singapore,Low,Low Risk
+CUST0001152,23,Male,"Dubai, UAE",Middle,High Risk
+CUST0001153,72,Male,"New York, USA",High,Low Risk
+CUST0001154,65,Female,"Berlin, Germany",Low,High Risk
+CUST0001155,21,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001156,47,Male,"New York, USA",Low,High Risk
+CUST0001157,28,Female,"London, UK",High,Medium Risk
+CUST0001158,47,Female,"Berlin, Germany",Low,High Risk
+CUST0001159,48,Female,"Dubai, UAE",High,Medium Risk
+CUST0001160,41,Female,"New York, USA",Low,Low Risk
+CUST0001161,72,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0001162,26,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0001163,72,Male,"Toronto, Canada",High,Medium Risk
+CUST0001164,20,Female,Singapore,High,High Risk
+CUST0001165,68,Female,Singapore,Low,High Risk
+CUST0001166,48,Female,"Toronto, Canada",Low,Low Risk
+CUST0001167,57,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0001168,54,Female,"London, UK",High,High Risk
+CUST0001169,53,Male,"Berlin, Germany",High,Low Risk
+CUST0001170,41,Male,"Toronto, Canada",Low,High Risk
+CUST0001171,48,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0001172,23,Male,"Dubai, UAE",Middle,Low Risk
+CUST0001173,19,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001174,37,Male,Singapore,Low,Low Risk
+CUST0001175,45,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0001176,28,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001177,21,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001178,32,Male,"London, UK",Low,Low Risk
+CUST0001179,23,Female,"London, UK",High,Medium Risk
+CUST0001180,71,Male,"New York, USA",Low,Medium Risk
+CUST0001181,66,Male,"Toronto, Canada",Low,High Risk
+CUST0001182,47,Female,"New York, USA",Middle,Low Risk
+CUST0001183,73,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001184,55,Female,Singapore,Low,High Risk
+CUST0001185,68,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001186,74,Female,"Berlin, Germany",High,Low Risk
+CUST0001187,19,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0001188,32,Female,"Berlin, Germany",Middle,High Risk
+CUST0001189,28,Female,"London, UK",Middle,Low Risk
+CUST0001190,25,Male,"Berlin, Germany",High,Low Risk
+CUST0001191,43,Male,"Berlin, Germany",High,High Risk
+CUST0001192,68,Male,Singapore,High,High Risk
+CUST0001193,62,Male,"Berlin, Germany",High,Low Risk
+CUST0001194,61,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0001195,22,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0001196,23,Female,"Berlin, Germany",Low,Medium Risk
+CUST0001197,43,Female,"Dubai, UAE",High,High Risk
+CUST0001198,71,Male,"Berlin, Germany",High,Medium Risk
+CUST0001199,21,Female,"Berlin, Germany",Low,High Risk
+CUST0001200,36,Male,"New York, USA",Low,Low Risk
+CUST0001201,37,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0001202,50,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0001203,37,Male,"London, UK",Low,High Risk
+CUST0001204,66,Male,"New York, USA",Low,High Risk
+CUST0001205,29,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001206,64,Female,"Toronto, Canada",Low,Low Risk
+CUST0001207,18,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0001208,43,Female,"Dubai, UAE",Middle,High Risk
+CUST0001209,31,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0001210,55,Female,"Toronto, Canada",High,Low Risk
+CUST0001211,54,Female,"Toronto, Canada",High,Medium Risk
+CUST0001212,28,Male,"Toronto, Canada",Low,Medium Risk
+CUST0001213,53,Female,Singapore,Middle,Low Risk
+CUST0001214,30,Female,"London, UK",High,Low Risk
+CUST0001215,60,Male,"Berlin, Germany",Middle,High Risk
+CUST0001216,20,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0001217,50,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0001218,23,Male,Singapore,Middle,Low Risk
+CUST0001219,67,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001220,73,Male,"Berlin, Germany",Middle,Low Risk
+CUST0001221,27,Female,"Berlin, Germany",High,High Risk
+CUST0001222,22,Female,"Dubai, UAE",High,High Risk
+CUST0001223,40,Female,"Toronto, Canada",High,Medium Risk
+CUST0001224,27,Male,"London, UK",Low,High Risk
+CUST0001225,61,Female,"Dubai, UAE",High,Low Risk
+CUST0001226,19,Female,"New York, USA",Low,Low Risk
+CUST0001227,30,Male,Singapore,Middle,Low Risk
+CUST0001228,57,Male,Singapore,Middle,Low Risk
+CUST0001229,19,Female,"London, UK",Low,Medium Risk
+CUST0001230,37,Male,"Berlin, Germany",High,High Risk
+CUST0001231,18,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0001232,54,Male,Singapore,Middle,Low Risk
+CUST0001233,26,Male,"London, UK",Middle,Medium Risk
+CUST0001234,34,Female,Singapore,Low,Low Risk
+CUST0001235,26,Male,Singapore,High,Low Risk
+CUST0001236,28,Male,"Toronto, Canada",High,Medium Risk
+CUST0001237,32,Male,"New York, USA",Low,Medium Risk
+CUST0001238,41,Male,"Toronto, Canada",Low,Low Risk
+CUST0001239,55,Male,"New York, USA",High,High Risk
+CUST0001240,72,Male,Singapore,Middle,Low Risk
+CUST0001241,52,Male,"Dubai, UAE",Low,High Risk
+CUST0001242,47,Male,"Johannesburg, South Africa",High,High Risk
+CUST0001243,48,Female,"Berlin, Germany",High,Medium Risk
+CUST0001244,66,Male,Singapore,Middle,Medium Risk
+CUST0001245,22,Female,"New York, USA",Middle,Low Risk
+CUST0001246,61,Male,"New York, USA",Middle,High Risk
+CUST0001247,67,Male,"New York, USA",Middle,High Risk
+CUST0001248,31,Male,Singapore,Middle,Low Risk
+CUST0001249,70,Male,"London, UK",Low,Low Risk
+CUST0001250,73,Female,"Dubai, UAE",High,Low Risk
+CUST0001251,28,Male,"London, UK",Low,Medium Risk
+CUST0001252,26,Male,"Berlin, Germany",Low,Low Risk
+CUST0001253,51,Female,Singapore,Low,Low Risk
+CUST0001254,29,Female,"New York, USA",Low,High Risk
+CUST0001255,52,Male,"Dubai, UAE",Low,Low Risk
+CUST0001256,52,Female,"Dubai, UAE",Middle,High Risk
+CUST0001257,18,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0001258,57,Female,"Berlin, Germany",High,Medium Risk
+CUST0001259,39,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0001260,46,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0001261,25,Male,"Dubai, UAE",Middle,High Risk
+CUST0001262,28,Female,Singapore,Middle,Medium Risk
+CUST0001263,58,Male,"New York, USA",Middle,Medium Risk
+CUST0001264,54,Female,"New York, USA",Low,Low Risk
+CUST0001265,31,Male,"Dubai, UAE",Low,High Risk
+CUST0001266,47,Male,"London, UK",Middle,Low Risk
+CUST0001267,52,Female,"Berlin, Germany",High,Low Risk
+CUST0001268,38,Male,"New York, USA",High,Low Risk
+CUST0001269,54,Female,"Dubai, UAE",Middle,Low Risk
+CUST0001270,22,Female,"New York, USA",High,High Risk
+CUST0001271,36,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001272,31,Female,"Dubai, UAE",High,Low Risk
+CUST0001273,43,Male,"Berlin, Germany",Middle,Low Risk
+CUST0001274,21,Male,"Dubai, UAE",High,Low Risk
+CUST0001275,42,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0001276,62,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0001277,59,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0001278,42,Male,Singapore,High,Medium Risk
+CUST0001279,35,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001280,57,Male,"Berlin, Germany",Middle,Low Risk
+CUST0001281,25,Male,Singapore,Middle,High Risk
+CUST0001282,56,Male,"Dubai, UAE",Low,Medium Risk
+CUST0001283,57,Female,"Berlin, Germany",Low,Medium Risk
+CUST0001284,31,Female,"Lagos, Nigeria",High,Low Risk
+CUST0001285,49,Female,"Berlin, Germany",Low,Low Risk
+CUST0001286,68,Female,"New York, USA",High,Low Risk
+CUST0001287,55,Female,Singapore,Low,Low Risk
+CUST0001288,50,Female,"Berlin, Germany",High,High Risk
+CUST0001289,40,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0001290,32,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0001291,50,Female,"Toronto, Canada",High,High Risk
+CUST0001292,42,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0001293,34,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0001294,50,Male,"Dubai, UAE",Low,High Risk
+CUST0001295,64,Male,"London, UK",High,Medium Risk
+CUST0001296,72,Female,"New York, USA",Middle,Low Risk
+CUST0001297,19,Female,Singapore,High,Medium Risk
+CUST0001298,31,Female,"New York, USA",Middle,Low Risk
+CUST0001299,70,Male,"London, UK",High,High Risk
+CUST0001300,57,Male,"London, UK",Low,High Risk
+CUST0001301,57,Female,Singapore,High,Medium Risk
+CUST0001302,68,Female,"Berlin, Germany",Middle,Low Risk
+CUST0001303,56,Male,"London, UK",Low,Medium Risk
+CUST0001304,68,Male,"Toronto, Canada",High,High Risk
+CUST0001305,23,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0001306,23,Male,"Dubai, UAE",Low,Medium Risk
+CUST0001307,20,Female,"Lagos, Nigeria",High,Low Risk
+CUST0001308,24,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0001309,68,Male,"London, UK",High,Medium Risk
+CUST0001310,25,Male,"London, UK",High,Low Risk
+CUST0001311,59,Female,"Toronto, Canada",Low,Medium Risk
+CUST0001312,69,Female,"New York, USA",Low,Low Risk
+CUST0001313,32,Male,"New York, USA",Middle,Low Risk
+CUST0001314,64,Male,"Dubai, UAE",Low,Medium Risk
+CUST0001315,46,Male,"Dubai, UAE",Middle,High Risk
+CUST0001316,50,Female,"Berlin, Germany",High,High Risk
+CUST0001317,69,Female,Singapore,High,Low Risk
+CUST0001318,47,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0001319,56,Male,"Toronto, Canada",High,Low Risk
+CUST0001320,44,Female,Singapore,Low,High Risk
+CUST0001321,53,Male,Singapore,High,Medium Risk
+CUST0001322,46,Male,"Lagos, Nigeria",Low,High Risk
+CUST0001323,55,Male,Singapore,Middle,Low Risk
+CUST0001324,74,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0001325,50,Male,Singapore,High,High Risk
+CUST0001326,54,Female,"Toronto, Canada",High,Medium Risk
+CUST0001327,44,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0001328,72,Male,"New York, USA",Low,Low Risk
+CUST0001329,50,Male,"Lagos, Nigeria",High,Low Risk
+CUST0001330,21,Female,"Lagos, Nigeria",High,Low Risk
+CUST0001331,39,Male,"Toronto, Canada",Middle,Low Risk
+CUST0001332,19,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0001333,27,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001334,22,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0001335,27,Female,"London, UK",High,Medium Risk
+CUST0001336,50,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0001337,71,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0001338,55,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0001339,30,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001340,48,Female,"Berlin, Germany",High,Low Risk
+CUST0001341,64,Female,"Berlin, Germany",High,Low Risk
+CUST0001342,53,Male,"New York, USA",High,Medium Risk
+CUST0001343,62,Male,Singapore,High,Medium Risk
+CUST0001344,41,Male,"Lagos, Nigeria",High,High Risk
+CUST0001345,69,Male,"London, UK",Low,High Risk
+CUST0001346,73,Male,"New York, USA",Low,High Risk
+CUST0001347,32,Male,"Lagos, Nigeria",High,Medium Risk
+CUST0001348,46,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001349,25,Male,"Toronto, Canada",High,Low Risk
+CUST0001350,22,Male,"Berlin, Germany",High,High Risk
+CUST0001351,46,Female,"Dubai, UAE",High,Low Risk
+CUST0001352,64,Male,"London, UK",Middle,Low Risk
+CUST0001353,21,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001354,29,Male,"Dubai, UAE",Middle,Low Risk
+CUST0001355,62,Male,"Berlin, Germany",Low,High Risk
+CUST0001356,19,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001357,44,Female,Singapore,Low,Medium Risk
+CUST0001358,48,Male,Singapore,Low,Medium Risk
+CUST0001359,68,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0001360,68,Female,"Toronto, Canada",Middle,High Risk
+CUST0001361,53,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001362,53,Female,"Lagos, Nigeria",Low,High Risk
+CUST0001363,43,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0001364,60,Female,"Toronto, Canada",Middle,High Risk
+CUST0001365,44,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0001366,22,Male,"Dubai, UAE",Middle,Low Risk
+CUST0001367,37,Male,"Toronto, Canada",Low,High Risk
+CUST0001368,28,Male,"Berlin, Germany",Low,Low Risk
+CUST0001369,27,Male,"London, UK",High,Medium Risk
+CUST0001370,57,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0001371,55,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001372,23,Female,"Berlin, Germany",High,High Risk
+CUST0001373,25,Female,"London, UK",Middle,Medium Risk
+CUST0001374,40,Female,Singapore,Low,Low Risk
+CUST0001375,64,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001376,43,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0001377,63,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0001378,60,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0001379,29,Male,Singapore,Low,High Risk
+CUST0001380,43,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0001381,30,Female,Singapore,Middle,Low Risk
+CUST0001382,57,Male,"New York, USA",High,High Risk
+CUST0001383,35,Male,Singapore,Middle,Low Risk
+CUST0001384,42,Male,"Berlin, Germany",Low,Medium Risk
+CUST0001385,50,Male,"London, UK",Middle,Low Risk
+CUST0001386,64,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0001387,57,Male,Singapore,High,Low Risk
+CUST0001388,60,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0001389,29,Female,"Toronto, Canada",Low,Low Risk
+CUST0001390,61,Female,"Lagos, Nigeria",High,Low Risk
+CUST0001391,53,Male,Singapore,High,Low Risk
+CUST0001392,65,Male,"London, UK",High,Medium Risk
+CUST0001393,21,Female,"Berlin, Germany",Low,Low Risk
+CUST0001394,22,Female,"New York, USA",High,High Risk
+CUST0001395,73,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0001396,54,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0001397,25,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0001398,59,Male,"London, UK",Middle,Low Risk
+CUST0001399,66,Female,"Dubai, UAE",High,High Risk
+CUST0001400,45,Female,"London, UK",Middle,Low Risk
+CUST0001401,48,Female,"London, UK",Middle,High Risk
+CUST0001402,26,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0001403,71,Male,"Berlin, Germany",Middle,Low Risk
+CUST0001404,68,Female,"Berlin, Germany",High,Medium Risk
+CUST0001405,46,Male,Singapore,Middle,Low Risk
+CUST0001406,31,Female,"Toronto, Canada",Middle,High Risk
+CUST0001407,57,Male,"London, UK",Low,Medium Risk
+CUST0001408,58,Male,"Lagos, Nigeria",High,Low Risk
+CUST0001409,39,Male,"Dubai, UAE",Low,High Risk
+CUST0001410,28,Female,"Berlin, Germany",Low,Medium Risk
+CUST0001411,40,Male,Singapore,High,Low Risk
+CUST0001412,18,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0001413,63,Female,"Dubai, UAE",Low,Low Risk
+CUST0001414,54,Female,"Dubai, UAE",High,High Risk
+CUST0001415,38,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0001416,43,Female,"London, UK",High,Medium Risk
+CUST0001417,63,Male,"Berlin, Germany",Low,Medium Risk
+CUST0001418,53,Male,"Dubai, UAE",Middle,Low Risk
+CUST0001419,71,Male,"Toronto, Canada",Middle,High Risk
+CUST0001420,40,Male,"Toronto, Canada",High,Low Risk
+CUST0001421,74,Male,"Berlin, Germany",Middle,High Risk
+CUST0001422,18,Female,Singapore,Low,Medium Risk
+CUST0001423,71,Male,"Dubai, UAE",Low,Low Risk
+CUST0001424,72,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0001425,68,Male,"London, UK",High,High Risk
+CUST0001426,57,Female,"London, UK",Middle,High Risk
+CUST0001427,32,Female,Singapore,Middle,High Risk
+CUST0001428,38,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001429,64,Female,"London, UK",Low,Low Risk
+CUST0001430,26,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0001431,70,Female,"New York, USA",Low,Medium Risk
+CUST0001432,26,Female,"Berlin, Germany",Middle,High Risk
+CUST0001433,27,Female,"London, UK",Low,Low Risk
+CUST0001434,69,Female,"Toronto, Canada",Middle,High Risk
+CUST0001435,74,Female,"Dubai, UAE",High,Low Risk
+CUST0001436,70,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0001437,43,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001438,58,Female,"Lagos, Nigeria",Low,High Risk
+CUST0001439,52,Male,Singapore,Middle,Low Risk
+CUST0001440,69,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0001441,42,Female,"London, UK",High,Low Risk
+CUST0001442,43,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001443,28,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0001444,55,Female,"New York, USA",Low,Low Risk
+CUST0001445,19,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0001446,24,Male,"Toronto, Canada",Low,Low Risk
+CUST0001447,35,Male,Singapore,Low,High Risk
+CUST0001448,44,Male,"Toronto, Canada",High,High Risk
+CUST0001449,51,Male,"New York, USA",High,Low Risk
+CUST0001450,44,Female,"New York, USA",Low,Low Risk
+CUST0001451,34,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001452,60,Male,"Berlin, Germany",Low,Medium Risk
+CUST0001453,61,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0001454,68,Female,"Dubai, UAE",Low,Low Risk
+CUST0001455,71,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0001456,41,Female,"Dubai, UAE",High,Medium Risk
+CUST0001457,42,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0001458,24,Female,"Dubai, UAE",Low,High Risk
+CUST0001459,69,Male,"New York, USA",Middle,High Risk
+CUST0001460,23,Female,"Toronto, Canada",High,Low Risk
+CUST0001461,70,Female,"Dubai, UAE",Middle,Low Risk
+CUST0001462,41,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001463,50,Male,Singapore,High,Medium Risk
+CUST0001464,66,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001465,46,Male,"Berlin, Germany",Middle,Low Risk
+CUST0001466,60,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001467,39,Female,"London, UK",Low,High Risk
+CUST0001468,43,Male,"Lagos, Nigeria",Low,High Risk
+CUST0001469,45,Female,"New York, USA",Low,High Risk
+CUST0001470,67,Male,"Toronto, Canada",High,Medium Risk
+CUST0001471,38,Male,"Toronto, Canada",Low,Medium Risk
+CUST0001472,66,Female,Singapore,High,Low Risk
+CUST0001473,24,Female,"Dubai, UAE",Middle,Low Risk
+CUST0001474,34,Male,"New York, USA",Middle,High Risk
+CUST0001475,37,Male,"London, UK",Low,High Risk
+CUST0001476,58,Male,"New York, USA",Middle,Medium Risk
+CUST0001477,66,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0001478,37,Female,"New York, USA",High,Low Risk
+CUST0001479,71,Female,"New York, USA",Middle,Low Risk
+CUST0001480,39,Female,Singapore,Low,Low Risk
+CUST0001481,45,Male,"London, UK",Middle,Medium Risk
+CUST0001482,57,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001483,66,Male,"Berlin, Germany",Low,Low Risk
+CUST0001484,24,Male,Singapore,Middle,Low Risk
+CUST0001485,18,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0001486,49,Male,Singapore,Middle,Low Risk
+CUST0001487,30,Female,"Toronto, Canada",Middle,High Risk
+CUST0001488,47,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0001489,40,Male,Singapore,Middle,Low Risk
+CUST0001490,68,Male,"Dubai, UAE",Middle,Low Risk
+CUST0001491,73,Female,"New York, USA",Low,Medium Risk
+CUST0001492,36,Female,"Toronto, Canada",High,Medium Risk
+CUST0001493,49,Female,"London, UK",Low,Low Risk
+CUST0001494,47,Female,"Berlin, Germany",Low,High Risk
+CUST0001495,46,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001496,66,Male,"Johannesburg, South Africa",High,High Risk
+CUST0001497,62,Male,Singapore,Low,Low Risk
+CUST0001498,46,Male,"New York, USA",Low,High Risk
+CUST0001499,47,Male,"London, UK",Low,Low Risk
+CUST0001500,33,Female,"Dubai, UAE",Middle,Low Risk
+CUST0001501,57,Male,"London, UK",Low,Low Risk
+CUST0001502,36,Female,"New York, USA",High,Low Risk
+CUST0001503,35,Male,"Dubai, UAE",High,High Risk
+CUST0001504,18,Male,"London, UK",Middle,Low Risk
+CUST0001505,31,Male,"Dubai, UAE",High,Low Risk
+CUST0001506,68,Male,Singapore,High,High Risk
+CUST0001507,64,Male,Singapore,Middle,Medium Risk
+CUST0001508,67,Female,"New York, USA",Low,High Risk
+CUST0001509,19,Female,"New York, USA",Middle,High Risk
+CUST0001510,71,Female,"Dubai, UAE",Low,High Risk
+CUST0001511,45,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0001512,66,Male,"Toronto, Canada",High,Low Risk
+CUST0001513,67,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001514,47,Male,"London, UK",High,Medium Risk
+CUST0001515,55,Male,"London, UK",High,Low Risk
+CUST0001516,68,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0001517,21,Male,"Lagos, Nigeria",High,Low Risk
+CUST0001518,18,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0001519,25,Male,"Berlin, Germany",High,Low Risk
+CUST0001520,46,Female,"Berlin, Germany",High,Medium Risk
+CUST0001521,72,Male,"Dubai, UAE",Low,Medium Risk
+CUST0001522,56,Male,"Berlin, Germany",Middle,Low Risk
+CUST0001523,20,Female,Singapore,High,High Risk
+CUST0001524,49,Male,Singapore,Low,Low Risk
+CUST0001525,27,Male,"New York, USA",High,Low Risk
+CUST0001526,27,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001527,36,Male,"Dubai, UAE",High,High Risk
+CUST0001528,63,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0001529,51,Male,"London, UK",Low,High Risk
+CUST0001530,50,Male,"Toronto, Canada",High,Medium Risk
+CUST0001531,40,Male,"New York, USA",Low,Medium Risk
+CUST0001532,72,Male,"London, UK",Middle,Medium Risk
+CUST0001533,45,Female,"London, UK",High,High Risk
+CUST0001534,49,Male,"Dubai, UAE",Middle,Low Risk
+CUST0001535,67,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0001536,24,Male,"Lagos, Nigeria",High,Low Risk
+CUST0001537,46,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0001538,25,Male,"New York, USA",Middle,Low Risk
+CUST0001539,18,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001540,74,Female,"London, UK",High,High Risk
+CUST0001541,72,Female,"Lagos, Nigeria",High,High Risk
+CUST0001542,20,Female,"Berlin, Germany",High,High Risk
+CUST0001543,41,Female,"Lagos, Nigeria",High,High Risk
+CUST0001544,40,Male,"London, UK",High,High Risk
+CUST0001545,25,Female,"Johannesburg, South Africa",High,High Risk
+CUST0001546,71,Female,"Dubai, UAE",Low,Low Risk
+CUST0001547,74,Male,"New York, USA",Middle,Medium Risk
+CUST0001548,64,Male,"Toronto, Canada",Low,High Risk
+CUST0001549,54,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0001550,20,Male,Singapore,High,High Risk
+CUST0001551,68,Female,Singapore,Middle,High Risk
+CUST0001552,50,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0001553,45,Male,"London, UK",High,Medium Risk
+CUST0001554,64,Male,"Toronto, Canada",High,Low Risk
+CUST0001555,25,Male,"Toronto, Canada",Middle,Low Risk
+CUST0001556,51,Female,"Berlin, Germany",Low,Medium Risk
+CUST0001557,52,Female,"Toronto, Canada",Low,Low Risk
+CUST0001558,49,Male,Singapore,Low,High Risk
+CUST0001559,41,Male,"Dubai, UAE",High,High Risk
+CUST0001560,31,Female,"London, UK",Middle,High Risk
+CUST0001561,49,Male,"London, UK",Middle,High Risk
+CUST0001562,73,Male,"Lagos, Nigeria",Low,High Risk
+CUST0001563,63,Female,"Lagos, Nigeria",High,Low Risk
+CUST0001564,60,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0001565,33,Female,Singapore,Middle,High Risk
+CUST0001566,21,Male,Singapore,High,High Risk
+CUST0001567,69,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0001568,54,Female,Singapore,Low,Medium Risk
+CUST0001569,71,Female,Singapore,High,Low Risk
+CUST0001570,38,Male,Singapore,Middle,Low Risk
+CUST0001571,31,Female,Singapore,High,Low Risk
+CUST0001572,48,Male,"Dubai, UAE",Low,Low Risk
+CUST0001573,72,Male,Singapore,Low,Low Risk
+CUST0001574,65,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001575,35,Male,"Toronto, Canada",Low,High Risk
+CUST0001576,24,Male,"Toronto, Canada",Middle,High Risk
+CUST0001577,27,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0001578,24,Female,"Dubai, UAE",Low,High Risk
+CUST0001579,50,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001580,40,Female,"New York, USA",Middle,High Risk
+CUST0001581,38,Female,Singapore,Middle,Medium Risk
+CUST0001582,36,Female,"Berlin, Germany",Low,Medium Risk
+CUST0001583,65,Female,"New York, USA",High,High Risk
+CUST0001584,36,Male,"Johannesburg, South Africa",High,High Risk
+CUST0001585,53,Male,"Toronto, Canada",High,High Risk
+CUST0001586,46,Male,"Berlin, Germany",Low,Low Risk
+CUST0001587,35,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001588,19,Female,"Berlin, Germany",Middle,Low Risk
+CUST0001589,18,Female,"London, UK",Low,Medium Risk
+CUST0001590,64,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0001591,22,Female,"Toronto, Canada",High,Medium Risk
+CUST0001592,37,Female,"Toronto, Canada",High,Medium Risk
+CUST0001593,28,Female,"Dubai, UAE",Low,Medium Risk
+CUST0001594,59,Male,"Berlin, Germany",High,High Risk
+CUST0001595,19,Male,Singapore,Middle,Low Risk
+CUST0001596,20,Female,"Toronto, Canada",Low,High Risk
+CUST0001597,40,Female,"Berlin, Germany",Low,High Risk
+CUST0001598,72,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0001599,29,Male,Singapore,Middle,Medium Risk
+CUST0001600,37,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001601,22,Female,"Dubai, UAE",High,Low Risk
+CUST0001602,54,Female,"London, UK",Low,Low Risk
+CUST0001603,55,Male,Singapore,High,Low Risk
+CUST0001604,47,Male,"Berlin, Germany",Middle,High Risk
+CUST0001605,26,Male,"Toronto, Canada",High,Medium Risk
+CUST0001606,51,Male,"Toronto, Canada",Middle,High Risk
+CUST0001607,70,Female,"Berlin, Germany",High,Low Risk
+CUST0001608,61,Male,"Berlin, Germany",High,Medium Risk
+CUST0001609,52,Male,"Berlin, Germany",Middle,Low Risk
+CUST0001610,69,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0001611,39,Male,Singapore,Low,Medium Risk
+CUST0001612,61,Male,"Toronto, Canada",High,High Risk
+CUST0001613,41,Male,Singapore,High,High Risk
+CUST0001614,34,Female,"Dubai, UAE",Low,Low Risk
+CUST0001615,27,Male,"Toronto, Canada",Middle,High Risk
+CUST0001616,47,Female,"Lagos, Nigeria",Low,High Risk
+CUST0001617,73,Female,"Berlin, Germany",High,High Risk
+CUST0001618,63,Male,"London, UK",Middle,Medium Risk
+CUST0001619,40,Male,"Berlin, Germany",High,High Risk
+CUST0001620,49,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0001621,34,Male,"Berlin, Germany",Low,Medium Risk
+CUST0001622,67,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0001623,68,Male,Singapore,Middle,High Risk
+CUST0001624,34,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0001625,31,Male,"Berlin, Germany",Middle,Low Risk
+CUST0001626,26,Female,"Toronto, Canada",High,Low Risk
+CUST0001627,57,Male,"New York, USA",Low,Medium Risk
+CUST0001628,19,Male,"Dubai, UAE",Low,High Risk
+CUST0001629,62,Female,Singapore,Low,High Risk
+CUST0001630,42,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0001631,56,Male,"London, UK",Low,Low Risk
+CUST0001632,26,Male,"Dubai, UAE",Low,Medium Risk
+CUST0001633,71,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0001634,39,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0001635,60,Male,"London, UK",Low,Medium Risk
+CUST0001636,63,Female,"Berlin, Germany",Middle,Low Risk
+CUST0001637,21,Female,"Dubai, UAE",Low,Medium Risk
+CUST0001638,43,Male,"Toronto, Canada",Low,Low Risk
+CUST0001639,46,Male,"Dubai, UAE",Low,Low Risk
+CUST0001640,62,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0001641,51,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001642,40,Male,Singapore,Low,Low Risk
+CUST0001643,54,Male,"London, UK",High,Low Risk
+CUST0001644,28,Male,"Berlin, Germany",Middle,Low Risk
+CUST0001645,23,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0001646,35,Female,"Dubai, UAE",Low,High Risk
+CUST0001647,38,Male,"Dubai, UAE",High,Medium Risk
+CUST0001648,59,Male,"Berlin, Germany",Low,Low Risk
+CUST0001649,53,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0001650,58,Female,"Dubai, UAE",Middle,Low Risk
+CUST0001651,55,Female,"Toronto, Canada",Low,Medium Risk
+CUST0001652,51,Female,"Toronto, Canada",Low,Medium Risk
+CUST0001653,34,Female,Singapore,High,Low Risk
+CUST0001654,54,Male,"Toronto, Canada",High,Low Risk
+CUST0001655,42,Female,"New York, USA",Middle,Medium Risk
+CUST0001656,55,Male,Singapore,High,Medium Risk
+CUST0001657,29,Male,"Lagos, Nigeria",High,Medium Risk
+CUST0001658,40,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0001659,70,Female,"Dubai, UAE",Middle,Low Risk
+CUST0001660,59,Female,"Dubai, UAE",Middle,High Risk
+CUST0001661,39,Female,"Toronto, Canada",Middle,High Risk
+CUST0001662,38,Female,Singapore,Low,Low Risk
+CUST0001663,44,Male,Singapore,Middle,Low Risk
+CUST0001664,74,Female,"New York, USA",Middle,High Risk
+CUST0001665,48,Female,"Toronto, Canada",Middle,Low Risk
+CUST0001666,23,Female,"New York, USA",High,Medium Risk
+CUST0001667,44,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001668,57,Female,"Toronto, Canada",Low,High Risk
+CUST0001669,51,Male,"London, UK",Low,High Risk
+CUST0001670,29,Female,"London, UK",Middle,Low Risk
+CUST0001671,62,Female,"Berlin, Germany",Low,Low Risk
+CUST0001672,74,Male,"Toronto, Canada",High,High Risk
+CUST0001673,70,Female,Singapore,Middle,High Risk
+CUST0001674,24,Male,"Dubai, UAE",Low,Medium Risk
+CUST0001675,27,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0001676,62,Male,"Berlin, Germany",Middle,Low Risk
+CUST0001677,34,Female,"Dubai, UAE",Low,Medium Risk
+CUST0001678,43,Female,"London, UK",Middle,Low Risk
+CUST0001679,38,Female,"Toronto, Canada",Low,Low Risk
+CUST0001680,45,Male,"Berlin, Germany",High,Low Risk
+CUST0001681,63,Female,"Toronto, Canada",Low,Medium Risk
+CUST0001682,19,Male,"London, UK",Low,High Risk
+CUST0001683,71,Female,"Berlin, Germany",Middle,High Risk
+CUST0001684,60,Male,"London, UK",Low,Medium Risk
+CUST0001685,18,Male,"New York, USA",Middle,High Risk
+CUST0001686,68,Male,"London, UK",High,Low Risk
+CUST0001687,70,Female,Singapore,Middle,High Risk
+CUST0001688,53,Male,Singapore,Middle,Medium Risk
+CUST0001689,68,Male,"Toronto, Canada",Low,High Risk
+CUST0001690,43,Male,"Lagos, Nigeria",High,Low Risk
+CUST0001691,46,Male,"London, UK",Middle,Low Risk
+CUST0001692,38,Male,"Dubai, UAE",Low,Medium Risk
+CUST0001693,28,Male,Singapore,Low,Medium Risk
+CUST0001694,57,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001695,28,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0001696,53,Male,"New York, USA",Middle,High Risk
+CUST0001697,66,Female,"Berlin, Germany",Middle,High Risk
+CUST0001698,56,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0001699,57,Male,Singapore,High,High Risk
+CUST0001700,52,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001701,71,Male,Singapore,Low,Medium Risk
+CUST0001702,51,Female,"Berlin, Germany",High,Medium Risk
+CUST0001703,72,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0001704,64,Female,"London, UK",High,Low Risk
+CUST0001705,41,Male,"Lagos, Nigeria",High,Low Risk
+CUST0001706,71,Female,"Toronto, Canada",High,Low Risk
+CUST0001707,39,Male,"London, UK",High,High Risk
+CUST0001708,22,Male,"London, UK",Low,High Risk
+CUST0001709,73,Female,"London, UK",Middle,Low Risk
+CUST0001710,50,Female,"Toronto, Canada",Low,Low Risk
+CUST0001711,53,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001712,64,Female,"New York, USA",Low,High Risk
+CUST0001713,37,Female,"Johannesburg, South Africa",High,High Risk
+CUST0001714,36,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0001715,52,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0001716,69,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0001717,60,Male,Singapore,Low,Medium Risk
+CUST0001718,34,Male,"Berlin, Germany",Middle,High Risk
+CUST0001719,62,Female,Singapore,Low,Low Risk
+CUST0001720,60,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001721,51,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001722,26,Female,"New York, USA",Middle,Low Risk
+CUST0001723,43,Male,"Lagos, Nigeria",High,High Risk
+CUST0001724,19,Male,Singapore,High,Low Risk
+CUST0001725,70,Female,"Berlin, Germany",Low,Low Risk
+CUST0001726,26,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0001727,26,Male,Singapore,Low,Low Risk
+CUST0001728,57,Male,"London, UK",Middle,High Risk
+CUST0001729,34,Male,Singapore,High,Low Risk
+CUST0001730,18,Male,"London, UK",High,Low Risk
+CUST0001731,42,Female,"Toronto, Canada",Middle,High Risk
+CUST0001732,60,Female,Singapore,Middle,Medium Risk
+CUST0001733,57,Female,"New York, USA",High,Medium Risk
+CUST0001734,59,Female,"New York, USA",High,High Risk
+CUST0001735,42,Male,"Lagos, Nigeria",Low,High Risk
+CUST0001736,56,Male,"Toronto, Canada",High,Medium Risk
+CUST0001737,52,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001738,20,Female,"New York, USA",Low,High Risk
+CUST0001739,67,Female,Singapore,Middle,Low Risk
+CUST0001740,54,Female,"Toronto, Canada",Low,High Risk
+CUST0001741,61,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0001742,61,Female,"London, UK",High,Low Risk
+CUST0001743,68,Female,Singapore,Middle,Low Risk
+CUST0001744,47,Female,"London, UK",Low,High Risk
+CUST0001745,55,Female,"London, UK",Middle,Low Risk
+CUST0001746,51,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0001747,29,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0001748,36,Male,"Toronto, Canada",High,Low Risk
+CUST0001749,54,Male,"Lagos, Nigeria",High,High Risk
+CUST0001750,61,Female,"London, UK",Middle,Low Risk
+CUST0001751,66,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0001752,34,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0001753,27,Male,"London, UK",Low,High Risk
+CUST0001754,74,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001755,72,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0001756,66,Female,"Berlin, Germany",Low,Medium Risk
+CUST0001757,64,Female,"Lagos, Nigeria",High,High Risk
+CUST0001758,29,Female,"Toronto, Canada",Middle,High Risk
+CUST0001759,33,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001760,41,Male,"London, UK",High,Medium Risk
+CUST0001761,36,Female,"Lagos, Nigeria",High,Low Risk
+CUST0001762,25,Male,"New York, USA",Low,High Risk
+CUST0001763,48,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0001764,38,Male,"London, UK",Middle,High Risk
+CUST0001765,34,Male,"New York, USA",Low,High Risk
+CUST0001766,40,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0001767,54,Male,"London, UK",Low,Low Risk
+CUST0001768,71,Male,"Toronto, Canada",High,Low Risk
+CUST0001769,33,Female,"Dubai, UAE",Low,Medium Risk
+CUST0001770,23,Male,"Dubai, UAE",High,High Risk
+CUST0001771,25,Male,"Toronto, Canada",Low,Medium Risk
+CUST0001772,42,Male,"Dubai, UAE",High,Medium Risk
+CUST0001773,35,Male,"Toronto, Canada",High,Low Risk
+CUST0001774,42,Male,"New York, USA",High,High Risk
+CUST0001775,29,Male,"Johannesburg, South Africa",High,High Risk
+CUST0001776,32,Male,"Berlin, Germany",High,Low Risk
+CUST0001777,43,Male,"London, UK",Middle,High Risk
+CUST0001778,58,Female,"Toronto, Canada",High,Low Risk
+CUST0001779,62,Male,"London, UK",Middle,Medium Risk
+CUST0001780,43,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0001781,64,Male,"New York, USA",Middle,Low Risk
+CUST0001782,49,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0001783,27,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001784,33,Female,"New York, USA",High,Low Risk
+CUST0001785,24,Female,"Dubai, UAE",Low,Medium Risk
+CUST0001786,34,Female,"London, UK",Low,High Risk
+CUST0001787,40,Female,Singapore,High,Medium Risk
+CUST0001788,43,Female,"Berlin, Germany",Low,Low Risk
+CUST0001789,38,Female,"Dubai, UAE",High,High Risk
+CUST0001790,39,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0001791,24,Female,"Berlin, Germany",High,Medium Risk
+CUST0001792,31,Female,"Dubai, UAE",High,High Risk
+CUST0001793,32,Female,"New York, USA",High,Low Risk
+CUST0001794,70,Female,"Toronto, Canada",Middle,High Risk
+CUST0001795,24,Female,"London, UK",Low,Medium Risk
+CUST0001796,26,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001797,68,Female,"Lagos, Nigeria",Low,High Risk
+CUST0001798,65,Female,"New York, USA",Low,Low Risk
+CUST0001799,25,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0001800,67,Female,"London, UK",Middle,Medium Risk
+CUST0001801,40,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001802,46,Female,"London, UK",Middle,Low Risk
+CUST0001803,35,Female,"New York, USA",High,High Risk
+CUST0001804,48,Male,"London, UK",Low,High Risk
+CUST0001805,47,Female,"Toronto, Canada",Low,High Risk
+CUST0001806,69,Male,"Johannesburg, South Africa",High,High Risk
+CUST0001807,56,Male,"New York, USA",High,Low Risk
+CUST0001808,52,Male,"Toronto, Canada",Low,Medium Risk
+CUST0001809,35,Female,"London, UK",High,Medium Risk
+CUST0001810,59,Female,"New York, USA",Middle,High Risk
+CUST0001811,56,Female,"London, UK",Middle,Low Risk
+CUST0001812,34,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0001813,31,Male,"New York, USA",Middle,High Risk
+CUST0001814,48,Female,"London, UK",Middle,High Risk
+CUST0001815,41,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0001816,52,Female,"Toronto, Canada",High,Medium Risk
+CUST0001817,61,Female,Singapore,Low,High Risk
+CUST0001818,62,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0001819,51,Male,"London, UK",Low,Low Risk
+CUST0001820,20,Male,"New York, USA",Low,Low Risk
+CUST0001821,54,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001822,60,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0001823,57,Male,"Toronto, Canada",Low,Medium Risk
+CUST0001824,43,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001825,72,Male,"Dubai, UAE",Middle,High Risk
+CUST0001826,40,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0001827,61,Male,"London, UK",Middle,High Risk
+CUST0001828,56,Female,Singapore,Middle,Medium Risk
+CUST0001829,32,Male,"New York, USA",Middle,High Risk
+CUST0001830,73,Female,"Dubai, UAE",High,High Risk
+CUST0001831,66,Female,"London, UK",Low,Low Risk
+CUST0001832,21,Female,"Berlin, Germany",Middle,High Risk
+CUST0001833,46,Female,Singapore,Low,Low Risk
+CUST0001834,39,Female,"Toronto, Canada",High,Medium Risk
+CUST0001835,42,Male,"Berlin, Germany",Middle,High Risk
+CUST0001836,30,Male,"Toronto, Canada",Low,Medium Risk
+CUST0001837,35,Female,"Toronto, Canada",Middle,Low Risk
+CUST0001838,50,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0001839,33,Female,Singapore,Middle,Medium Risk
+CUST0001840,62,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001841,59,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0001842,61,Male,"London, UK",Middle,Medium Risk
+CUST0001843,19,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0001844,72,Male,"Dubai, UAE",High,High Risk
+CUST0001845,52,Female,"Berlin, Germany",High,Medium Risk
+CUST0001846,59,Male,"London, UK",Middle,Low Risk
+CUST0001847,51,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0001848,47,Male,"Dubai, UAE",High,High Risk
+CUST0001849,72,Male,"London, UK",High,Low Risk
+CUST0001850,30,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0001851,30,Male,"London, UK",Middle,High Risk
+CUST0001852,35,Male,"Toronto, Canada",Low,High Risk
+CUST0001853,49,Male,"Dubai, UAE",Low,High Risk
+CUST0001854,49,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001855,52,Female,"Dubai, UAE",Low,High Risk
+CUST0001856,56,Female,"Toronto, Canada",Middle,Low Risk
+CUST0001857,63,Female,"Berlin, Germany",Low,Medium Risk
+CUST0001858,69,Female,"Toronto, Canada",High,Low Risk
+CUST0001859,46,Female,"Dubai, UAE",High,Low Risk
+CUST0001860,66,Male,"Dubai, UAE",Low,High Risk
+CUST0001861,46,Male,Singapore,High,High Risk
+CUST0001862,70,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0001863,61,Male,"Berlin, Germany",Low,Low Risk
+CUST0001864,74,Male,"Toronto, Canada",Low,Medium Risk
+CUST0001865,33,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0001866,73,Female,"New York, USA",High,High Risk
+CUST0001867,61,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001868,64,Female,"New York, USA",Middle,Medium Risk
+CUST0001869,74,Male,"Berlin, Germany",High,Low Risk
+CUST0001870,27,Male,"Toronto, Canada",Middle,High Risk
+CUST0001871,47,Male,"Toronto, Canada",High,Low Risk
+CUST0001872,42,Female,"London, UK",High,High Risk
+CUST0001873,56,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0001874,37,Female,"Lagos, Nigeria",High,Low Risk
+CUST0001875,22,Male,Singapore,Middle,High Risk
+CUST0001876,18,Male,"Johannesburg, South Africa",High,High Risk
+CUST0001877,47,Female,"Berlin, Germany",Low,High Risk
+CUST0001878,66,Male,"Lagos, Nigeria",High,High Risk
+CUST0001879,20,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0001880,62,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0001881,31,Male,"Berlin, Germany",High,Low Risk
+CUST0001882,73,Female,"Toronto, Canada",Low,High Risk
+CUST0001883,47,Male,"Berlin, Germany",Low,Low Risk
+CUST0001884,67,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0001885,21,Male,"Lagos, Nigeria",High,High Risk
+CUST0001886,35,Male,"Dubai, UAE",Low,High Risk
+CUST0001887,54,Male,Singapore,Middle,High Risk
+CUST0001888,42,Male,Singapore,Low,High Risk
+CUST0001889,65,Male,"Dubai, UAE",Low,Medium Risk
+CUST0001890,18,Male,"Dubai, UAE",High,High Risk
+CUST0001891,70,Female,"Toronto, Canada",High,High Risk
+CUST0001892,63,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0001893,32,Male,"New York, USA",Middle,Low Risk
+CUST0001894,26,Male,"Berlin, Germany",Low,High Risk
+CUST0001895,32,Female,Singapore,Low,Low Risk
+CUST0001896,66,Male,"Dubai, UAE",Middle,Low Risk
+CUST0001897,74,Male,"Berlin, Germany",Low,Low Risk
+CUST0001898,41,Female,Singapore,Low,Low Risk
+CUST0001899,21,Male,"Dubai, UAE",High,Medium Risk
+CUST0001900,29,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0001901,54,Female,Singapore,High,Low Risk
+CUST0001902,54,Male,"Toronto, Canada",High,High Risk
+CUST0001903,60,Male,"New York, USA",Middle,Low Risk
+CUST0001904,23,Female,"New York, USA",Middle,Medium Risk
+CUST0001905,56,Male,"Dubai, UAE",Low,Low Risk
+CUST0001906,73,Female,Singapore,High,High Risk
+CUST0001907,63,Male,"Toronto, Canada",Middle,High Risk
+CUST0001908,41,Male,"London, UK",High,Medium Risk
+CUST0001909,28,Female,"Berlin, Germany",High,High Risk
+CUST0001910,30,Female,"Berlin, Germany",Middle,High Risk
+CUST0001911,51,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0001912,42,Female,"Toronto, Canada",High,High Risk
+CUST0001913,24,Female,Singapore,Middle,Low Risk
+CUST0001914,69,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001915,21,Male,"Johannesburg, South Africa",High,High Risk
+CUST0001916,25,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0001917,37,Female,"Dubai, UAE",High,High Risk
+CUST0001918,46,Female,Singapore,Middle,Low Risk
+CUST0001919,71,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0001920,70,Female,"New York, USA",High,Low Risk
+CUST0001921,68,Male,"Berlin, Germany",High,High Risk
+CUST0001922,62,Female,Singapore,Middle,Low Risk
+CUST0001923,63,Male,"Lagos, Nigeria",Low,High Risk
+CUST0001924,27,Female,"New York, USA",High,Medium Risk
+CUST0001925,60,Male,"Toronto, Canada",Middle,Low Risk
+CUST0001926,51,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001927,74,Male,"Dubai, UAE",Low,High Risk
+CUST0001928,43,Female,"Dubai, UAE",Low,High Risk
+CUST0001929,58,Male,"Dubai, UAE",Low,Low Risk
+CUST0001930,66,Male,Singapore,High,Low Risk
+CUST0001931,20,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0001932,73,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001933,23,Female,"Berlin, Germany",Middle,High Risk
+CUST0001934,22,Female,"Lagos, Nigeria",Low,High Risk
+CUST0001935,22,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0001936,71,Male,"Lagos, Nigeria",High,Medium Risk
+CUST0001937,64,Female,"Berlin, Germany",Low,Low Risk
+CUST0001938,40,Male,"New York, USA",Low,Low Risk
+CUST0001939,66,Female,"Berlin, Germany",Low,Low Risk
+CUST0001940,26,Female,"Dubai, UAE",Low,Low Risk
+CUST0001941,52,Female,Singapore,High,Low Risk
+CUST0001942,37,Male,"New York, USA",Middle,Low Risk
+CUST0001943,66,Female,Singapore,High,Medium Risk
+CUST0001944,59,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0001945,52,Male,"London, UK",High,Medium Risk
+CUST0001946,67,Male,"Berlin, Germany",Low,High Risk
+CUST0001947,35,Male,"Berlin, Germany",Low,High Risk
+CUST0001948,34,Female,"Toronto, Canada",High,Low Risk
+CUST0001949,41,Male,"Lagos, Nigeria",High,Medium Risk
+CUST0001950,20,Female,"New York, USA",Middle,High Risk
+CUST0001951,49,Female,"Johannesburg, South Africa",High,High Risk
+CUST0001952,52,Male,Singapore,High,Medium Risk
+CUST0001953,55,Female,"New York, USA",Middle,High Risk
+CUST0001954,30,Female,"Toronto, Canada",Middle,High Risk
+CUST0001955,73,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0001956,64,Female,Singapore,High,High Risk
+CUST0001957,42,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0001958,26,Female,"Lagos, Nigeria",Low,High Risk
+CUST0001959,21,Female,Singapore,Low,Medium Risk
+CUST0001960,31,Male,Singapore,Low,High Risk
+CUST0001961,54,Female,"Dubai, UAE",High,High Risk
+CUST0001962,51,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0001963,28,Female,"Lagos, Nigeria",High,High Risk
+CUST0001964,58,Female,"Berlin, Germany",High,Medium Risk
+CUST0001965,73,Male,"Dubai, UAE",Low,Medium Risk
+CUST0001966,20,Female,"London, UK",Middle,High Risk
+CUST0001967,45,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0001968,46,Female,"Lagos, Nigeria",Low,High Risk
+CUST0001969,26,Male,"Toronto, Canada",High,Low Risk
+CUST0001970,20,Male,"Dubai, UAE",Middle,Low Risk
+CUST0001971,42,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0001972,51,Male,"New York, USA",Low,Low Risk
+CUST0001973,29,Male,Singapore,High,Medium Risk
+CUST0001974,59,Female,"London, UK",High,Medium Risk
+CUST0001975,26,Female,"Berlin, Germany",High,Low Risk
+CUST0001976,32,Female,Singapore,High,Medium Risk
+CUST0001977,57,Male,"New York, USA",Low,High Risk
+CUST0001978,42,Female,"New York, USA",Middle,Medium Risk
+CUST0001979,22,Male,"London, UK",Low,Low Risk
+CUST0001980,28,Male,"Berlin, Germany",High,High Risk
+CUST0001981,51,Female,"Toronto, Canada",High,Medium Risk
+CUST0001982,41,Female,"Dubai, UAE",Middle,High Risk
+CUST0001983,32,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0001984,55,Male,"Berlin, Germany",Low,Medium Risk
+CUST0001985,25,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0001986,22,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0001987,65,Female,"New York, USA",Low,Medium Risk
+CUST0001988,43,Female,"Lagos, Nigeria",Low,High Risk
+CUST0001989,35,Male,"Toronto, Canada",Low,High Risk
+CUST0001990,23,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0001991,54,Female,"Berlin, Germany",High,Low Risk
+CUST0001992,65,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0001993,30,Male,"Toronto, Canada",Middle,Low Risk
+CUST0001994,45,Male,"Toronto, Canada",Middle,Low Risk
+CUST0001995,22,Male,"Toronto, Canada",Low,Low Risk
+CUST0001996,30,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0001997,34,Female,"Toronto, Canada",Low,Low Risk
+CUST0001998,67,Male,"New York, USA",Middle,High Risk
+CUST0001999,57,Female,Singapore,Middle,Medium Risk
+CUST0002000,62,Female,"Toronto, Canada",Low,High Risk
+CUST0002001,49,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0002002,46,Female,"Dubai, UAE",High,Low Risk
+CUST0002003,68,Male,"Lagos, Nigeria",Low,High Risk
+CUST0002004,20,Male,"Dubai, UAE",Low,High Risk
+CUST0002005,73,Male,"Lagos, Nigeria",High,High Risk
+CUST0002006,57,Female,"Berlin, Germany",Low,Medium Risk
+CUST0002007,51,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0002008,57,Female,"Berlin, Germany",High,High Risk
+CUST0002009,44,Female,"Berlin, Germany",Low,Low Risk
+CUST0002010,30,Female,"Toronto, Canada",Low,High Risk
+CUST0002011,62,Male,"New York, USA",High,Low Risk
+CUST0002012,50,Female,"Dubai, UAE",High,Medium Risk
+CUST0002013,23,Male,"Toronto, Canada",Middle,Low Risk
+CUST0002014,41,Female,"Toronto, Canada",Low,High Risk
+CUST0002015,36,Female,Singapore,Middle,Low Risk
+CUST0002016,33,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0002017,57,Male,"Berlin, Germany",High,Medium Risk
+CUST0002018,45,Female,"Dubai, UAE",Low,Low Risk
+CUST0002019,50,Female,"Lagos, Nigeria",Low,High Risk
+CUST0002020,65,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0002021,58,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002022,30,Male,"Toronto, Canada",High,Low Risk
+CUST0002023,60,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0002024,62,Male,"London, UK",High,Medium Risk
+CUST0002025,42,Female,"London, UK",Low,High Risk
+CUST0002026,70,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0002027,59,Male,"Lagos, Nigeria",Low,High Risk
+CUST0002028,53,Female,"London, UK",Middle,Low Risk
+CUST0002029,44,Male,Singapore,Middle,Medium Risk
+CUST0002030,55,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0002031,24,Male,"Berlin, Germany",Low,Medium Risk
+CUST0002032,22,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0002033,60,Male,"New York, USA",High,Medium Risk
+CUST0002034,62,Female,"Toronto, Canada",Low,High Risk
+CUST0002035,74,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002036,68,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0002037,48,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0002038,40,Male,Singapore,Low,Low Risk
+CUST0002039,59,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0002040,27,Female,"Toronto, Canada",High,Low Risk
+CUST0002041,49,Male,Singapore,Middle,Medium Risk
+CUST0002042,60,Female,Singapore,Low,High Risk
+CUST0002043,70,Male,Singapore,High,High Risk
+CUST0002044,47,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0002045,56,Female,"Lagos, Nigeria",High,Low Risk
+CUST0002046,48,Female,"London, UK",Low,Medium Risk
+CUST0002047,35,Female,"London, UK",High,Low Risk
+CUST0002048,53,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0002049,19,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0002050,31,Female,"Dubai, UAE",Low,Medium Risk
+CUST0002051,30,Male,"London, UK",Middle,High Risk
+CUST0002052,46,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002053,29,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0002054,56,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0002055,19,Male,"Dubai, UAE",High,Medium Risk
+CUST0002056,49,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0002057,30,Female,"Toronto, Canada",Low,Low Risk
+CUST0002058,63,Male,"Dubai, UAE",High,Medium Risk
+CUST0002059,44,Female,"New York, USA",High,Medium Risk
+CUST0002060,66,Male,"London, UK",Middle,High Risk
+CUST0002061,58,Male,"Toronto, Canada",Middle,High Risk
+CUST0002062,34,Male,"New York, USA",Low,Medium Risk
+CUST0002063,57,Female,"Lagos, Nigeria",High,Low Risk
+CUST0002064,48,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0002065,51,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0002066,41,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0002067,62,Male,"Toronto, Canada",Low,Medium Risk
+CUST0002068,52,Female,"Dubai, UAE",Low,Low Risk
+CUST0002069,65,Female,Singapore,Low,Low Risk
+CUST0002070,23,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0002071,36,Male,Singapore,Low,High Risk
+CUST0002072,47,Male,"Lagos, Nigeria",High,Medium Risk
+CUST0002073,24,Male,Singapore,Low,High Risk
+CUST0002074,27,Female,"Berlin, Germany",High,Medium Risk
+CUST0002075,58,Female,"Toronto, Canada",Low,High Risk
+CUST0002076,49,Female,"New York, USA",Middle,Medium Risk
+CUST0002077,51,Male,"Toronto, Canada",Middle,Low Risk
+CUST0002078,45,Male,"London, UK",Low,Low Risk
+CUST0002079,32,Female,"Dubai, UAE",Middle,Low Risk
+CUST0002080,47,Male,"Dubai, UAE",High,High Risk
+CUST0002081,54,Female,"Toronto, Canada",Low,Low Risk
+CUST0002082,46,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0002083,39,Female,"Lagos, Nigeria",Low,High Risk
+CUST0002084,21,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0002085,37,Female,"Berlin, Germany",High,High Risk
+CUST0002086,49,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0002087,53,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0002088,67,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0002089,21,Female,"Johannesburg, South Africa",High,High Risk
+CUST0002090,44,Female,"New York, USA",Middle,Low Risk
+CUST0002091,34,Female,"Berlin, Germany",Low,Low Risk
+CUST0002092,29,Female,"New York, USA",Low,Medium Risk
+CUST0002093,39,Male,"Berlin, Germany",Low,Medium Risk
+CUST0002094,34,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0002095,27,Female,"Dubai, UAE",Low,High Risk
+CUST0002096,71,Female,"New York, USA",High,High Risk
+CUST0002097,18,Female,"Toronto, Canada",High,Low Risk
+CUST0002098,39,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0002099,43,Male,"Toronto, Canada",High,Low Risk
+CUST0002100,73,Male,"Lagos, Nigeria",Low,High Risk
+CUST0002101,35,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0002102,67,Female,"New York, USA",Low,High Risk
+CUST0002103,31,Male,Singapore,Middle,Low Risk
+CUST0002104,64,Female,"Dubai, UAE",Middle,High Risk
+CUST0002105,46,Male,"London, UK",Low,Medium Risk
+CUST0002106,29,Female,"Lagos, Nigeria",High,Low Risk
+CUST0002107,53,Male,"Toronto, Canada",High,High Risk
+CUST0002108,52,Female,"Dubai, UAE",Middle,Low Risk
+CUST0002109,69,Male,"New York, USA",Low,Low Risk
+CUST0002110,29,Male,Singapore,Low,High Risk
+CUST0002111,24,Male,"Berlin, Germany",Middle,High Risk
+CUST0002112,46,Male,Singapore,High,Low Risk
+CUST0002113,28,Male,"London, UK",Low,Low Risk
+CUST0002114,50,Male,"Toronto, Canada",High,High Risk
+CUST0002115,23,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0002116,64,Female,Singapore,Middle,Low Risk
+CUST0002117,32,Female,"New York, USA",Middle,Low Risk
+CUST0002118,49,Male,"London, UK",High,Medium Risk
+CUST0002119,68,Male,"New York, USA",Low,High Risk
+CUST0002120,28,Female,"Dubai, UAE",Low,High Risk
+CUST0002121,40,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0002122,43,Male,"Lagos, Nigeria",High,High Risk
+CUST0002123,51,Male,"New York, USA",Low,High Risk
+CUST0002124,63,Male,"Toronto, Canada",Low,Low Risk
+CUST0002125,51,Male,"Dubai, UAE",Middle,Low Risk
+CUST0002126,46,Female,"Dubai, UAE",High,Low Risk
+CUST0002127,21,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0002128,34,Female,"Dubai, UAE",Middle,High Risk
+CUST0002129,52,Female,"Toronto, Canada",Low,High Risk
+CUST0002130,30,Female,"New York, USA",Low,Low Risk
+CUST0002131,58,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0002132,56,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002133,32,Male,"Dubai, UAE",High,High Risk
+CUST0002134,72,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0002135,46,Female,"Toronto, Canada",High,High Risk
+CUST0002136,46,Female,"Berlin, Germany",Low,Medium Risk
+CUST0002137,28,Female,"Berlin, Germany",High,Low Risk
+CUST0002138,69,Male,Singapore,Low,Medium Risk
+CUST0002139,49,Female,"Dubai, UAE",Low,Medium Risk
+CUST0002140,19,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002141,64,Female,"New York, USA",Low,High Risk
+CUST0002142,31,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0002143,37,Male,"Dubai, UAE",High,Low Risk
+CUST0002144,39,Male,"London, UK",High,Medium Risk
+CUST0002145,28,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0002146,44,Female,Singapore,Middle,Medium Risk
+CUST0002147,20,Male,"Berlin, Germany",Low,High Risk
+CUST0002148,34,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002149,61,Female,"Dubai, UAE",Middle,High Risk
+CUST0002150,73,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0002151,45,Female,"London, UK",High,Low Risk
+CUST0002152,46,Male,"Dubai, UAE",Middle,Low Risk
+CUST0002153,38,Female,"Johannesburg, South Africa",High,High Risk
+CUST0002154,64,Male,Singapore,Middle,High Risk
+CUST0002155,33,Female,"New York, USA",High,Low Risk
+CUST0002156,54,Male,"London, UK",High,Low Risk
+CUST0002157,37,Female,Singapore,High,Medium Risk
+CUST0002158,23,Male,"Dubai, UAE",Low,Low Risk
+CUST0002159,36,Female,"New York, USA",Middle,High Risk
+CUST0002160,74,Female,"London, UK",Low,Low Risk
+CUST0002161,22,Female,"New York, USA",Middle,High Risk
+CUST0002162,20,Female,"New York, USA",Middle,High Risk
+CUST0002163,18,Female,"London, UK",Low,Medium Risk
+CUST0002164,55,Female,"London, UK",High,Medium Risk
+CUST0002165,32,Female,"New York, USA",Middle,Medium Risk
+CUST0002166,51,Female,Singapore,High,Medium Risk
+CUST0002167,52,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0002168,66,Male,"Berlin, Germany",High,Medium Risk
+CUST0002169,42,Male,"London, UK",Middle,Low Risk
+CUST0002170,41,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0002171,29,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002172,35,Female,"Toronto, Canada",Low,High Risk
+CUST0002173,32,Female,"New York, USA",Middle,Low Risk
+CUST0002174,61,Male,"New York, USA",Low,High Risk
+CUST0002175,33,Female,"Toronto, Canada",High,Medium Risk
+CUST0002176,44,Female,"Berlin, Germany",Middle,Low Risk
+CUST0002177,25,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0002178,63,Male,"London, UK",Middle,High Risk
+CUST0002179,42,Female,"Toronto, Canada",High,Low Risk
+CUST0002180,34,Male,"New York, USA",Middle,High Risk
+CUST0002181,46,Male,"Toronto, Canada",Low,Medium Risk
+CUST0002182,70,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0002183,25,Male,"Dubai, UAE",High,Medium Risk
+CUST0002184,32,Male,"London, UK",High,Low Risk
+CUST0002185,44,Female,"Toronto, Canada",High,High Risk
+CUST0002186,63,Male,"New York, USA",High,High Risk
+CUST0002187,67,Male,Singapore,Low,Medium Risk
+CUST0002188,69,Female,"Dubai, UAE",High,High Risk
+CUST0002189,24,Female,"London, UK",Middle,Low Risk
+CUST0002190,20,Female,"New York, USA",High,Medium Risk
+CUST0002191,46,Male,"Berlin, Germany",High,Medium Risk
+CUST0002192,61,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0002193,70,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0002194,41,Male,"Berlin, Germany",High,Medium Risk
+CUST0002195,20,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0002196,37,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0002197,63,Female,"Toronto, Canada",High,Medium Risk
+CUST0002198,32,Female,"London, UK",Low,High Risk
+CUST0002199,42,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0002200,47,Female,"Lagos, Nigeria",High,Low Risk
+CUST0002201,31,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002202,24,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002203,34,Female,"Johannesburg, South Africa",High,High Risk
+CUST0002204,61,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0002205,37,Male,"New York, USA",Middle,High Risk
+CUST0002206,53,Male,"London, UK",Middle,Low Risk
+CUST0002207,26,Female,"Toronto, Canada",High,High Risk
+CUST0002208,55,Male,"Toronto, Canada",High,Medium Risk
+CUST0002209,65,Male,"Berlin, Germany",Middle,Low Risk
+CUST0002210,74,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0002211,39,Female,"Lagos, Nigeria",High,High Risk
+CUST0002212,71,Female,Singapore,Middle,Low Risk
+CUST0002213,70,Female,"Lagos, Nigeria",High,Low Risk
+CUST0002214,70,Female,"Lagos, Nigeria",Low,High Risk
+CUST0002215,19,Female,Singapore,High,High Risk
+CUST0002216,41,Female,"Toronto, Canada",Low,Low Risk
+CUST0002217,25,Female,"Berlin, Germany",Middle,Low Risk
+CUST0002218,28,Male,"New York, USA",High,High Risk
+CUST0002219,30,Male,Singapore,Middle,Medium Risk
+CUST0002220,34,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002221,25,Male,"Dubai, UAE",Middle,High Risk
+CUST0002222,38,Female,"London, UK",Middle,Medium Risk
+CUST0002223,35,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002224,47,Male,Singapore,High,Low Risk
+CUST0002225,35,Male,"New York, USA",Low,High Risk
+CUST0002226,63,Male,"Toronto, Canada",High,Medium Risk
+CUST0002227,64,Female,"Dubai, UAE",High,Low Risk
+CUST0002228,48,Female,"Dubai, UAE",High,Medium Risk
+CUST0002229,55,Female,"Dubai, UAE",High,Medium Risk
+CUST0002230,49,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0002231,28,Female,"London, UK",High,Medium Risk
+CUST0002232,62,Male,"Toronto, Canada",Middle,Low Risk
+CUST0002233,42,Female,"Toronto, Canada",High,Medium Risk
+CUST0002234,50,Female,"Dubai, UAE",High,Low Risk
+CUST0002235,55,Female,"Toronto, Canada",Low,High Risk
+CUST0002236,58,Female,"London, UK",Low,Low Risk
+CUST0002237,25,Female,"London, UK",Middle,Low Risk
+CUST0002238,28,Male,"Berlin, Germany",High,Low Risk
+CUST0002239,39,Female,Singapore,High,Medium Risk
+CUST0002240,68,Male,Singapore,High,High Risk
+CUST0002241,41,Male,"Berlin, Germany",Middle,Medium Risk
+CUST0002242,58,Male,"New York, USA",Low,Medium Risk
+CUST0002243,34,Male,Singapore,Middle,Low Risk
+CUST0002244,29,Male,"London, UK",High,Medium Risk
+CUST0002245,74,Female,"London, UK",Low,Low Risk
+CUST0002246,63,Female,Singapore,Low,High Risk
+CUST0002247,49,Female,"London, UK",Middle,Medium Risk
+CUST0002248,32,Female,"Berlin, Germany",Low,Medium Risk
+CUST0002249,33,Male,"Dubai, UAE",Low,Medium Risk
+CUST0002250,71,Female,"Dubai, UAE",High,Low Risk
+CUST0002251,39,Female,"Toronto, Canada",High,Low Risk
+CUST0002252,45,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0002253,37,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0002254,50,Female,"Dubai, UAE",Middle,High Risk
+CUST0002255,27,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0002256,57,Male,"Berlin, Germany",Low,High Risk
+CUST0002257,49,Female,"London, UK",High,High Risk
+CUST0002258,67,Female,Singapore,Low,High Risk
+CUST0002259,50,Female,"Dubai, UAE",Low,Low Risk
+CUST0002260,19,Female,"Berlin, Germany",High,High Risk
+CUST0002261,50,Male,"Dubai, UAE",High,High Risk
+CUST0002262,50,Male,"New York, USA",Middle,Medium Risk
+CUST0002263,58,Male,"London, UK",Middle,Low Risk
+CUST0002264,30,Female,"New York, USA",Middle,High Risk
+CUST0002265,47,Female,"London, UK",Middle,High Risk
+CUST0002266,50,Female,"Berlin, Germany",High,High Risk
+CUST0002267,30,Female,"Toronto, Canada",Low,Medium Risk
+CUST0002268,69,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0002269,43,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0002270,39,Female,"Lagos, Nigeria",High,High Risk
+CUST0002271,56,Female,Singapore,High,Medium Risk
+CUST0002272,19,Male,"New York, USA",Low,High Risk
+CUST0002273,55,Female,"Dubai, UAE",Low,Low Risk
+CUST0002274,56,Male,"Berlin, Germany",High,High Risk
+CUST0002275,43,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0002276,63,Male,Singapore,Middle,Low Risk
+CUST0002277,67,Male,"Berlin, Germany",Middle,High Risk
+CUST0002278,32,Male,"New York, USA",Low,Low Risk
+CUST0002279,51,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0002280,59,Male,"Dubai, UAE",Middle,Low Risk
+CUST0002281,72,Male,"Berlin, Germany",High,High Risk
+CUST0002282,61,Female,Singapore,Middle,Medium Risk
+CUST0002283,66,Female,"London, UK",High,High Risk
+CUST0002284,57,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0002285,28,Female,Singapore,Low,High Risk
+CUST0002286,20,Female,"Berlin, Germany",Middle,High Risk
+CUST0002287,23,Male,"Toronto, Canada",Middle,High Risk
+CUST0002288,26,Male,"Dubai, UAE",High,Medium Risk
+CUST0002289,23,Female,"London, UK",High,High Risk
+CUST0002290,26,Male,"Lagos, Nigeria",High,Low Risk
+CUST0002291,56,Male,Singapore,Middle,High Risk
+CUST0002292,48,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0002293,49,Male,"London, UK",Low,Medium Risk
+CUST0002294,58,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0002295,67,Male,"Dubai, UAE",Low,High Risk
+CUST0002296,29,Male,"Berlin, Germany",High,High Risk
+CUST0002297,25,Male,"London, UK",High,High Risk
+CUST0002298,25,Female,"New York, USA",High,Low Risk
+CUST0002299,67,Female,"Toronto, Canada",Low,Medium Risk
+CUST0002300,45,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0002301,37,Female,Singapore,High,Low Risk
+CUST0002302,64,Male,"London, UK",Middle,High Risk
+CUST0002303,24,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0002304,28,Male,"Toronto, Canada",High,Low Risk
+CUST0002305,37,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0002306,33,Male,"London, UK",Middle,High Risk
+CUST0002307,21,Female,"Toronto, Canada",High,High Risk
+CUST0002308,23,Female,"New York, USA",Middle,Low Risk
+CUST0002309,39,Male,"London, UK",Middle,High Risk
+CUST0002310,43,Female,"Berlin, Germany",Middle,High Risk
+CUST0002311,20,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002312,58,Female,"Dubai, UAE",Middle,Low Risk
+CUST0002313,59,Male,"London, UK",Low,Medium Risk
+CUST0002314,31,Female,"Toronto, Canada",Low,Low Risk
+CUST0002315,28,Male,Singapore,High,High Risk
+CUST0002316,35,Male,"Dubai, UAE",Low,Low Risk
+CUST0002317,71,Female,"London, UK",Low,Low Risk
+CUST0002318,29,Female,"New York, USA",Low,Low Risk
+CUST0002319,40,Male,Singapore,Middle,Medium Risk
+CUST0002320,29,Female,"New York, USA",Middle,Medium Risk
+CUST0002321,30,Male,"Berlin, Germany",High,High Risk
+CUST0002322,42,Female,Singapore,High,Medium Risk
+CUST0002323,62,Female,"Lagos, Nigeria",High,Low Risk
+CUST0002324,68,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002325,36,Female,Singapore,Low,Low Risk
+CUST0002326,72,Female,"Dubai, UAE",Low,Medium Risk
+CUST0002327,63,Male,Singapore,Middle,Medium Risk
+CUST0002328,53,Female,"Toronto, Canada",High,Medium Risk
+CUST0002329,62,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0002330,25,Male,"Toronto, Canada",High,Medium Risk
+CUST0002331,46,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0002332,72,Male,Singapore,High,Low Risk
+CUST0002333,70,Male,"New York, USA",High,High Risk
+CUST0002334,72,Female,"New York, USA",Middle,Medium Risk
+CUST0002335,49,Male,"London, UK",Low,High Risk
+CUST0002336,68,Male,"Berlin, Germany",Middle,High Risk
+CUST0002337,61,Female,"Dubai, UAE",Middle,Low Risk
+CUST0002338,35,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002339,23,Female,"Berlin, Germany",Middle,Low Risk
+CUST0002340,35,Male,Singapore,Low,Low Risk
+CUST0002341,36,Male,"Berlin, Germany",High,Medium Risk
+CUST0002342,39,Male,"London, UK",Middle,Low Risk
+CUST0002343,54,Female,"Berlin, Germany",Low,Medium Risk
+CUST0002344,49,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0002345,73,Female,"Lagos, Nigeria",High,Low Risk
+CUST0002346,58,Male,"London, UK",High,Low Risk
+CUST0002347,20,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0002348,45,Male,Singapore,Middle,Low Risk
+CUST0002349,27,Male,"London, UK",High,Medium Risk
+CUST0002350,68,Male,Singapore,High,High Risk
+CUST0002351,52,Female,Singapore,High,Medium Risk
+CUST0002352,46,Female,"Berlin, Germany",High,High Risk
+CUST0002353,71,Male,"Lagos, Nigeria",High,Low Risk
+CUST0002354,32,Male,Singapore,High,Low Risk
+CUST0002355,50,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0002356,24,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0002357,29,Male,"London, UK",Middle,High Risk
+CUST0002358,66,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0002359,47,Male,"Berlin, Germany",Middle,High Risk
+CUST0002360,38,Male,Singapore,High,Low Risk
+CUST0002361,48,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002362,41,Female,"Dubai, UAE",Low,Low Risk
+CUST0002363,37,Male,"Toronto, Canada",High,Medium Risk
+CUST0002364,54,Male,Singapore,Middle,Low Risk
+CUST0002365,21,Female,"Dubai, UAE",Low,Medium Risk
+CUST0002366,45,Female,"Berlin, Germany",Low,Medium Risk
+CUST0002367,61,Male,"Berlin, Germany",Middle,High Risk
+CUST0002368,37,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0002369,41,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0002370,67,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0002371,66,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0002372,68,Female,Singapore,High,Medium Risk
+CUST0002373,49,Male,"London, UK",High,High Risk
+CUST0002374,58,Male,"Toronto, Canada",High,Low Risk
+CUST0002375,53,Female,Singapore,High,Medium Risk
+CUST0002376,70,Male,"Toronto, Canada",Middle,High Risk
+CUST0002377,51,Female,"Lagos, Nigeria",High,High Risk
+CUST0002378,53,Male,"Berlin, Germany",High,High Risk
+CUST0002379,19,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0002380,32,Male,"Berlin, Germany",High,High Risk
+CUST0002381,51,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0002382,53,Female,Singapore,High,High Risk
+CUST0002383,23,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0002384,56,Male,"Berlin, Germany",Middle,High Risk
+CUST0002385,59,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0002386,68,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002387,68,Female,"New York, USA",High,Low Risk
+CUST0002388,71,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0002389,29,Male,"Dubai, UAE",Middle,Low Risk
+CUST0002390,20,Male,"Berlin, Germany",High,High Risk
+CUST0002391,62,Male,"Berlin, Germany",Low,Medium Risk
+CUST0002392,35,Male,"New York, USA",Low,Low Risk
+CUST0002393,57,Male,Singapore,Middle,Medium Risk
+CUST0002394,38,Female,Singapore,High,Medium Risk
+CUST0002395,32,Male,Singapore,Middle,Medium Risk
+CUST0002396,50,Female,"Dubai, UAE",Middle,High Risk
+CUST0002397,52,Male,"London, UK",Middle,Low Risk
+CUST0002398,43,Male,"New York, USA",High,Medium Risk
+CUST0002399,25,Female,"Dubai, UAE",High,Medium Risk
+CUST0002400,53,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0002401,65,Male,"New York, USA",High,Low Risk
+CUST0002402,47,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0002403,40,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0002404,59,Female,"New York, USA",Low,High Risk
+CUST0002405,61,Female,"London, UK",High,Low Risk
+CUST0002406,31,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0002407,31,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0002408,19,Male,"Dubai, UAE",Low,Low Risk
+CUST0002409,72,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002410,54,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0002411,22,Male,"New York, USA",High,High Risk
+CUST0002412,55,Female,"New York, USA",Low,High Risk
+CUST0002413,62,Female,"London, UK",Middle,High Risk
+CUST0002414,58,Male,"Toronto, Canada",Low,Medium Risk
+CUST0002415,71,Male,"New York, USA",High,Medium Risk
+CUST0002416,64,Male,"New York, USA",Middle,Medium Risk
+CUST0002417,31,Male,"Toronto, Canada",High,Low Risk
+CUST0002418,73,Female,"London, UK",Low,Medium Risk
+CUST0002419,56,Male,"Dubai, UAE",High,Low Risk
+CUST0002420,42,Female,"Johannesburg, South Africa",High,High Risk
+CUST0002421,37,Male,"Dubai, UAE",Low,Low Risk
+CUST0002422,19,Male,"New York, USA",High,Low Risk
+CUST0002423,56,Male,"Toronto, Canada",Low,Medium Risk
+CUST0002424,23,Male,"New York, USA",Middle,High Risk
+CUST0002425,34,Female,Singapore,Low,High Risk
+CUST0002426,42,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0002427,74,Female,"Dubai, UAE",Middle,High Risk
+CUST0002428,45,Male,Singapore,Low,High Risk
+CUST0002429,19,Male,"Berlin, Germany",Middle,High Risk
+CUST0002430,52,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002431,54,Female,"New York, USA",Low,High Risk
+CUST0002432,22,Male,"London, UK",High,Low Risk
+CUST0002433,18,Male,"Dubai, UAE",High,Low Risk
+CUST0002434,57,Female,"Berlin, Germany",Middle,High Risk
+CUST0002435,29,Male,"Lagos, Nigeria",High,Medium Risk
+CUST0002436,73,Male,"Dubai, UAE",High,Medium Risk
+CUST0002437,53,Female,"Toronto, Canada",Low,Medium Risk
+CUST0002438,62,Male,"London, UK",Middle,High Risk
+CUST0002439,40,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0002440,64,Male,"Toronto, Canada",Low,Low Risk
+CUST0002441,48,Female,Singapore,High,Medium Risk
+CUST0002442,28,Male,"New York, USA",Middle,Low Risk
+CUST0002443,27,Female,"Toronto, Canada",High,Low Risk
+CUST0002444,20,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002445,71,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0002446,31,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0002447,33,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002448,27,Male,Singapore,High,Low Risk
+CUST0002449,46,Female,"New York, USA",High,Low Risk
+CUST0002450,27,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0002451,29,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0002452,47,Male,"Toronto, Canada",Low,Low Risk
+CUST0002453,58,Male,"Toronto, Canada",Middle,Low Risk
+CUST0002454,18,Male,"New York, USA",Middle,High Risk
+CUST0002455,22,Female,"Toronto, Canada",Middle,High Risk
+CUST0002456,37,Female,"Dubai, UAE",Low,High Risk
+CUST0002457,25,Female,"New York, USA",High,Medium Risk
+CUST0002458,60,Female,"London, UK",Middle,Medium Risk
+CUST0002459,29,Male,"Johannesburg, South Africa",High,High Risk
+CUST0002460,18,Male,"Lagos, Nigeria",High,High Risk
+CUST0002461,74,Female,"London, UK",Low,Low Risk
+CUST0002462,71,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0002463,37,Male,"Dubai, UAE",High,Medium Risk
+CUST0002464,45,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002465,74,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002466,60,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0002467,54,Female,Singapore,Low,Low Risk
+CUST0002468,64,Male,"Dubai, UAE",Low,Medium Risk
+CUST0002469,54,Male,"Berlin, Germany",Low,Medium Risk
+CUST0002470,29,Female,"Berlin, Germany",Low,Low Risk
+CUST0002471,54,Female,"Berlin, Germany",Low,Low Risk
+CUST0002472,66,Male,"New York, USA",Low,Low Risk
+CUST0002473,66,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0002474,73,Female,"Dubai, UAE",Low,High Risk
+CUST0002475,61,Female,"London, UK",Low,Low Risk
+CUST0002476,73,Male,Singapore,Middle,Medium Risk
+CUST0002477,45,Female,"London, UK",Middle,Medium Risk
+CUST0002478,64,Male,"London, UK",High,Medium Risk
+CUST0002479,32,Female,"London, UK",Low,Low Risk
+CUST0002480,23,Male,Singapore,Low,Low Risk
+CUST0002481,61,Female,"Berlin, Germany",Low,High Risk
+CUST0002482,37,Male,"London, UK",Low,Medium Risk
+CUST0002483,67,Male,Singapore,High,Low Risk
+CUST0002484,31,Male,Singapore,Middle,Medium Risk
+CUST0002485,19,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0002486,26,Female,Singapore,Low,High Risk
+CUST0002487,54,Female,"Berlin, Germany",Low,Low Risk
+CUST0002488,37,Male,"London, UK",Low,Low Risk
+CUST0002489,43,Female,Singapore,High,Medium Risk
+CUST0002490,46,Male,"New York, USA",High,Medium Risk
+CUST0002491,18,Female,Singapore,Middle,High Risk
+CUST0002492,72,Male,"Lagos, Nigeria",Low,High Risk
+CUST0002493,52,Male,"Lagos, Nigeria",Low,High Risk
+CUST0002494,23,Male,"Lagos, Nigeria",Low,High Risk
+CUST0002495,54,Female,Singapore,Low,High Risk
+CUST0002496,70,Female,"Berlin, Germany",High,High Risk
+CUST0002497,22,Female,"London, UK",Middle,Medium Risk
+CUST0002498,50,Male,"Dubai, UAE",Middle,High Risk
+CUST0002499,66,Male,"Dubai, UAE",High,Medium Risk
+CUST0002500,68,Female,"Dubai, UAE",Low,Medium Risk
+CUST0002501,31,Female,"Berlin, Germany",Middle,Low Risk
+CUST0002502,29,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0002503,59,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0002504,37,Male,"New York, USA",Low,High Risk
+CUST0002505,70,Male,"New York, USA",Middle,Medium Risk
+CUST0002506,67,Male,"Lagos, Nigeria",Low,High Risk
+CUST0002507,41,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0002508,60,Female,Singapore,High,High Risk
+CUST0002509,51,Male,"Dubai, UAE",Low,Low Risk
+CUST0002510,42,Male,Singapore,High,High Risk
+CUST0002511,67,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002512,46,Male,"Dubai, UAE",High,High Risk
+CUST0002513,74,Male,"Lagos, Nigeria",High,High Risk
+CUST0002514,56,Female,"London, UK",High,High Risk
+CUST0002515,48,Male,"Toronto, Canada",Middle,Low Risk
+CUST0002516,73,Male,Singapore,Low,Medium Risk
+CUST0002517,64,Male,"Toronto, Canada",High,Low Risk
+CUST0002518,60,Female,"Toronto, Canada",Low,Medium Risk
+CUST0002519,67,Female,"Toronto, Canada",Middle,Low Risk
+CUST0002520,40,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0002521,61,Male,"New York, USA",High,Low Risk
+CUST0002522,55,Female,"Lagos, Nigeria",High,High Risk
+CUST0002523,37,Male,"Toronto, Canada",High,Low Risk
+CUST0002524,40,Male,"Lagos, Nigeria",High,Low Risk
+CUST0002525,62,Female,"Toronto, Canada",High,High Risk
+CUST0002526,69,Male,"Berlin, Germany",High,High Risk
+CUST0002527,33,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0002528,67,Male,"New York, USA",Middle,Medium Risk
+CUST0002529,59,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0002530,72,Male,"London, UK",Low,Low Risk
+CUST0002531,25,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0002532,67,Female,"London, UK",Middle,Low Risk
+CUST0002533,38,Male,Singapore,Low,Low Risk
+CUST0002534,18,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0002535,72,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0002536,25,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0002537,46,Male,"Dubai, UAE",Low,High Risk
+CUST0002538,49,Male,"Berlin, Germany",Low,High Risk
+CUST0002539,55,Male,"Dubai, UAE",Middle,Low Risk
+CUST0002540,22,Male,Singapore,Low,Medium Risk
+CUST0002541,64,Female,"Toronto, Canada",High,Low Risk
+CUST0002542,39,Female,"Dubai, UAE",Low,Low Risk
+CUST0002543,64,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0002544,51,Female,"Johannesburg, South Africa",High,High Risk
+CUST0002545,18,Male,"Toronto, Canada",High,Low Risk
+CUST0002546,72,Male,"Johannesburg, South Africa",High,High Risk
+CUST0002547,72,Male,"Lagos, Nigeria",High,High Risk
+CUST0002548,43,Male,"Toronto, Canada",Low,Medium Risk
+CUST0002549,60,Male,"Berlin, Germany",Middle,Low Risk
+CUST0002550,27,Female,"Dubai, UAE",Low,Low Risk
+CUST0002551,47,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0002552,67,Male,"Toronto, Canada",High,High Risk
+CUST0002553,35,Male,Singapore,Middle,Medium Risk
+CUST0002554,34,Male,Singapore,High,High Risk
+CUST0002555,43,Female,"Dubai, UAE",Low,Medium Risk
+CUST0002556,25,Male,"Berlin, Germany",Low,Low Risk
+CUST0002557,64,Male,"London, UK",High,Medium Risk
+CUST0002558,57,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0002559,66,Female,"Berlin, Germany",Low,Low Risk
+CUST0002560,29,Male,"New York, USA",High,Medium Risk
+CUST0002561,44,Female,"New York, USA",Low,Low Risk
+CUST0002562,25,Female,"New York, USA",Middle,Medium Risk
+CUST0002563,42,Female,"Dubai, UAE",High,High Risk
+CUST0002564,63,Female,Singapore,Middle,High Risk
+CUST0002565,21,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0002566,50,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0002567,18,Male,Singapore,High,Low Risk
+CUST0002568,36,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0002569,48,Male,"Lagos, Nigeria",High,High Risk
+CUST0002570,33,Female,Singapore,High,Low Risk
+CUST0002571,31,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0002572,70,Female,"Dubai, UAE",High,Low Risk
+CUST0002573,65,Female,"Berlin, Germany",High,Medium Risk
+CUST0002574,22,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0002575,58,Male,"London, UK",High,Low Risk
+CUST0002576,43,Female,Singapore,Middle,Medium Risk
+CUST0002577,45,Female,Singapore,Low,Medium Risk
+CUST0002578,19,Male,"New York, USA",High,Low Risk
+CUST0002579,67,Male,"Berlin, Germany",Low,Low Risk
+CUST0002580,23,Female,"New York, USA",High,Medium Risk
+CUST0002581,26,Female,Singapore,Middle,High Risk
+CUST0002582,50,Male,Singapore,Middle,Medium Risk
+CUST0002583,58,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0002584,42,Male,"Berlin, Germany",Low,Low Risk
+CUST0002585,65,Female,"Toronto, Canada",High,Low Risk
+CUST0002586,30,Male,"London, UK",Low,High Risk
+CUST0002587,26,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002588,70,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0002589,30,Female,Singapore,Middle,High Risk
+CUST0002590,48,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002591,58,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0002592,28,Male,"London, UK",High,Medium Risk
+CUST0002593,21,Male,Singapore,High,Medium Risk
+CUST0002594,51,Male,"London, UK",Middle,Medium Risk
+CUST0002595,55,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0002596,63,Female,"Toronto, Canada",Low,High Risk
+CUST0002597,21,Female,"Lagos, Nigeria",High,High Risk
+CUST0002598,55,Male,"Dubai, UAE",Middle,High Risk
+CUST0002599,36,Female,"Lagos, Nigeria",Low,High Risk
+CUST0002600,23,Female,"New York, USA",Middle,High Risk
+CUST0002601,51,Female,"Berlin, Germany",Low,Medium Risk
+CUST0002602,35,Male,"Berlin, Germany",High,Low Risk
+CUST0002603,30,Male,"New York, USA",Middle,Low Risk
+CUST0002604,58,Female,Singapore,Middle,High Risk
+CUST0002605,40,Female,"Berlin, Germany",Low,High Risk
+CUST0002606,36,Male,"London, UK",Low,Low Risk
+CUST0002607,62,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0002608,28,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0002609,18,Male,"Berlin, Germany",High,Medium Risk
+CUST0002610,41,Female,"Berlin, Germany",High,Low Risk
+CUST0002611,71,Male,"New York, USA",Low,Low Risk
+CUST0002612,24,Female,Singapore,High,High Risk
+CUST0002613,42,Female,"Toronto, Canada",Low,Medium Risk
+CUST0002614,38,Male,"Berlin, Germany",High,High Risk
+CUST0002615,32,Female,"Dubai, UAE",Middle,Low Risk
+CUST0002616,18,Female,"Berlin, Germany",Low,Medium Risk
+CUST0002617,29,Female,"Toronto, Canada",High,High Risk
+CUST0002618,24,Male,"New York, USA",Middle,High Risk
+CUST0002619,32,Male,"Toronto, Canada",High,High Risk
+CUST0002620,38,Male,"New York, USA",Middle,Low Risk
+CUST0002621,36,Female,"London, UK",Middle,High Risk
+CUST0002622,46,Male,"New York, USA",High,Medium Risk
+CUST0002623,42,Female,"London, UK",High,High Risk
+CUST0002624,50,Female,"London, UK",Middle,Low Risk
+CUST0002625,66,Male,"New York, USA",Middle,High Risk
+CUST0002626,49,Male,"Dubai, UAE",Middle,Low Risk
+CUST0002627,66,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0002628,52,Female,"New York, USA",Middle,Medium Risk
+CUST0002629,61,Male,"Berlin, Germany",Low,Medium Risk
+CUST0002630,55,Male,"Dubai, UAE",Middle,High Risk
+CUST0002631,43,Male,"Dubai, UAE",Low,Low Risk
+CUST0002632,28,Female,"Berlin, Germany",Middle,Low Risk
+CUST0002633,52,Female,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002634,25,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0002635,63,Female,"London, UK",High,High Risk
+CUST0002636,31,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0002637,27,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002638,19,Male,Singapore,Low,High Risk
+CUST0002639,63,Female,"Berlin, Germany",Low,Low Risk
+CUST0002640,26,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0002641,20,Male,"New York, USA",High,Medium Risk
+CUST0002642,38,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0002643,43,Male,"Lagos, Nigeria",High,Medium Risk
+CUST0002644,25,Male,"London, UK",Low,High Risk
+CUST0002645,65,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002646,19,Male,"New York, USA",High,High Risk
+CUST0002647,23,Female,"Toronto, Canada",Low,High Risk
+CUST0002648,45,Male,"Berlin, Germany",Middle,High Risk
+CUST0002649,70,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0002650,46,Male,"Berlin, Germany",Middle,High Risk
+CUST0002651,43,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0002652,42,Female,"Dubai, UAE",High,High Risk
+CUST0002653,29,Male,"New York, USA",Middle,High Risk
+CUST0002654,22,Female,"Toronto, Canada",High,Low Risk
+CUST0002655,51,Female,"New York, USA",Low,High Risk
+CUST0002656,65,Male,"Berlin, Germany",Middle,Low Risk
+CUST0002657,54,Male,"New York, USA",Middle,Medium Risk
+CUST0002658,32,Female,"Toronto, Canada",High,Medium Risk
+CUST0002659,61,Female,"Dubai, UAE",Middle,High Risk
+CUST0002660,53,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0002661,32,Male,"London, UK",High,High Risk
+CUST0002662,60,Male,"New York, USA",High,Medium Risk
+CUST0002663,65,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0002664,40,Male,"London, UK",Middle,High Risk
+CUST0002665,23,Male,"Berlin, Germany",Middle,Low Risk
+CUST0002666,63,Female,"Lagos, Nigeria",High,Low Risk
+CUST0002667,67,Female,Singapore,Middle,Low Risk
+CUST0002668,61,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0002669,60,Male,"New York, USA",Middle,High Risk
+CUST0002670,62,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002671,38,Male,"Dubai, UAE",High,High Risk
+CUST0002672,40,Male,"Lagos, Nigeria",Middle,Low Risk
+CUST0002673,60,Female,"New York, USA",High,Low Risk
+CUST0002674,72,Female,"New York, USA",Middle,Medium Risk
+CUST0002675,33,Male,"London, UK",Low,Low Risk
+CUST0002676,64,Male,"Lagos, Nigeria",Low,High Risk
+CUST0002677,70,Male,"New York, USA",High,High Risk
+CUST0002678,32,Female,"London, UK",High,High Risk
+CUST0002679,42,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0002680,53,Male,"Toronto, Canada",Middle,High Risk
+CUST0002681,28,Female,"Johannesburg, South Africa",Low,Medium Risk
+CUST0002682,68,Female,Singapore,Middle,High Risk
+CUST0002683,32,Male,"London, UK",Low,Low Risk
+CUST0002684,21,Female,"London, UK",High,Low Risk
+CUST0002685,38,Female,"New York, USA",Middle,Low Risk
+CUST0002686,30,Male,"Berlin, Germany",High,Low Risk
+CUST0002687,39,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0002688,36,Female,"Dubai, UAE",Low,Low Risk
+CUST0002689,51,Male,"Berlin, Germany",High,Medium Risk
+CUST0002690,31,Female,"London, UK",High,Low Risk
+CUST0002691,21,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0002692,65,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0002693,70,Female,"New York, USA",Low,Medium Risk
+CUST0002694,69,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0002695,63,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0002696,44,Male,Singapore,Middle,High Risk
+CUST0002697,46,Female,Singapore,High,High Risk
+CUST0002698,64,Male,"London, UK",Middle,Low Risk
+CUST0002699,45,Female,"London, UK",Middle,High Risk
+CUST0002700,52,Female,"Dubai, UAE",High,High Risk
+CUST0002701,25,Female,"New York, USA",Low,High Risk
+CUST0002702,33,Male,"Toronto, Canada",Middle,Low Risk
+CUST0002703,59,Female,"London, UK",High,Low Risk
+CUST0002704,53,Female,"Toronto, Canada",Middle,High Risk
+CUST0002705,47,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0002706,35,Male,"Toronto, Canada",Low,Medium Risk
+CUST0002707,19,Female,"Berlin, Germany",Middle,High Risk
+CUST0002708,66,Female,"New York, USA",Low,Low Risk
+CUST0002709,30,Female,Singapore,High,Low Risk
+CUST0002710,21,Male,Singapore,High,High Risk
+CUST0002711,43,Male,"Toronto, Canada",Middle,Low Risk
+CUST0002712,42,Male,Singapore,Low,High Risk
+CUST0002713,47,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0002714,28,Female,"New York, USA",High,Medium Risk
+CUST0002715,24,Male,"Berlin, Germany",High,High Risk
+CUST0002716,48,Male,"New York, USA",Middle,Medium Risk
+CUST0002717,61,Male,"London, UK",Middle,High Risk
+CUST0002718,27,Female,"Toronto, Canada",High,Low Risk
+CUST0002719,56,Female,"New York, USA",High,Medium Risk
+CUST0002720,30,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0002721,48,Male,Singapore,Low,High Risk
+CUST0002722,24,Female,"Lagos, Nigeria",Low,High Risk
+CUST0002723,73,Female,"New York, USA",Middle,High Risk
+CUST0002724,66,Female,"Toronto, Canada",High,High Risk
+CUST0002725,59,Female,"Berlin, Germany",Middle,High Risk
+CUST0002726,59,Female,Singapore,High,Medium Risk
+CUST0002727,73,Female,"Berlin, Germany",Low,High Risk
+CUST0002728,53,Female,"Toronto, Canada",Low,Low Risk
+CUST0002729,37,Female,Singapore,Low,Medium Risk
+CUST0002730,21,Male,"London, UK",Low,Low Risk
+CUST0002731,71,Male,Singapore,High,High Risk
+CUST0002732,24,Male,"London, UK",Low,Low Risk
+CUST0002733,71,Male,"Berlin, Germany",High,Medium Risk
+CUST0002734,18,Male,"Berlin, Germany",High,Medium Risk
+CUST0002735,61,Male,"Toronto, Canada",Middle,Medium Risk
+CUST0002736,73,Female,"London, UK",Low,Low Risk
+CUST0002737,62,Female,"Berlin, Germany",Low,Medium Risk
+CUST0002738,59,Male,"London, UK",Middle,Low Risk
+CUST0002739,64,Male,"Berlin, Germany",High,High Risk
+CUST0002740,30,Female,Singapore,Low,High Risk
+CUST0002741,72,Female,"New York, USA",High,Low Risk
+CUST0002742,39,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002743,71,Male,"Lagos, Nigeria",High,Low Risk
+CUST0002744,38,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0002745,39,Male,Singapore,High,Low Risk
+CUST0002746,45,Male,"Dubai, UAE",High,High Risk
+CUST0002747,26,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0002748,43,Female,"New York, USA",Low,High Risk
+CUST0002749,26,Male,"Dubai, UAE",High,Low Risk
+CUST0002750,32,Female,"Berlin, Germany",High,High Risk
+CUST0002751,27,Female,"Lagos, Nigeria",Middle,Low Risk
+CUST0002752,41,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0002753,74,Female,"Berlin, Germany",High,Medium Risk
+CUST0002754,59,Male,"Berlin, Germany",Low,Medium Risk
+CUST0002755,25,Male,"London, UK",Middle,Low Risk
+CUST0002756,41,Female,"Berlin, Germany",High,Low Risk
+CUST0002757,33,Male,"Toronto, Canada",High,Low Risk
+CUST0002758,66,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0002759,43,Female,"Berlin, Germany",Low,Medium Risk
+CUST0002760,44,Female,"Toronto, Canada",Middle,High Risk
+CUST0002761,54,Female,"Berlin, Germany",Low,Low Risk
+CUST0002762,21,Male,"London, UK",High,Medium Risk
+CUST0002763,67,Male,"Toronto, Canada",Middle,Low Risk
+CUST0002764,41,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0002765,36,Male,"New York, USA",High,High Risk
+CUST0002766,53,Female,"Toronto, Canada",Low,Low Risk
+CUST0002767,56,Female,Singapore,High,Low Risk
+CUST0002768,27,Male,"London, UK",Middle,High Risk
+CUST0002769,42,Female,"Dubai, UAE",High,High Risk
+CUST0002770,35,Male,"Johannesburg, South Africa",High,High Risk
+CUST0002771,36,Male,"Toronto, Canada",Low,High Risk
+CUST0002772,53,Female,Singapore,Middle,Medium Risk
+CUST0002773,27,Male,Singapore,Low,Medium Risk
+CUST0002774,50,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0002775,72,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0002776,67,Male,Singapore,Low,High Risk
+CUST0002777,22,Male,"Berlin, Germany",Low,High Risk
+CUST0002778,64,Female,Singapore,Low,Medium Risk
+CUST0002779,66,Male,"Berlin, Germany",High,Low Risk
+CUST0002780,52,Female,"Dubai, UAE",High,Low Risk
+CUST0002781,61,Male,"London, UK",Middle,Low Risk
+CUST0002782,51,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0002783,50,Female,"Berlin, Germany",Low,Low Risk
+CUST0002784,72,Female,Singapore,Middle,Low Risk
+CUST0002785,38,Female,Singapore,Low,Low Risk
+CUST0002786,34,Female,"New York, USA",Middle,High Risk
+CUST0002787,39,Female,Singapore,High,Medium Risk
+CUST0002788,65,Male,"London, UK",Middle,High Risk
+CUST0002789,54,Male,"Toronto, Canada",Low,High Risk
+CUST0002790,32,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0002791,52,Male,Singapore,High,High Risk
+CUST0002792,45,Male,"New York, USA",Low,Low Risk
+CUST0002793,24,Male,"Berlin, Germany",High,Low Risk
+CUST0002794,49,Female,"London, UK",High,Low Risk
+CUST0002795,28,Male,"New York, USA",Middle,Low Risk
+CUST0002796,27,Male,"Berlin, Germany",High,Medium Risk
+CUST0002797,26,Male,"London, UK",Low,High Risk
+CUST0002798,31,Female,Singapore,High,High Risk
+CUST0002799,30,Male,"Toronto, Canada",High,Low Risk
+CUST0002800,74,Male,"London, UK",Middle,Low Risk
+CUST0002801,42,Female,Singapore,High,High Risk
+CUST0002802,19,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0002803,52,Male,"Lagos, Nigeria",Middle,High Risk
+CUST0002804,24,Male,"London, UK",Low,Low Risk
+CUST0002805,38,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0002806,35,Female,"London, UK",Low,Medium Risk
+CUST0002807,20,Female,"Lagos, Nigeria",Low,High Risk
+CUST0002808,59,Female,"Dubai, UAE",Middle,Medium Risk
+CUST0002809,71,Female,"Toronto, Canada",High,Medium Risk
+CUST0002810,56,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0002811,58,Female,"Berlin, Germany",Low,High Risk
+CUST0002812,66,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0002813,28,Female,"Dubai, UAE",High,High Risk
+CUST0002814,56,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0002815,41,Male,"Toronto, Canada",High,Low Risk
+CUST0002816,63,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0002817,36,Female,"Dubai, UAE",Middle,High Risk
+CUST0002818,21,Male,Singapore,Middle,Low Risk
+CUST0002819,43,Female,"Dubai, UAE",High,High Risk
+CUST0002820,55,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0002821,59,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0002822,49,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0002823,56,Male,"New York, USA",Low,Low Risk
+CUST0002824,62,Female,"Toronto, Canada",Low,Low Risk
+CUST0002825,63,Male,Singapore,High,Medium Risk
+CUST0002826,53,Male,"New York, USA",Middle,High Risk
+CUST0002827,57,Female,"Toronto, Canada",Low,Low Risk
+CUST0002828,54,Male,Singapore,Middle,Medium Risk
+CUST0002829,50,Male,"Lagos, Nigeria",High,Low Risk
+CUST0002830,53,Male,Singapore,High,Medium Risk
+CUST0002831,20,Male,"Dubai, UAE",Low,Low Risk
+CUST0002832,26,Female,"New York, USA",High,Low Risk
+CUST0002833,25,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002834,50,Female,"Dubai, UAE",Low,Medium Risk
+CUST0002835,23,Female,"Toronto, Canada",Low,High Risk
+CUST0002836,58,Male,Singapore,Middle,High Risk
+CUST0002837,56,Male,"Dubai, UAE",Low,Medium Risk
+CUST0002838,21,Male,"Lagos, Nigeria",Low,High Risk
+CUST0002839,30,Male,"New York, USA",Middle,Medium Risk
+CUST0002840,66,Female,"New York, USA",Low,High Risk
+CUST0002841,19,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0002842,22,Female,Singapore,Middle,High Risk
+CUST0002843,61,Male,"Dubai, UAE",High,Low Risk
+CUST0002844,44,Female,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002845,49,Male,"Lagos, Nigeria",Low,High Risk
+CUST0002846,38,Male,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002847,25,Male,"London, UK",Low,Low Risk
+CUST0002848,55,Male,"Toronto, Canada",Low,Low Risk
+CUST0002849,25,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0002850,67,Female,"Toronto, Canada",Low,Medium Risk
+CUST0002851,20,Female,"Lagos, Nigeria",High,Medium Risk
+CUST0002852,71,Male,"London, UK",Low,High Risk
+CUST0002853,61,Female,"New York, USA",Middle,Medium Risk
+CUST0002854,20,Male,Singapore,High,High Risk
+CUST0002855,39,Male,"Berlin, Germany",High,High Risk
+CUST0002856,23,Male,"Berlin, Germany",Low,High Risk
+CUST0002857,19,Female,Singapore,Middle,Low Risk
+CUST0002858,40,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0002859,61,Male,"London, UK",Low,Low Risk
+CUST0002860,19,Female,"London, UK",Middle,High Risk
+CUST0002861,55,Female,"Toronto, Canada",Middle,Low Risk
+CUST0002862,34,Female,"New York, USA",Low,Low Risk
+CUST0002863,52,Male,"Dubai, UAE",High,Low Risk
+CUST0002864,51,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0002865,40,Female,"London, UK",High,High Risk
+CUST0002866,47,Male,Singapore,Low,High Risk
+CUST0002867,69,Female,"Dubai, UAE",Middle,Low Risk
+CUST0002868,25,Female,"Berlin, Germany",High,Medium Risk
+CUST0002869,39,Male,"Dubai, UAE",Middle,Low Risk
+CUST0002870,61,Male,"New York, USA",Middle,Low Risk
+CUST0002871,53,Female,Singapore,Middle,High Risk
+CUST0002872,22,Female,"New York, USA",Middle,High Risk
+CUST0002873,30,Female,"Dubai, UAE",Middle,Low Risk
+CUST0002874,46,Female,"Johannesburg, South Africa",Low,Low Risk
+CUST0002875,48,Male,"Lagos, Nigeria",High,Medium Risk
+CUST0002876,64,Female,"London, UK",Low,Medium Risk
+CUST0002877,74,Female,Singapore,Low,High Risk
+CUST0002878,72,Female,"Lagos, Nigeria",Low,Medium Risk
+CUST0002879,33,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0002880,59,Male,"London, UK",Low,High Risk
+CUST0002881,47,Female,"Toronto, Canada",High,Medium Risk
+CUST0002882,74,Male,"Lagos, Nigeria",Low,Low Risk
+CUST0002883,72,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002884,33,Male,"Dubai, UAE",High,High Risk
+CUST0002885,29,Female,"Berlin, Germany",High,Low Risk
+CUST0002886,34,Female,"Dubai, UAE",High,Medium Risk
+CUST0002887,33,Male,"Lagos, Nigeria",High,Low Risk
+CUST0002888,29,Female,"London, UK",Low,Low Risk
+CUST0002889,25,Female,"Johannesburg, South Africa",Middle,Medium Risk
+CUST0002890,37,Male,"Berlin, Germany",High,Medium Risk
+CUST0002891,20,Male,"Dubai, UAE",High,High Risk
+CUST0002892,33,Female,"Johannesburg, South Africa",Middle,High Risk
+CUST0002893,47,Male,Singapore,Low,Low Risk
+CUST0002894,62,Female,"Dubai, UAE",High,High Risk
+CUST0002895,40,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0002896,45,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0002897,68,Female,"Lagos, Nigeria",Low,High Risk
+CUST0002898,57,Female,"Toronto, Canada",Low,High Risk
+CUST0002899,71,Male,"Johannesburg, South Africa",High,High Risk
+CUST0002900,22,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0002901,37,Male,"Dubai, UAE",Low,Low Risk
+CUST0002902,57,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0002903,73,Male,Singapore,Middle,Low Risk
+CUST0002904,61,Male,"New York, USA",Middle,High Risk
+CUST0002905,18,Male,"Berlin, Germany",Middle,High Risk
+CUST0002906,74,Male,"New York, USA",High,High Risk
+CUST0002907,47,Female,"Berlin, Germany",Middle,High Risk
+CUST0002908,38,Female,Singapore,High,High Risk
+CUST0002909,37,Male,"Johannesburg, South Africa",High,Medium Risk
+CUST0002910,23,Female,"Johannesburg, South Africa",High,High Risk
+CUST0002911,39,Male,"Dubai, UAE",High,Low Risk
+CUST0002912,35,Male,"Toronto, Canada",Middle,High Risk
+CUST0002913,25,Female,"Lagos, Nigeria",Low,Low Risk
+CUST0002914,56,Female,"Lagos, Nigeria",Low,High Risk
+CUST0002915,49,Male,"Lagos, Nigeria",Low,High Risk
+CUST0002916,50,Male,"Dubai, UAE",Middle,Low Risk
+CUST0002917,70,Female,"Berlin, Germany",Low,Low Risk
+CUST0002918,33,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002919,29,Female,Singapore,Middle,Low Risk
+CUST0002920,55,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002921,69,Male,"New York, USA",Low,Low Risk
+CUST0002922,51,Female,"Lagos, Nigeria",Low,High Risk
+CUST0002923,31,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0002924,53,Female,"Dubai, UAE",High,Medium Risk
+CUST0002925,50,Female,Singapore,Middle,Low Risk
+CUST0002926,40,Female,"Toronto, Canada",High,High Risk
+CUST0002927,67,Female,Singapore,Middle,Medium Risk
+CUST0002928,62,Female,"New York, USA",Low,High Risk
+CUST0002929,19,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002930,58,Male,"Lagos, Nigeria",Middle,Medium Risk
+CUST0002931,38,Male,"London, UK",High,Low Risk
+CUST0002932,19,Female,"Berlin, Germany",Middle,Medium Risk
+CUST0002933,44,Female,"New York, USA",Low,High Risk
+CUST0002934,74,Female,"London, UK",Middle,High Risk
+CUST0002935,26,Male,Singapore,Middle,Low Risk
+CUST0002936,18,Female,"Toronto, Canada",Middle,Low Risk
+CUST0002937,28,Female,"Berlin, Germany",High,Medium Risk
+CUST0002938,20,Male,"New York, USA",Middle,Low Risk
+CUST0002939,69,Female,"Lagos, Nigeria",Middle,High Risk
+CUST0002940,40,Male,Singapore,High,High Risk
+CUST0002941,43,Male,"New York, USA",High,Low Risk
+CUST0002942,21,Female,"Lagos, Nigeria",High,Low Risk
+CUST0002943,35,Female,"Johannesburg, South Africa",High,Low Risk
+CUST0002944,72,Female,"Berlin, Germany",Low,Medium Risk
+CUST0002945,23,Male,"Johannesburg, South Africa",Low,Medium Risk
+CUST0002946,52,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0002947,39,Male,"Lagos, Nigeria",Low,Medium Risk
+CUST0002948,60,Female,"Toronto, Canada",Middle,Medium Risk
+CUST0002949,32,Female,Singapore,Low,Medium Risk
+CUST0002950,39,Female,"Dubai, UAE",High,Medium Risk
+CUST0002951,54,Female,"Lagos, Nigeria",High,High Risk
+CUST0002952,69,Male,"Toronto, Canada",Low,Low Risk
+CUST0002953,59,Male,"Dubai, UAE",Low,High Risk
+CUST0002954,29,Male,Singapore,Middle,Medium Risk
+CUST0002955,64,Male,"Johannesburg, South Africa",Middle,Low Risk
+CUST0002956,66,Female,"Berlin, Germany",Middle,Low Risk
+CUST0002957,59,Female,"Berlin, Germany",High,Low Risk
+CUST0002958,55,Female,Singapore,High,High Risk
+CUST0002959,35,Male,Singapore,High,Low Risk
+CUST0002960,62,Male,"New York, USA",High,High Risk
+CUST0002961,52,Female,"Toronto, Canada",Middle,High Risk
+CUST0002962,47,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0002963,41,Male,"Toronto, Canada",High,Medium Risk
+CUST0002964,59,Female,Singapore,High,Low Risk
+CUST0002965,47,Male,"London, UK",High,Low Risk
+CUST0002966,31,Male,"London, UK",Low,Medium Risk
+CUST0002967,23,Male,"Dubai, UAE",Middle,High Risk
+CUST0002968,20,Female,"Dubai, UAE",Middle,High Risk
+CUST0002969,33,Female,"London, UK",High,Medium Risk
+CUST0002970,24,Male,Singapore,Low,High Risk
+CUST0002971,69,Female,Singapore,Middle,Medium Risk
+CUST0002972,31,Male,"Dubai, UAE",Middle,Medium Risk
+CUST0002973,26,Male,"Lagos, Nigeria",High,Low Risk
+CUST0002974,32,Male,Singapore,High,Low Risk
+CUST0002975,38,Male,"London, UK",Middle,Medium Risk
+CUST0002976,52,Female,"Toronto, Canada",Middle,Low Risk
+CUST0002977,19,Male,Singapore,Low,Medium Risk
+CUST0002978,44,Male,"Johannesburg, South Africa",Middle,High Risk
+CUST0002979,19,Female,Singapore,Middle,High Risk
+CUST0002980,52,Male,"Lagos, Nigeria",High,High Risk
+CUST0002981,35,Male,"Dubai, UAE",Middle,High Risk
+CUST0002982,31,Female,Singapore,High,Medium Risk
+CUST0002983,37,Female,"Berlin, Germany",Middle,High Risk
+CUST0002984,35,Female,"New York, USA",Middle,High Risk
+CUST0002985,27,Male,"London, UK",Middle,High Risk
+CUST0002986,42,Female,"Johannesburg, South Africa",Low,High Risk
+CUST0002987,19,Female,"Johannesburg, South Africa",High,Medium Risk
+CUST0002988,42,Male,"Johannesburg, South Africa",Low,High Risk
+CUST0002989,71,Male,"Berlin, Germany",Middle,Low Risk
+CUST0002990,50,Male,"Johannesburg, South Africa",Low,Low Risk
+CUST0002991,53,Male,"Johannesburg, South Africa",High,Low Risk
+CUST0002992,48,Male,"Dubai, UAE",Middle,Low Risk
+CUST0002993,31,Female,"Toronto, Canada",Low,Low Risk
+CUST0002994,18,Female,"New York, USA",Low,Low Risk
+CUST0002995,63,Female,"Berlin, Germany",High,Medium Risk
+CUST0002996,33,Male,"New York, USA",Low,Low Risk
+CUST0002997,71,Male,"London, UK",High,High Risk
+CUST0002998,63,Male,"Dubai, UAE",Middle,Low Risk
+CUST0002999,69,Female,Singapore,Middle,Medium Risk
+CUST0003000,20,Female,"Toronto, Canada",Low,Low Risk
