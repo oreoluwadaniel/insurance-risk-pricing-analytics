@@ -1,61 +1,823 @@
-# Claims Performance & Loss Ratio Analysis
+# Claims Performance & Loss Ratio Intelligence
 
-Part 1 of a 4-part SQL portfolio built on a simulated insurance book of business. This piece looks at one core question: is the premium coming in enough to cover what's going out in claims.
+**A SQL portfolio analytics system for measuring claims exposure against premium, identifying loss-making policies and customer relationships, and detecting product lines where claims performance may require pricing or underwriting review.**
 
-## Business problem
+---
 
-Selling more policies feels like progress, but it only means something if the premium collected actually covers the claims that come with it. A book can grow every quarter and still be quietly losing money if claims are running ahead of premium on the wrong policies, the wrong customers, or an entire product line.
+## Project Overview
 
-This script answers three practical questions that an underwriting or finance team would ask on a normal Monday: which individual policies have paid out more in claims than they've collected in premium, which customers are a net loss across their whole relationship with the company, and which product lines (auto, property, life, health) are the least profitable once claims are taken into account.
+Insurance growth is only valuable when the economics behind that growth work.
 
-## Data source
+More policies create more premium.
 
-The data is a simulated insurance dataset covering 3,000 policies and 3,000 individual claim records. Two tables matter for this analysis:
+They also create more exposure to claims.
 
-policies.csv holds one row per policy: policy ID, customer ID, policy type, premium amount, coverage amount, start and end dates, and an underwriting score. claims.csv holds one row per claim: claim ID, the policy it belongs to, claim amount, claim date, claim type, a fraud flag, and the settlement amount actually paid out.
+A portfolio can therefore grow in customers, policies, and premium while becoming less financially attractive if claims costs rise faster than the premium supporting them.
 
-A policy is not guaranteed to have exactly one claim. Some have none. Others have several, one policy in the sample data has four separate claims against it. That detail turns out to matter a lot for how this script is written.
+The problem is that portfolio-level totals can hide where that deterioration is happening.
 
-## Methodology
+One policy may have already paid out substantially more than its premium.
 
-I started by checking row counts on both tables to confirm the data loaded properly before building anything on top of it. That's a habit worth keeping, it takes two seconds and catches a bad import before it wastes an afternoon.
+One customer may hold several policies that look reasonable individually but become loss-heavy when their total relationship is evaluated.
 
-From there, the approach was to build a clean base layer at the policy level first, then roll that layer up twice: once by customer, once by product line. Claims get aggregated down to one row per policy (total settled, claim count, average claim size) before they're ever joined to the premium amount sitting on the policy record. That ordering is the whole trick to getting this right, and it's explained in detail in the next section.
+An entire product line may generate significant premium while carrying a materially higher loss ratio than the rest of the portfolio.
 
-## Analysis & error check
+This project builds a **claims performance and loss ratio intelligence layer** across a simulated insurance book containing **3,000 policies and 3,000 claims**.
 
-The original script built one wide view that joined policies to claims directly, then joined customers and underwriting data on top of that, all at once. That view had a real problem: because a policy can have more than one claim, joining policies to claims directly means the policy's premium amount gets repeated once for every claim on that policy. Sum that premium up at the customer or policy-type level and you're no longer looking at real premium collected, you're looking at premium collected plus a bunch of extra copies of it, more copies for customers who happened to file more claims.
+It answers three connected questions:
 
-Concretely, in the original script's customer loss exposure query and its policy-type oversight query, SUM(premium_amount) was being calculated on a table where premium had already been duplicated by the claims join. That inflates the premium side of the loss ratio and makes claims performance look better than it actually is, worse for a customer with three claims than for one with a single claim, purely because of how the join fanned out, not because of anything real about their risk.
+> **Which policies are generating the greatest claims exposure relative to premium?**
 
-The fix is the aggregate-then-join pattern used in the script above: collapse claims to one row per policy first (#policy_claims), then join that single row back to the policy record (#policy_financials). Once you're at one row per policy, summing premium at the customer or product-type level is safe because each policy's premium only appears once no matter how many claims it has.
+> **Which customer relationships have claims costs exceeding the premium associated with their policies?**
 
-I also fixed a smaller issue while I was in there. The original loss ratio calculation left policies with zero claims showing a blank value instead of a proper 0, because SUM() over no rows returns NULL, not zero. A blank loss ratio reads like missing data. A policy with genuinely no claims should show a loss ratio of exactly 0, so I wrapped the settlement total in ISNULL() to make that distinction clear.
+> **Which insurance product lines show the weakest claims performance across the portfolio?**
 
-## Insight
+The objective is not simply to calculate loss ratio.
 
-Once the aggregation is done correctly, the three queries in this script give three different lenses on the same underlying problem. The policy-level query surfaces individual outliers, the specific policies where claims have already outpaced premium. The customer-level query catches something the policy view can miss: a customer who is fine on each individual policy but who becomes a net loss once you add up everything they hold with the company. The product-type rollup answers the highest-level version of the question, whether an entire line of business (say, auto versus property) is running a healthier loss ratio than another.
+It is to show **where claims pressure is concentrated and where deeper pricing or underwriting review should begin.**
 
-None of these numbers are meant to shock anyone into action on their own. A high loss ratio on one policy might be a single bad year. A pattern across a whole product line is a different story, and that's the level where this script earns its keep.
+---
 
-## Recommendation
+# Business Problem
 
-Any policy or customer that this script flags with a loss ratio over 1.0 should go on a pricing and underwriting review list, not get auto-flagged as a loss. Some of that is legitimate insurance risk playing out exactly as expected. The value here is turning "which policies should we look at" from a gut-feel question into a short, ranked list.
+Premium volume is one of the easiest insurance metrics to celebrate.
 
-At the product-type level, whichever line comes out with the weakest loss ratio deserves a closer look at its pricing model and underwriting criteria specifically, rather than a blanket premium increase across the whole book.
+But premium without claims context tells only half the financial story.
 
-## Business impact
+Consider two policies:
 
-Run consistently, this kind of query turns loss ratio monitoring from a quarterly surprise into an ongoing check. Catching a mispriced product line or a handful of consistently unprofitable customer relationships early is the difference between a small pricing correction and a much larger one after a year of losses have already piled up.
+```text
+POLICY A
 
-## What was done
+Premium:           $4,000
+Claims Settled:      $800
+Loss Ratio:           20%
+```
 
-I reviewed the original script, found the premium double-counting bug in two of the three rollups, and rebuilt the whole thing around a policy-grain base table that avoids the problem at the source instead of patching around it. I also fixed the NULL-versus-zero loss ratio issue for claim-free policies. All three original business questions (policy loss ratio, customer loss exposure, product-type oversight) are preserved, they just run on a corrected foundation now.
+```text
+POLICY B
 
-## Tools used and how they helped
+Premium:           $4,000
+Claims Settled:    $5,200
+Loss Ratio:          130%
+```
 
-This is written in T-SQL, targeting SQL Server or Azure SQL, matching the dialect of the original script. Temp tables (#policy_claims, #policy_financials) do the heavy lifting here instead of a single nested view, mainly because building the aggregation in two clear steps makes the fan-out bug easy to spot and explain, rather than burying it inside one large multi-join view. NULLIF() guards every division against a divide-by-zero error on a policy with no premium recorded, and ISNULL() turns a missing claims total into a proper zero.
+Both generated the same premium.
 
-## Results
+Their claims performance is completely different.
 
-The corrected script produces three ranked outputs: policies ordered by loss ratio from worst to best, customers whose total settlements exceed their total premium, and product types ranked by overall loss ratio. Each one is now built on premium and claims totals that are counted exactly once per policy, so the numbers reflect real financial exposure rather than an artifact of how many claims happened to attach to a given policy.
+The same problem exists at higher levels of the portfolio.
+
+A customer may hold several policies.
+
+A product line may contain hundreds of policies.
+
+A strong portfolio average can therefore hide pockets of significantly higher claims exposure.
+
+Management needs the ability to move from:
+
+```text
+Portfolio
+   ↓
+Product Line
+   ↓
+Customer
+   ↓
+Policy
+```
+
+and identify exactly where claims are consuming the premium supporting the book.
+
+---
+
+# Business Questions
+
+The analysis focuses on three levels of claims performance.
+
+### Policy Level
+
+Which individual policies have the highest claims-to-premium exposure?
+
+### Customer Level
+
+Which customer relationships have generated more settled claims than the premium associated with their policies?
+
+### Product Level
+
+Which insurance lines carry the highest overall loss ratios?
+
+Together, these provide three different views of the same financial question:
+
+> **Where is claims performance putting the greatest pressure on the insurance book?**
+
+---
+
+# Data Sources
+
+The analysis uses two core datasets.
+
+## `policies.csv`
+
+Contains one row per insurance policy.
+
+Key fields include:
+
+* Policy ID
+* Customer ID
+* Policy Type
+* Premium Amount
+* Coverage Amount
+* Policy Start Date
+* Policy End Date
+* Underwriting Score
+
+The dataset covers **3,000 policies** across multiple insurance product lines, including:
+
+* Auto
+* Property
+* Life
+* Health
+
+---
+
+## `claims.csv`
+
+Contains one row per claim.
+
+Key fields include:
+
+* Claim ID
+* Policy ID
+* Claim Amount
+* Claim Date
+* Claim Type
+* Fraud Flag
+* Settlement Amount
+
+The dataset contains **3,000 individual claims**.
+
+Importantly:
+
+> **One policy can have zero, one, or multiple claims.**
+
+Some policies have no claims.
+
+Others have several.
+
+One policy in the dataset carries four separate claim records.
+
+That relationship is central to the analytical design of this project.
+
+---
+
+# Claims Performance Model
+
+The project follows a simple financial relationship:
+
+```text
+                  PREMIUM
+                     |
+                     ↓
+                  POLICY
+                     |
+                     ↓
+                   CLAIMS
+                     |
+                     ↓
+              SETTLEMENT COST
+                     |
+                     ↓
+                 LOSS RATIO
+                     |
+          -------------------------
+          |           |           |
+          ↓           ↓           ↓
+       POLICY      CUSTOMER     PRODUCT
+       REVIEW       REVIEW       REVIEW
+```
+
+Claims are first consolidated at policy level before any premium comparison occurs.
+
+That ordering prevents one of the most dangerous errors in insurance aggregation: **duplicating premium because one policy has multiple claims.**
+
+---
+
+# Core Metric: Loss Ratio
+
+The primary metric is:
+
+```text
+Loss Ratio
+=
+Total Claims Settled
+────────────────────
+Total Premium
+```
+
+For example:
+
+```text
+Premium:          $10,000
+Claims Settled:    $7,500
+
+Loss Ratio = 0.75
+```
+
+or **75%**.
+
+A higher ratio means more of the premium associated with the policy or portfolio segment has been consumed by settled claims.
+
+A ratio above `1.0` means:
+
+```text
+Settled Claims > Premium
+```
+
+for the scope being measured.
+
+That makes it a useful **review signal**, but not automatic proof that a policy, customer, or product is commercially unprofitable.
+
+The available data does not include the full expense structure needed to calculate underwriting profit, such as acquisition costs, operating expenses, commissions, reserves, or reinsurance.
+
+This project therefore measures **claims performance and premium adequacy signals**, not complete insurance profitability.
+
+---
+
+# Methodology
+
+The analysis is deliberately built at the lowest reliable financial grain first.
+
+## Step 1: Validate the Source Tables
+
+Before calculating any insurance KPI, the script confirms that the policy and claims datasets loaded correctly.
+
+This provides a basic control before downstream financial calculations begin.
+
+---
+
+## Step 2: Aggregate Claims to Policy Level
+
+Claims are first consolidated into:
+
+`#policy_claims`
+
+For each policy, the model calculates:
+
+* Number of Claims
+* Total Settlement Amount
+* Average Claim Size
+
+The result is:
+
+```text
+Many Claim Records
+        ↓
+One Policy Claims Record
+```
+
+This establishes one row per policy before premium enters the calculation.
+
+---
+
+## Step 3: Build Policy Financials
+
+The aggregated claims layer is then joined to the policy table to create:
+
+`#policy_financials`
+
+This combines:
+
+* Policy Premium
+* Coverage
+* Product Type
+* Customer
+* Claim Count
+* Total Settlement
+* Average Claim Size
+* Loss Ratio
+
+Because claims were already aggregated, every policy premium appears exactly once.
+
+---
+
+## Step 4: Analyze Three Levels of Exposure
+
+The policy financial layer is then used for:
+
+```text
+POLICY PERFORMANCE
+        ↓
+Which policies carry the highest loss ratios?
+
+
+CUSTOMER EXPOSURE
+        ↓
+Which customer relationships generate the greatest claims pressure?
+
+
+PRODUCT-LINE PERFORMANCE
+        ↓
+Which insurance products carry the highest overall loss ratios?
+```
+
+This creates a consistent financial foundation across all three levels.
+
+---
+
+# Critical Finding: Premium Was Being Double-Counted
+
+The most important issue identified during review was not a syntax error.
+
+The original SQL ran.
+
+The problem was that its financial totals could be wrong.
+
+The original model joined:
+
+```text
+POLICIES
+    |
+    ↓
+CLAIMS
+```
+
+before aggregating premium.
+
+That is unsafe because the relationship is one-to-many.
+
+Consider one policy:
+
+```text
+Policy ID:        P1001
+Premium:          $4,000
+```
+
+with three claims:
+
+```text
+Claim 1
+Claim 2
+Claim 3
+```
+
+A direct join produces:
+
+```text
+P1001 | $4,000 | Claim 1
+P1001 | $4,000 | Claim 2
+P1001 | $4,000 | Claim 3
+```
+
+The policy still generated only:
+
+```text
+$4,000
+```
+
+of premium.
+
+But:
+
+```sql
+SUM(premium_amount)
+```
+
+on the joined dataset returns:
+
+```text
+$12,000
+```
+
+The premium has been counted three times.
+
+---
+
+# Why This Matters
+
+This is not a cosmetic data issue.
+
+It changes the business conclusion.
+
+Suppose the three claims produced:
+
+```text
+Total Settlements: $5,000
+Actual Premium:    $4,000
+```
+
+The correct loss ratio is:
+
+```text
+$5,000 / $4,000 = 1.25
+```
+
+or **125%**.
+
+The policy has generated settled claims exceeding its premium.
+
+Using the duplicated premium:
+
+```text
+$5,000 / $12,000 = 0.417
+```
+
+or approximately **41.7%**.
+
+The exact same policy can therefore appear relatively healthy instead of claims-heavy purely because of a join error.
+
+That is why analytical grain matters in financial SQL.
+
+---
+
+# Correction: Aggregate First, Join Second
+
+The corrected model reverses the order.
+
+Instead of:
+
+```text
+POLICIES
+    ↓
+CLAIMS
+    ↓
+AGGREGATE
+```
+
+the project uses:
+
+```text
+CLAIMS
+    ↓
+AGGREGATE BY POLICY
+    ↓
+ONE CLAIMS RECORD PER POLICY
+    ↓
+JOIN TO POLICIES
+```
+
+The resulting structure is:
+
+```text
+Policy ID | Premium | Claim Count | Total Settlement
+-----------------------------------------------------
+P1001     | $4,000  |      3      | $5,000
+```
+
+Now premium appears once regardless of whether the policy has:
+
+* 0 claims
+* 1 claim
+* 4 claims
+* 20 claims
+
+That makes customer and product-level aggregation financially consistent.
+
+---
+
+# Second Correction: No Claims Should Mean Zero Claims
+
+The original calculation also produced `NULL` loss ratios for policies without claims.
+
+But:
+
+```text
+No Claims ≠ Missing Claims Data
+```
+
+If a policy has premium but no recorded claims, the claims total for this analysis is zero.
+
+The corrected logic uses `ISNULL()` so a claim-free policy returns:
+
+```text
+Total Settlement = 0
+Loss Ratio        = 0
+```
+
+rather than a blank value that could be mistaken for missing information.
+
+`NULLIF()` is also used to protect the calculation where premium is zero.
+
+---
+
+# Policy-Level Claims Intelligence
+
+The first output ranks policies by loss ratio.
+
+This surfaces policies where claims have consumed the greatest share of premium.
+
+A high-loss-ratio policy becomes a candidate for investigation into factors such as:
+
+* Claims History
+* Underwriting Score
+* Coverage Structure
+* Pricing Adequacy
+* Renewal Terms
+
+The purpose is not to automatically penalize a policy after one bad claim.
+
+Insurance exists specifically because losses occur.
+
+The purpose is to make unusual or sustained claims exposure visible.
+
+---
+
+# Customer-Level Exposure
+
+Policy-level analysis can miss an important commercial pattern.
+
+One customer may hold multiple policies.
+
+Individually, none may appear extreme.
+
+Together, the relationship may carry significantly greater claims exposure.
+
+The customer-level analysis aggregates:
+
+```text
+All Customer Policies
+        +
+All Associated Premium
+        +
+All Associated Settlements
+        ↓
+Customer Claims Performance
+```
+
+This helps identify customer relationships where total settlements exceed total premium across the policies represented in the dataset.
+
+That gives underwriting and account teams a broader view than reviewing policies independently.
+
+---
+
+# Product-Line Claims Performance
+
+The highest management-level view compares performance across:
+
+* Auto
+* Property
+* Life
+* Health
+
+For each product type, the analysis evaluates total premium against total settled claims.
+
+This helps answer:
+
+> **Are claims pressures isolated to individual policies, or concentrated across an entire insurance product?**
+
+That distinction changes the response.
+
+One unusual policy may require individual review.
+
+A product line consistently carrying weaker claims performance may require investigation into:
+
+* Pricing Assumptions
+* Underwriting Criteria
+* Coverage Terms
+* Claims Severity
+* Customer Mix
+
+That is a portfolio problem rather than an isolated claim problem.
+
+---
+
+# From Monitoring to Action
+
+The outputs support a review hierarchy:
+
+```text
+HIGH LOSS RATIO
+      |
+      ↓
+Isolated Policy?
+      |
+      ├── YES → Policy Review
+      |
+      ↓ NO
+Customer Pattern?
+      |
+      ├── YES → Customer / Account Review
+      |
+      ↓ NO
+Product Pattern?
+      |
+      └── YES → Pricing & Underwriting Review
+```
+
+This prevents every high ratio from being treated as the same problem.
+
+---
+
+# Business Recommendations
+
+## 1. Create a Loss Ratio Review Queue
+
+Policies and customers where settled claims exceed premium should move into a structured review queue.
+
+That review should consider the wider underwriting context before any decision is made.
+
+The metric identifies where to investigate.
+
+It should not make the underwriting decision itself.
+
+---
+
+## 2. Review Product Lines Separately
+
+If one insurance line consistently produces a higher loss ratio than the rest of the portfolio, investigate that product specifically.
+
+A portfolio-wide premium increase would be a weak response if the claims problem is concentrated in one line.
+
+The review should examine:
+
+* Pricing
+* Coverage
+* Underwriting Criteria
+* Claims Severity
+* Risk Mix
+
+at product level.
+
+---
+
+## 3. Track Claims Performance Over Time
+
+The current analysis provides a portfolio performance view from the available records.
+
+A production version should extend this into periodic monitoring.
+
+For example:
+
+```text
+Monthly Loss Ratio
+      ↓
+Quarterly Trend
+      ↓
+Product Movement
+      ↓
+Customer / Policy Drill-Down
+```
+
+This would help identify deterioration earlier instead of discovering it after substantial claims exposure has accumulated.
+
+---
+
+## 4. Add Full Underwriting Economics
+
+Loss ratio is only one component of insurance profitability.
+
+A stronger profitability model should eventually include:
+
+* Acquisition Costs
+* Commissions
+* Operating Expenses
+* Claims Handling Costs
+* Reinsurance
+* Reserves
+
+That would allow the analysis to progress from:
+
+> **Claims Performance**
+
+to:
+
+> **Underwriting Profitability**
+
+---
+
+# Business Value
+
+The project provides value at three levels.
+
+## Portfolio Visibility
+
+Management can see whether claims exposure is concentrated in particular policies, customers, or products instead of relying only on portfolio totals.
+
+## Pricing & Underwriting Prioritization
+
+Teams receive a ranked starting point for reviewing areas where claims have consumed unusually high amounts of premium.
+
+## Financial Accuracy
+
+Correcting the one-to-many join problem prevents duplicated premium from making loss ratios appear artificially stronger.
+
+That last point is critical.
+
+Bad financial reporting does not always produce obviously absurd numbers.
+
+Sometimes it produces believable numbers that lead to the wrong decision.
+
+This project specifically protects against that failure mode.
+
+---
+
+# What Was Built
+
+The final analysis includes:
+
+* Policy-Level Claims Aggregation
+* Policy-Level Loss Ratio Analysis
+* Customer Claims Exposure Analysis
+* Product-Line Loss Ratio Analysis
+* Claim Count per Policy
+* Average Claim Size
+* Claim-Free Policy Handling
+* Divide-by-Zero Protection
+* One-to-Many Join Correction
+* Ranked Review Outputs
+
+All three original business questions remain intact, but they now operate on a corrected policy-grain financial model.
+
+---
+
+# Tools & Techniques
+
+### T-SQL
+
+The project targets SQL Server and Azure SQL.
+
+### Temporary Tables
+
+`#policy_claims` and `#policy_financials` separate claims aggregation from policy-level financial analysis.
+
+This makes the analytical grain explicit and prevents premium duplication.
+
+### `GROUP BY`
+
+Aggregates multiple claim records into one policy-level claims profile.
+
+### `ISNULL()`
+
+Converts legitimate no-claim cases into zero instead of leaving misleading blank values.
+
+### `NULLIF()`
+
+Protects financial ratios against division by zero.
+
+### Aggregate-Then-Join Pattern
+
+The most important modeling technique in the project.
+
+One-to-many claims data is consolidated before being joined to policy-level financial values.
+
+This ensures premium is counted exactly once per policy.
+
+---
+
+# Skills Demonstrated
+
+This project demonstrates proficiency in:
+
+* SQL
+* T-SQL
+* Insurance Analytics
+* Claims Analytics
+* Loss Ratio Analysis
+* Portfolio Performance Analysis
+* Financial Analytics
+* Insurance Risk Analysis
+* Data Modeling
+* One-to-Many Relationship Management
+* Analytical Grain Control
+* SQL Debugging
+* Financial Metric Validation
+* KPI Development
+* Data Quality Handling
+* Business Decision Support
+
+---
+
+# Results
+
+The completed system produces three decision-ready views of claims performance:
+
+### Policy View
+
+Ranks policies by claims exposure relative to premium and surfaces individual policies requiring closer review.
+
+### Customer View
+
+Identifies customer relationships where total settled claims exceed the total premium associated with their policies.
+
+### Product View
+
+Compares loss ratios across insurance product lines to identify where claims pressure is concentrated at portfolio level.
+
+More importantly, the analysis corrects a structural issue that could materially change those conclusions.
+
+Premium is no longer duplicated when a policy has multiple claims.
+
+Claim-free policies correctly report zero claims exposure instead of appearing as missing data.
+
+The final model therefore provides a financially consistent foundation for answering:
+
+> **Where are claims consuming premium?**
+
+> **Is the problem isolated to individual policies or customers?**
+
+> **Is claims pressure concentrated in a particular product line?**
+
+> **And where should underwriting or pricing teams investigate first?**
+
+The result is not simply a loss ratio calculation.
+
+It is a **claims performance monitoring and portfolio review system** designed to help an insurer identify where claims exposure is putting pressure on the book, while preserving the analytical grain required for those decisions to be trusted.
